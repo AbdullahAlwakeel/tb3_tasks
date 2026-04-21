@@ -1,0 +1,5 @@
+Blackjack trace
+Mode: interactive
+Random seed set once at startup: 108200680971132171865054255485414750219001741649913586564256750590888507912566
+Rounds scheduled: 50
+

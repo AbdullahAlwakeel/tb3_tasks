@@ -1,0 +1,43 @@
+Blackjack trace
+Mode: interactive
+Random seed set once at startup: 6420119009801304627906929266863069685878987847338679134315437120140305031257
+Rounds scheduled: 50
+
+Round 1
+Player starting hand: 10 of clubs, K of clubs (20)
+Dealer starting hand: K of hearts, 5 of spades (15)
+Player hits and draws A of clubs; total is 21
+Player has 21
+Dealer hits and draws 4 of clubs; total is 19
+Final player total: 21
+Final dealer total: 19
+Result: player beat the dealer
+Dealer beaten count so far: 1
+
+Round 2
+Player starting hand: 10 of spades, J of spades (20)
+Dealer starting hand: K of diamonds, 4 of spades (14)
+Player hits and draws 5 of hearts; total is 25
+Player busts at 25
+Result: dealer was not beaten
+Dealer beaten count so far: 1
+
+Round 3
+Player starting hand: 8 of diamonds, 7 of spades (15)
+Dealer starting hand: 6 of spades, Q of spades (16)
+Player stands at 15
+Dealer hits and draws K of spades; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 2
+
+Round 4
+Player starting hand: 3 of clubs, 8 of clubs (11)
+Dealer starting hand: Q of hearts, 7 of diamonds (17)
+Player hits and draws 9 of spades; total is 20
+Player stands at 20
+Final player total: 20
+Final dealer total: 17
+Result: player beat the dealer
+Dealer beaten count so far: 3
+

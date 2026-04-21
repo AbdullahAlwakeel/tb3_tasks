@@ -1,0 +1,456 @@
+Blackjack trace
+Mode: automatic
+Random seed set once at startup: 75085343197270751594325176173054278900014143436535615245649969616591820421707
+Rounds scheduled: 50
+
+Round 1
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 1
+
+Round 2
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 2
+
+Round 3
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 3
+
+Round 4
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 4
+
+Round 5
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 5
+
+Round 6
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 6
+
+Round 7
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 7
+
+Round 8
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 8
+
+Round 9
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 9
+
+Round 10
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 10
+
+Round 11
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 11
+
+Round 12
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 12
+
+Round 13
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 13
+
+Round 14
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 14
+
+Round 15
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 15
+
+Round 16
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 16
+
+Round 17
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 17
+
+Round 18
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 18
+
+Round 19
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 19
+
+Round 20
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 20
+
+Round 21
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 21
+
+Round 22
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 22
+
+Round 23
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 23
+
+Round 24
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 24
+
+Round 25
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 25
+
+Round 26
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 26
+
+Round 27
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 27
+
+Round 28
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 28
+
+Round 29
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 29
+
+Round 30
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 30
+
+Round 31
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 31
+
+Round 32
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 32
+
+Round 33
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 33
+
+Round 34
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 34
+
+Round 35
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 35
+
+Round 36
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 36
+
+Round 37
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 37
+
+Round 38
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 38
+
+Round 39
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 39
+
+Round 40
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 40
+
+Round 41
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 41
+
+Round 42
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 42
+
+Round 43
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 43
+
+Round 44
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 44
+
+Round 45
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 45
+
+Round 46
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 46
+
+Round 47
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 47
+
+Round 48
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 48
+
+Round 49
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 49
+
+Round 50
+Player starting hand: A of hearts, K of hearts (21)
+Dealer starting hand: 9 of hearts, 7 of hearts (16)
+Player has 21
+Dealer hits and draws K of hearts; total is 26
+Dealer busts at 26
+Result: player beat the dealer
+Dealer beaten count so far: 50
+
+Final dealer beaten count: 50
