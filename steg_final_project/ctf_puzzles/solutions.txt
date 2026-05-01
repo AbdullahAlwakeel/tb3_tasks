@@ -1,0 +1,15 @@
+seed: 321
+count: 10
+
+file | secret | source image | depth | puzzle type | solution path
+--------------------------------------------------------------------------------------------------------------
+ctf_puzzles/puzzle_0001_depth1.png | secret{743b10a6} | src_images/airplane_orig.jpg | 1 | append_text | strings or inspect PNG trailer data
+ctf_puzzles/puzzle_0002_depth1.png | secret{03de4c47} | src_images/airplane_wcapcha.jpg | 1 | metadata_text | exiftool ImageDescription -> base64 decode -> skip 4-byte length prefix
+ctf_puzzles/puzzle_0003_depth1.png | secret{f79147d4} | src_images/reflect_sea.jpg | 1 | lsb_text | zsteg b1,rgb,lsb,xy
+ctf_puzzles/puzzle_0004_depth1.png | secret{ebccf68e} | src_images/Bliss_(Windows_XP).png | 1 | alpha_lsb_text | zsteg b1,a,lsb,xy
+ctf_puzzles/puzzle_0005_depth1.png | secret{635f03c3} | src_images/reflect_sea.jpg | 1 | low_contrast_text | visually enhance local contrast or inspect manually
+ctf_puzzles/puzzle_0006_depth2.png | secret{31ec59ec} | src_images/Bliss_(Windows_XP).png | 2 | metadata_wraps_lsb_image | exiftool metadata -> base64 decode -> skip 4-byte length prefix -> inner PNG -> zsteg b1,rgb,lsb,xy
+ctf_puzzles/puzzle_0007_depth2.png | secret{35ea012c} | src_images/airplane_wcapcha.jpg | 2 | alpha_wraps_metadata_image | zsteg b1,a,lsb,xy -> skip 4-byte length prefix -> inner PNG -> exiftool metadata
+ctf_puzzles/puzzle_0008_depth2.png | secret{6ef30bc4} | src_images/airplane_wcapcha.jpg | 2 | append_wraps_lsb_image | extract PNG trailer payload -> skip 4-byte length prefix -> inner PNG -> zsteg b1,rgb,lsb,xy
+ctf_puzzles/puzzle_0009_depth2.png | secret{407239bb} | src_images/reflect_sea.jpg | 2 | lsb_wraps_low_contrast_image | zsteg b1,rgb,lsb,xy -> skip 4-byte length prefix -> inner PNG -> visually enhance/read text
+ctf_puzzles/puzzle_0010_depth2.png | secret{5cabdf2f} | src_images/airplane_orig.jpg | 2 | alpha_wraps_low_contrast_image | zsteg b1,a,lsb,xy -> skip 4-byte length prefix -> inner PNG -> visually enhance/read text

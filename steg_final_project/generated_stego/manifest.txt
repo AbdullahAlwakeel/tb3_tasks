@@ -1,0 +1,12 @@
+seed: 123
+count: 7
+
+secret | source image | output image | transformations
+------------------------------------------------------------------------------
+secret{d6a82a95} | src_images/Bliss_(Windows_XP).png | generated_stego/stego_0001_depth1.png | LowContrastEmbed(delta=5, position=(10,10), font_size=24)
+secret{610e4ad5} | src_images/airplane_wcapcha.jpg | generated_stego/stego_0002_depth1.png | AlphaEmbed
+secret{573e8d77} | src_images/Bliss_(Windows_XP).png | generated_stego/stego_0003_depth1.png | AppendEmbed
+secret{28dfa298} | src_images/airplane_orig.jpg | generated_stego/stego_0004_depth2.png | AlphaEmbed -> MetadataEmbed
+secret{5653d4bd} | src_images/airplane_wcapcha.jpg | generated_stego/stego_0005_depth2.png | LowContrastEmbed(delta=5, position=(10,10), font_size=24) -> AlphaEmbed
+secret{b3a1f131} | src_images/airplane_orig.jpg | generated_stego/stego_0006_depth2.png | XOR(key=xor-key-006d7b3429ed479c) -> AppendEmbed
+secret{e7e96d54} | src_images/reflect_sea.jpg | generated_stego/stego_0007_depth2.png | XOR(key=xor-key-166dd683c609dcba) -> LSBEmbed

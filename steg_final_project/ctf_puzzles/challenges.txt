@@ -1,0 +1,15 @@
+seed: 321
+count: 10
+
+file | source image | depth | puzzle type
+------------------------------------------------------------------------------
+ctf_puzzles/puzzle_0001_depth1.png | src_images/airplane_orig.jpg | 1 | append_text
+ctf_puzzles/puzzle_0002_depth1.png | src_images/airplane_wcapcha.jpg | 1 | metadata_text
+ctf_puzzles/puzzle_0003_depth1.png | src_images/reflect_sea.jpg | 1 | lsb_text
+ctf_puzzles/puzzle_0004_depth1.png | src_images/Bliss_(Windows_XP).png | 1 | alpha_lsb_text
+ctf_puzzles/puzzle_0005_depth1.png | src_images/reflect_sea.jpg | 1 | low_contrast_text
+ctf_puzzles/puzzle_0006_depth2.png | src_images/Bliss_(Windows_XP).png | 2 | metadata_wraps_lsb_image
+ctf_puzzles/puzzle_0007_depth2.png | src_images/airplane_wcapcha.jpg | 2 | alpha_wraps_metadata_image
+ctf_puzzles/puzzle_0008_depth2.png | src_images/airplane_wcapcha.jpg | 2 | append_wraps_lsb_image
+ctf_puzzles/puzzle_0009_depth2.png | src_images/reflect_sea.jpg | 2 | lsb_wraps_low_contrast_image
+ctf_puzzles/puzzle_0010_depth2.png | src_images/airplane_orig.jpg | 2 | alpha_wraps_low_contrast_image
