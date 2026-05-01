@@ -1,0 +1,27 @@
+seed: 16938433693753131896
+count: 22
+
+file | secret | source image | depth | puzzle type | solution path
+--------------------------------------------------------------------------------------------------------------
+puzzle_datasets/6/puzzle_0001.png | secret{96695797} | src_images/mario_64.png | 2 | append_wraps_lsb_image_plain | extract PNG trailer payload -> skip 4-byte length prefix -> inner PNG -> zsteg b1,rgb,lsb,xy -> skip 4-byte length prefix
+puzzle_datasets/6/puzzle_0002.png | secret{678b4f5b} | src_images/airplane_orig.jpg | 2 | lsb_wraps_low_contrast_image_base64 | zsteg b1,rgb,lsb,xy -> skip 4-byte length prefix -> base64 decode -> inner PNG -> visually enhance/read text -> base64 decode
+puzzle_datasets/6/puzzle_0003.png | secret{08dac301} | src_images/reflect_sea.jpg | 1 | low_contrast_text_plain | visually enhance local contrast or inspect manually near position=(1240, 10)
+puzzle_datasets/6/puzzle_0004.png | secret{5a7ec976} | src_images/robot.JPG | 2 | alpha_wraps_low_contrast_image_plain | zsteg b1,a,lsb,xy -> skip 4-byte length prefix -> inner PNG -> visually enhance/read text
+puzzle_datasets/6/puzzle_0005.png | secret{c67c6990} | src_images/ut_austin.JPG | 2 | alpha_wraps_low_contrast_image_base64 | zsteg b1,a,lsb,xy -> skip 4-byte length prefix -> base64 decode -> inner PNG -> visually enhance/read text -> base64 decode
+puzzle_datasets/6/puzzle_0006.png | secret{aec9ba86} | src_images/chess_board.JPG | 1 | append_text_plain | strings or inspect PNG trailer data -> skip 4-byte length prefix
+puzzle_datasets/6/puzzle_0007.png | secret{f6eee454} | src_images/painting_1.JPG | 1 | low_contrast_text_base64 | visually enhance local contrast or inspect manually near position=(2410, 2140) -> base64 decode
+puzzle_datasets/6/puzzle_0008.png | secret{02b47fbf} | src_images/big_bend.JPG | 2 | metadata_wraps_lsb_image_plain | exiftool metadata -> base64 decode -> skip 4-byte length prefix -> inner PNG -> zsteg b1,rgb,lsb,xy -> skip 4-byte length prefix
+puzzle_datasets/6/puzzle_0009.png | secret{2b190b60} | src_images/poincare.PNG | 1 | metadata_text_base64 | exiftool ImageDescription -> base64 decode -> skip 4-byte length prefix -> base64 decode
+puzzle_datasets/6/puzzle_0010.png | secret{6332cb14} | src_images/birb.JPG | 2 | lsb_wraps_metadata_image_plain | zsteg b1,rgb,lsb,xy -> skip 4-byte length prefix -> inner PNG -> exiftool ImageDescription -> base64 decode -> skip 4-byte length prefix
+puzzle_datasets/6/puzzle_0011.png | secret{f7031f1c} | src_images/calligraphy.JPG | 2 | lsb_wraps_metadata_image_base64 | zsteg b1,rgb,lsb,xy -> skip 4-byte length prefix -> base64 decode -> inner PNG -> exiftool ImageDescription -> base64 decode -> skip 4-byte length prefix -> base64 decode
+puzzle_datasets/6/puzzle_0012.png | secret{8c21e526} | src_images/notebook.JPG | 1 | lsb_text_base64 | zsteg b1,rgb,lsb,xy -> skip 4-byte length prefix -> base64 decode
+puzzle_datasets/6/puzzle_0013.png | secret{2f660173} | src_images/simplicity.jpg | 2 | alpha_wraps_metadata_image_base64 | zsteg b1,a,lsb,xy -> skip 4-byte length prefix -> base64 decode -> inner PNG -> exiftool ImageDescription -> base64 decode -> skip 4-byte length prefix -> base64 decode
+puzzle_datasets/6/puzzle_0014.png | secret{0d7002fe} | src_images/keyboard.jpg | 2 | metadata_wraps_lsb_image_base64 | exiftool metadata -> base64 decode -> skip 4-byte length prefix -> base64 decode -> inner PNG -> zsteg b1,rgb,lsb,xy -> skip 4-byte length prefix -> base64 decode
+puzzle_datasets/6/puzzle_0015.png | secret{02189067} | src_images/long_road.JPG | 2 | append_wraps_lsb_image_base64 | extract PNG trailer payload -> skip 4-byte length prefix -> base64 decode -> inner PNG -> zsteg b1,rgb,lsb,xy -> skip 4-byte length prefix -> base64 decode
+puzzle_datasets/6/puzzle_0016.png | secret{73215fb6} | src_images/book.jpg | 2 | alpha_wraps_metadata_image_plain | zsteg b1,a,lsb,xy -> skip 4-byte length prefix -> inner PNG -> exiftool ImageDescription -> base64 decode -> skip 4-byte length prefix
+puzzle_datasets/6/puzzle_0017.png | secret{59d4f83b} | src_images/Bliss_(Windows_XP).png | 1 | lsb_text_plain | zsteg b1,rgb,lsb,xy -> skip 4-byte length prefix
+puzzle_datasets/6/puzzle_0018.png | secret{dee1165d} | src_images/contraption.jpg | 1 | metadata_text_plain | exiftool ImageDescription -> base64 decode -> skip 4-byte length prefix
+puzzle_datasets/6/puzzle_0019.png | secret{d3df68ae} | src_images/portal.PNG | 1 | append_text_base64 | strings or inspect PNG trailer data -> skip 4-byte length prefix -> base64 decode
+puzzle_datasets/6/puzzle_0020.png | secret{d1bf3b92} | src_images/cat.JPG | 1 | alpha_lsb_text_base64 | zsteg b1,a,lsb,xy -> skip 4-byte length prefix -> base64 decode
+puzzle_datasets/6/puzzle_0021.png | secret{0be090b7} | src_images/dark_road.JPG | 1 | alpha_lsb_text_plain | zsteg b1,a,lsb,xy -> skip 4-byte length prefix
+puzzle_datasets/6/puzzle_0022.png | secret{6e835836} | src_images/hw_solution.JPG | 2 | lsb_wraps_low_contrast_image_plain | zsteg b1,rgb,lsb,xy -> skip 4-byte length prefix -> inner PNG -> visually enhance/read text

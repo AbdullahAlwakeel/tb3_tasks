@@ -34,15 +34,29 @@ from stego_transforms import (
 
 NUM_PUZZLES = {1: 5, 2: 5}
 SRC_DIR = Path("src_images")
-OUT_DIR = Path("ctf_puzzles")
+OUT_DIR = Path("puzzle_datasets")
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".bmp", ".tif", ".tiff", ".webp"}
+BASE64_VARIANTS = (False, True)
+ITERATIONS = 10
+PAIRING_ATTEMPTS = 250
 
 
 @dataclass(frozen=True)
 class PuzzleTemplate:
     name: str
     depth: int
-    build: Callable[[Image.Image, str, random.Random], tuple[Image.Image, str]]
+    build: Callable[[Image.Image, str, random.Random, bool], tuple[Image.Image, str]]
+
+
+@dataclass(frozen=True)
+class PuzzleVariant:
+    template: PuzzleTemplate
+    use_base64: bool
+
+    @property
+    def name(self) -> str:
+        suffix = "base64" if self.use_base64 else "plain"
+        return f"{self.template.name}_{suffix}"
 
 
 def secret_for(rng: random.Random) -> str:
@@ -100,23 +114,73 @@ def smooth_text_position(image: Image.Image, box: tuple[int, int] = (520, 120)) 
     return best
 
 
-def one_lsb(cover: Image.Image, secret: str, rng: random.Random) -> tuple[Image.Image, str]:
-    return LSBEmbed.embed(text_to_bytes(secret), cover), "zsteg b1,rgb,lsb,xy"
+def maybe_base64(use_base64: bool) -> str:
+    return " -> base64 decode" if use_base64 else ""
 
 
-def one_alpha(cover: Image.Image, secret: str, rng: random.Random) -> tuple[Image.Image, str]:
-    return AlphaEmbed.embed(text_to_bytes(secret), cover), "zsteg b1,a,lsb,xy"
+def framed_step(use_base64: bool) -> str:
+    return f"skip 4-byte length prefix{maybe_base64(use_base64)}"
 
 
-def one_append(cover: Image.Image, secret: str, rng: random.Random) -> tuple[Image.Image, str]:
-    return AppendEmbed.embed(text_to_bytes(secret), cover), "strings or inspect PNG trailer data"
+def lsb_step(use_base64: bool) -> str:
+    return f"zsteg b1,rgb,lsb,xy -> {framed_step(use_base64)}"
 
 
-def one_metadata(cover: Image.Image, secret: str, rng: random.Random) -> tuple[Image.Image, str]:
-    return MetadataEmbed.embed(text_to_bytes(secret), cover), "exiftool ImageDescription -> base64 decode -> skip 4-byte length prefix"
+def alpha_step(use_base64: bool) -> str:
+    return f"zsteg b1,a,lsb,xy -> {framed_step(use_base64)}"
 
 
-def one_low_contrast(cover: Image.Image, secret: str, rng: random.Random) -> tuple[Image.Image, str]:
+def metadata_step(use_base64: bool) -> str:
+    return f"exiftool ImageDescription -> base64 decode -> {framed_step(use_base64)}"
+
+
+def append_step(use_base64: bool) -> str:
+    return f"strings or inspect PNG trailer data -> {framed_step(use_base64)}"
+
+
+def inner_png_step(use_base64: bool) -> str:
+    return f"{framed_step(use_base64)} -> inner PNG"
+
+
+def one_lsb(
+    cover: Image.Image, secret: str, rng: random.Random, use_base64: bool
+) -> tuple[Image.Image, str]:
+    return (
+        LSBEmbed.embed(text_to_bytes(secret), cover, use_base64=use_base64),
+        lsb_step(use_base64),
+    )
+
+
+def one_alpha(
+    cover: Image.Image, secret: str, rng: random.Random, use_base64: bool
+) -> tuple[Image.Image, str]:
+    return (
+        AlphaEmbed.embed(text_to_bytes(secret), cover, use_base64=use_base64),
+        alpha_step(use_base64),
+    )
+
+
+def one_append(
+    cover: Image.Image, secret: str, rng: random.Random, use_base64: bool
+) -> tuple[Image.Image, str]:
+    return (
+        AppendEmbed.embed(text_to_bytes(secret), cover, use_base64=use_base64),
+        append_step(use_base64),
+    )
+
+
+def one_metadata(
+    cover: Image.Image, secret: str, rng: random.Random, use_base64: bool
+) -> tuple[Image.Image, str]:
+    return (
+        MetadataEmbed.embed(text_to_bytes(secret), cover, use_base64=use_base64),
+        metadata_step(use_base64),
+    )
+
+
+def one_low_contrast(
+    cover: Image.Image, secret: str, rng: random.Random, use_base64: bool
+) -> tuple[Image.Image, str]:
     position = smooth_text_position(cover)
     return (
         LowContrastEmbed.embed(
@@ -126,24 +190,38 @@ def one_low_contrast(cover: Image.Image, secret: str, rng: random.Random) -> tup
             position=position,
             font_size=36,
             wrap_width=60,
+            use_base64=use_base64,
         ),
-        f"visually enhance local contrast or inspect manually near position={position}",
+        "visually enhance local contrast or inspect manually near "
+        f"position={position}{maybe_base64(use_base64)}",
     )
 
 
-def inner_lsb_image(secret: str, rng: random.Random) -> Image.Image:
-    return LSBEmbed.embed(text_to_bytes(secret), inner_canvas(secret, rng))
+def inner_lsb_image(secret: str, rng: random.Random, use_base64: bool) -> Image.Image:
+    return LSBEmbed.embed(
+        text_to_bytes(secret),
+        inner_canvas(secret, rng),
+        use_base64=use_base64,
+    )
 
 
-def inner_alpha_image(secret: str, rng: random.Random) -> Image.Image:
-    return AlphaEmbed.embed(text_to_bytes(secret), inner_canvas(secret, rng))
+def inner_alpha_image(secret: str, rng: random.Random, use_base64: bool) -> Image.Image:
+    return AlphaEmbed.embed(
+        text_to_bytes(secret),
+        inner_canvas(secret, rng),
+        use_base64=use_base64,
+    )
 
 
-def inner_metadata_image(secret: str, rng: random.Random) -> Image.Image:
-    return MetadataEmbed.embed(text_to_bytes(secret), inner_canvas(secret, rng))
+def inner_metadata_image(secret: str, rng: random.Random, use_base64: bool) -> Image.Image:
+    return MetadataEmbed.embed(
+        text_to_bytes(secret),
+        inner_canvas(secret, rng),
+        use_base64=use_base64,
+    )
 
 
-def inner_low_contrast_image(secret: str, rng: random.Random) -> Image.Image:
+def inner_low_contrast_image(secret: str, rng: random.Random, use_base64: bool) -> Image.Image:
     return LowContrastEmbed.embed(
         text_to_bytes(secret),
         inner_canvas(secret, rng),
@@ -151,55 +229,80 @@ def inner_low_contrast_image(secret: str, rng: random.Random) -> Image.Image:
         position=(18, 72),
         font_size=36,
         wrap_width=60,
+        use_base64=use_base64,
     )
 
 
 def two_outer_lsb_inner_metadata(
-    cover: Image.Image, secret: str, rng: random.Random
+    cover: Image.Image, secret: str, rng: random.Random, use_base64: bool
 ) -> tuple[Image.Image, str]:
-    inner = inner_metadata_image(secret, rng)
-    outer = LSBEmbed.embed(image_to_bytes(inner), cover)
-    return outer, "zsteg b1,rgb,lsb,xy -> skip 4-byte length prefix -> inner PNG -> exiftool metadata"
+    inner = inner_metadata_image(secret, rng, use_base64)
+    outer = LSBEmbed.embed(image_to_bytes(inner), cover, use_base64=use_base64)
+    return (
+        outer,
+        f"zsteg b1,rgb,lsb,xy -> {inner_png_step(use_base64)} -> "
+        f"{metadata_step(use_base64)}",
+    )
 
 
 def two_outer_alpha_inner_metadata(
-    cover: Image.Image, secret: str, rng: random.Random
+    cover: Image.Image, secret: str, rng: random.Random, use_base64: bool
 ) -> tuple[Image.Image, str]:
-    inner = inner_metadata_image(secret, rng)
-    outer = AlphaEmbed.embed(image_to_bytes(inner), cover)
-    return outer, "zsteg b1,a,lsb,xy -> skip 4-byte length prefix -> inner PNG -> exiftool metadata"
+    inner = inner_metadata_image(secret, rng, use_base64)
+    outer = AlphaEmbed.embed(image_to_bytes(inner), cover, use_base64=use_base64)
+    return (
+        outer,
+        f"zsteg b1,a,lsb,xy -> {inner_png_step(use_base64)} -> "
+        f"{metadata_step(use_base64)}",
+    )
 
 
 def two_outer_metadata_inner_lsb(
-    cover: Image.Image, secret: str, rng: random.Random
+    cover: Image.Image, secret: str, rng: random.Random, use_base64: bool
 ) -> tuple[Image.Image, str]:
-    inner = inner_lsb_image(secret, rng)
-    outer = MetadataEmbed.embed(image_to_bytes(inner), cover)
-    return outer, "exiftool metadata -> base64 decode -> skip 4-byte length prefix -> inner PNG -> zsteg b1,rgb,lsb,xy"
+    inner = inner_lsb_image(secret, rng, use_base64)
+    outer = MetadataEmbed.embed(image_to_bytes(inner), cover, use_base64=use_base64)
+    return (
+        outer,
+        f"exiftool metadata -> base64 decode -> {inner_png_step(use_base64)} -> "
+        f"{lsb_step(use_base64)}",
+    )
 
 
 def two_outer_append_inner_lsb(
-    cover: Image.Image, secret: str, rng: random.Random
+    cover: Image.Image, secret: str, rng: random.Random, use_base64: bool
 ) -> tuple[Image.Image, str]:
-    inner = inner_lsb_image(secret, rng)
-    outer = AppendEmbed.embed(image_to_bytes(inner), cover)
-    return outer, "extract PNG trailer payload -> skip 4-byte length prefix -> inner PNG -> zsteg b1,rgb,lsb,xy"
+    inner = inner_lsb_image(secret, rng, use_base64)
+    outer = AppendEmbed.embed(image_to_bytes(inner), cover, use_base64=use_base64)
+    return (
+        outer,
+        f"extract PNG trailer payload -> {inner_png_step(use_base64)} -> "
+        f"{lsb_step(use_base64)}",
+    )
 
 
 def two_outer_lsb_inner_low_contrast(
-    cover: Image.Image, secret: str, rng: random.Random
+    cover: Image.Image, secret: str, rng: random.Random, use_base64: bool
 ) -> tuple[Image.Image, str]:
-    inner = inner_low_contrast_image(secret, rng)
-    outer = LSBEmbed.embed(image_to_bytes(inner), cover)
-    return outer, "zsteg b1,rgb,lsb,xy -> skip 4-byte length prefix -> inner PNG -> visually enhance/read text"
+    inner = inner_low_contrast_image(secret, rng, use_base64)
+    outer = LSBEmbed.embed(image_to_bytes(inner), cover, use_base64=use_base64)
+    return (
+        outer,
+        f"zsteg b1,rgb,lsb,xy -> {inner_png_step(use_base64)} -> "
+        f"visually enhance/read text{maybe_base64(use_base64)}",
+    )
 
 
 def two_outer_alpha_inner_low_contrast(
-    cover: Image.Image, secret: str, rng: random.Random
+    cover: Image.Image, secret: str, rng: random.Random, use_base64: bool
 ) -> tuple[Image.Image, str]:
-    inner = inner_low_contrast_image(secret, rng)
-    outer = AlphaEmbed.embed(image_to_bytes(inner), cover)
-    return outer, "zsteg b1,a,lsb,xy -> skip 4-byte length prefix -> inner PNG -> visually enhance/read text"
+    inner = inner_low_contrast_image(secret, rng, use_base64)
+    outer = AlphaEmbed.embed(image_to_bytes(inner), cover, use_base64=use_base64)
+    return (
+        outer,
+        f"zsteg b1,a,lsb,xy -> {inner_png_step(use_base64)} -> "
+        f"visually enhance/read text{maybe_base64(use_base64)}",
+    )
 
 
 TEMPLATES = [
@@ -215,6 +318,14 @@ TEMPLATES = [
     PuzzleTemplate("lsb_wraps_low_contrast_image", 2, two_outer_lsb_inner_low_contrast),
     PuzzleTemplate("alpha_wraps_low_contrast_image", 2, two_outer_alpha_inner_low_contrast),
 ]
+
+
+def puzzle_variants() -> list[PuzzleVariant]:
+    return [
+        PuzzleVariant(template=template, use_base64=use_base64)
+        for template in TEMPLATES
+        for use_base64 in BASE64_VARIANTS
+    ]
 
 
 def choose_templates(num_puzzles: dict[int, int], rng: random.Random) -> list[PuzzleTemplate]:
@@ -240,7 +351,13 @@ def parse_num_puzzles(value: str) -> dict[int, int]:
     return result
 
 
-def write_manifests(rows: list[dict[str, str]], out_dir: Path, seed: int) -> None:
+def write_manifests(
+    rows: list[dict[str, str]],
+    out_dir: Path,
+    seed: int,
+    challenge_path: Path | None = None,
+    solution_path: Path | None = None,
+) -> None:
     challenge_lines = [
         f"seed: {seed}",
         f"count: {len(rows)}",
@@ -265,10 +382,14 @@ def write_manifests(rows: list[dict[str, str]], out_dir: Path, seed: int) -> Non
             f"{row['depth']} | {row['type']} | {row['solution']}"
         )
 
-    (out_dir / "challenges.txt").write_text(
+    challenge_path = challenge_path or out_dir / "challenges.txt"
+    challenge_path.parent.mkdir(parents=True, exist_ok=True)
+    challenge_path.write_text(
         "\n".join(challenge_lines) + "\n", encoding="utf-8"
     )
-    (out_dir / "solutions.txt").write_text(
+    solution_path = solution_path or out_dir / "solutions.txt"
+    solution_path.parent.mkdir(parents=True, exist_ok=True)
+    solution_path.write_text(
         "\n".join(solution_lines) + "\n", encoding="utf-8"
     )
 
@@ -279,6 +400,7 @@ def generate(
     src_dir: Path,
     out_dir: Path,
     clean: bool,
+    use_base64: bool = False,
 ) -> None:
     rng = random.Random(seed)
     images = source_images(src_dir)
@@ -294,9 +416,14 @@ def generate(
         source = rng.choice(images)
 
         with Image.open(source) as cover:
-            puzzle, solution = template.build(cover.convert("RGB"), secret, rng)
+            puzzle, solution = template.build(
+                cover.convert("RGB"),
+                secret,
+                rng,
+                use_base64,
+            )
 
-        filename = f"puzzle_{index:04d}_depth{template.depth}.png"
+        filename = f"puzzle_{index:04d}.png"
         output = out_dir / filename
         save(puzzle, output, fmt="PNG")
 
@@ -314,30 +441,159 @@ def generate(
     write_manifests(rows, out_dir, seed)
 
 
+def validate_full_dataset_inputs(images: list[Path], variants: list[PuzzleVariant]) -> None:
+    if len(images) != len(variants):
+        raise ValueError(
+            "Full dataset generation expects exactly one source image per "
+            f"puzzle variant. Found {len(images)} source images and "
+            f"{len(variants)} variants."
+        )
+
+
+def build_paired_dataset(
+    pairs: list[tuple[Path, PuzzleVariant]],
+    out_dir: Path,
+    rng: random.Random,
+    seed: int,
+    manifest_dir: Path | None = None,
+    challenge_path: Path | None = None,
+    solution_path: Path | None = None,
+) -> None:
+    out_dir.mkdir(parents=True, exist_ok=True)
+    manifest_dir = manifest_dir or out_dir
+    rows: list[dict[str, str]] = []
+
+    for index, (source, variant) in enumerate(pairs, start=1):
+        secret = secret_for(rng)
+
+        with Image.open(source) as cover:
+            puzzle, solution = variant.template.build(
+                cover.convert("RGB"),
+                secret,
+                rng,
+                variant.use_base64,
+            )
+
+        filename = f"puzzle_{index:04d}.png"
+        output = out_dir / filename
+        manifest_output = manifest_dir / filename
+        save(puzzle, output, fmt="PNG")
+
+        rows.append(
+            {
+                "file": str(manifest_output),
+                "secret": secret,
+                "source": str(source),
+                "depth": str(variant.template.depth),
+                "type": variant.name,
+                "solution": solution,
+            }
+        )
+
+    write_manifests(
+        rows,
+        out_dir,
+        seed,
+        challenge_path=challenge_path,
+        solution_path=solution_path,
+    )
+
+
+def generate_puzzle_datasets(
+    seed: int,
+    src_dir: Path,
+    out_dir: Path,
+    iterations: int = ITERATIONS,
+    clean: bool = False,
+) -> None:
+    if iterations < 1:
+        raise ValueError(f"iterations must be >= 1, got {iterations}.")
+
+    rng = random.Random(seed)
+    images = source_images(src_dir)
+    variants = puzzle_variants()
+    validate_full_dataset_inputs(images, variants)
+
+    if clean and out_dir.exists():
+        shutil.rmtree(out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    challenges_dir = out_dir / "challenges"
+    solutions_dir = out_dir / "solutions"
+    challenges_dir.mkdir(parents=True, exist_ok=True)
+    solutions_dir.mkdir(parents=True, exist_ok=True)
+
+    for iteration in range(1, iterations + 1):
+        iteration_seed = rng.getrandbits(64)
+        iteration_rng = random.Random(iteration_seed)
+        iteration_dir = out_dir / str(iteration)
+        attempt_dir = out_dir / f".{iteration}.tmp"
+
+        if iteration_dir.exists():
+            raise FileExistsError(
+                f"{iteration_dir} already exists. Use --clean to replace it."
+            )
+
+        last_error: Exception | None = None
+        for _ in range(PAIRING_ATTEMPTS):
+            shuffled_images = images[:]
+            shuffled_variants = variants[:]
+            iteration_rng.shuffle(shuffled_images)
+            iteration_rng.shuffle(shuffled_variants)
+            pairs = list(zip(shuffled_images, shuffled_variants))
+
+            if attempt_dir.exists():
+                shutil.rmtree(attempt_dir)
+
+            try:
+                build_paired_dataset(
+                    pairs=pairs,
+                    out_dir=attempt_dir,
+                    rng=iteration_rng,
+                    seed=iteration_seed,
+                    manifest_dir=iteration_dir,
+                    challenge_path=challenges_dir / f"challenges_{iteration:02d}.txt",
+                    solution_path=solutions_dir / f"solutions_{iteration:02d}.txt",
+                )
+            except ValueError as exc:
+                last_error = exc
+                shutil.rmtree(attempt_dir, ignore_errors=True)
+                continue
+
+            attempt_dir.rename(iteration_dir)
+            break
+        else:
+            raise RuntimeError(
+                "Could not find a valid random image/template pairing for "
+                f"iteration {iteration} after {PAIRING_ATTEMPTS} attempts."
+            ) from last_error
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--seed", type=int, default=0)
     parser.add_argument("--src-dir", type=Path, default=SRC_DIR)
     parser.add_argument("--out-dir", type=Path, default=OUT_DIR)
     parser.add_argument(
-        "--num-puzzles",
-        type=parse_num_puzzles,
-        default=NUM_PUZZLES,
-        help='Puzzle counts by depth, for example "1:5,2:5".',
+        "--iterations",
+        type=int,
+        default=ITERATIONS,
+        help="Number of complete puzzle-set folders to generate.",
     )
-    parser.add_argument("--clean", action="store_true")
+    parser.add_argument(
+        "--clean",
+        action="store_true",
+        help="Remove the output directory before generating new files.",
+    )
     args = parser.parse_args()
 
-    generate(
-        num_puzzles=args.num_puzzles,
+    generate_puzzle_datasets(
         seed=args.seed,
         src_dir=args.src_dir,
         out_dir=args.out_dir,
+        iterations=args.iterations,
         clean=args.clean,
     )
-    print(f"Wrote puzzles to {args.out_dir}")
-    print(f"Public manifest: {args.out_dir / 'challenges.txt'}")
-    print(f"Solution manifest: {args.out_dir / 'solutions.txt'}")
+    print(f"Wrote {args.iterations} puzzle datasets to {args.out_dir}")
 
 
 if __name__ == "__main__":

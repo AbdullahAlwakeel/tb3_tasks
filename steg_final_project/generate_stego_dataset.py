@@ -121,6 +121,7 @@ def apply_pipeline(
     secret: str,
     pipeline: Pipeline,
     rng: random.Random,
+    use_base64: bool = False,
 ) -> tuple[Image.Image, list[str]]:
     payload = text_to_bytes(secret)
     result = image.convert("RGB")
@@ -139,20 +140,33 @@ def apply_pipeline(
                 position=(10, 10),
                 font_size=24,
                 wrap_width=60,
+                use_base64=use_base64,
             )
-            details.append("LowContrastEmbed(delta=5, position=(10,10), font_size=24)")
+            detail = "LowContrastEmbed(delta=5, position=(10,10), font_size=24)"
+            if use_base64:
+                detail = (
+                    "LowContrastEmbed(delta=5, position=(10,10), "
+                    "font_size=24, use_base64=True)"
+                )
+            details.append(detail)
         elif name == "LSBEmbed":
-            result = LSBEmbed.embed(payload, result)
-            details.append("LSBEmbed")
+            result = LSBEmbed.embed(payload, result, use_base64=use_base64)
+            details.append("LSBEmbed(use_base64=True)" if use_base64 else "LSBEmbed")
         elif name == "AlphaEmbed":
-            result = AlphaEmbed.embed(payload, result)
-            details.append("AlphaEmbed")
+            result = AlphaEmbed.embed(payload, result, use_base64=use_base64)
+            details.append(
+                "AlphaEmbed(use_base64=True)" if use_base64 else "AlphaEmbed"
+            )
         elif name == "MetadataEmbed":
-            result = MetadataEmbed.embed(payload, result)
-            details.append("MetadataEmbed")
+            result = MetadataEmbed.embed(payload, result, use_base64=use_base64)
+            details.append(
+                "MetadataEmbed(use_base64=True)" if use_base64 else "MetadataEmbed"
+            )
         elif name == "AppendEmbed":
-            result = AppendEmbed.embed(payload, result)
-            details.append("AppendEmbed")
+            result = AppendEmbed.embed(payload, result, use_base64=use_base64)
+            details.append(
+                "AppendEmbed(use_base64=True)" if use_base64 else "AppendEmbed"
+            )
         else:
             raise ValueError(f"Unknown transform: {name}")
 
@@ -181,6 +195,7 @@ def generate(
     src_dir: Path,
     out_dir: Path,
     clean: bool = False,
+    use_base64: bool = False,
 ) -> Path:
     rng = random.Random(seed)
     images = source_images(src_dir)
@@ -196,7 +211,13 @@ def generate(
         source = rng.choice(images)
 
         with Image.open(source) as img:
-            stego, details = apply_pipeline(img, secret, pipeline, rng)
+            stego, details = apply_pipeline(
+                img,
+                secret,
+                pipeline,
+                rng,
+                use_base64=use_base64,
+            )
 
         output_name = f"stego_{index:04d}_depth{len(pipeline.names)}.png"
         output_path = out_dir / output_name
@@ -243,6 +264,11 @@ def main() -> None:
         action="store_true",
         help="Remove the output directory before generating new files.",
     )
+    parser.add_argument(
+        "--use-base64",
+        action="store_true",
+        help="Base64-encode each hidden payload before embedding it.",
+    )
     args = parser.parse_args()
 
     manifest = generate(
@@ -251,6 +277,7 @@ def main() -> None:
         src_dir=args.src_dir,
         out_dir=args.out_dir,
         clean=args.clean,
+        use_base64=args.use_base64,
     )
     print(f"Wrote manifest: {manifest}")
 

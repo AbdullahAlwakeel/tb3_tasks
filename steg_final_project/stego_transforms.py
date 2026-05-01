@@ -30,6 +30,7 @@ Requirements
 from __future__ import annotations
 
 import io
+import base64
 import struct
 import textwrap
 from pathlib import Path
@@ -111,6 +112,19 @@ def _unframe(data: bytes) -> bytes:
     return data[start + 4 : start + 4 + length]
 
 
+def _payload_for_embed(payload: bytes, use_base64: bool) -> bytes:
+    """
+    Optionally add a beginner-readable base64 layer before the stego technique.
+
+    Extraction intentionally returns these bytes unchanged. Callers that set
+    use_base64=True should expect one extra base64 decode after extracting and
+    unframing the hidden payload.
+    """
+    if use_base64:
+        return base64.b64encode(payload)
+    return payload
+
+
 # ===========================================================================
 # 1. LSBEmbed
 # ===========================================================================
@@ -140,9 +154,14 @@ class LSBEmbed:
         return (w * h * 3) // 8 - 9
 
     @staticmethod
-    def embed(payload: bytes, cover: Image.Image) -> Image.Image:
+    def embed(
+        payload: bytes,
+        cover: Image.Image,
+        use_base64: bool = False,
+    ) -> Image.Image:
         img     = cover.convert("RGB")
         pixels  = np.array(img, dtype=np.uint8)
+        payload = _payload_for_embed(payload, use_base64)
         framed  = _frame(payload)
 
         if len(framed) * 8 > pixels.size:
@@ -191,10 +210,15 @@ class AlphaEmbed:
         return (w * h) // 8 - 9
 
     @staticmethod
-    def embed(payload: bytes, cover: Image.Image) -> Image.Image:
+    def embed(
+        payload: bytes,
+        cover: Image.Image,
+        use_base64: bool = False,
+    ) -> Image.Image:
         img    = cover.convert("RGBA")
         r, g, b, a = img.split()
         a_arr  = np.array(a, dtype=np.uint8)
+        payload = _payload_for_embed(payload, use_base64)
         framed = _frame(payload)
 
         flat = a_arr.flatten()
@@ -237,7 +261,12 @@ class AppendEmbed:
     """
 
     @staticmethod
-    def embed(payload: bytes, cover: Image.Image) -> Image.Image:
+    def embed(
+        payload: bytes,
+        cover: Image.Image,
+        use_base64: bool = False,
+    ) -> Image.Image:
+        payload = _payload_for_embed(payload, use_base64)
         result = cover.copy()
         result.info.update(cover.info)
         result.info["_append_payload"] = _frame(payload)
@@ -289,8 +318,12 @@ class MetadataEmbed:
     """
 
     @staticmethod
-    def embed(payload: bytes, cover: Image.Image) -> Image.Image:
-        import base64
+    def embed(
+        payload: bytes,
+        cover: Image.Image,
+        use_base64: bool = False,
+    ) -> Image.Image:
+        payload = _payload_for_embed(payload, use_base64)
         encoded = base64.b64encode(_frame(payload))
 
         img = cover.copy().convert("RGB")
@@ -305,7 +338,6 @@ class MetadataEmbed:
 
     @staticmethod
     def extract(stego: Image.Image) -> bytes:
-        import base64
         exif_bytes = stego.info.get("exif", b"")
         if not exif_bytes:
             raise ValueError("No EXIF data found.")
@@ -349,7 +381,9 @@ class LowContrastEmbed:
         position:   tuple[int, int]      = (10, 10),
         font_size:  int                  = 18,
         wrap_width: int                  = 60,
+        use_base64: bool                 = False,
     ) -> Image.Image:
+        payload = _payload_for_embed(payload, use_base64)
         text = payload.decode("utf-8")   # raises cleanly if payload is binary
  
         if delta < 1:
