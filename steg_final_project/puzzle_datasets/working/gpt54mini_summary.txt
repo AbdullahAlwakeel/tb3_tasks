@@ -1,0 +1,199 @@
+GPT 5.4 Mini summary data on datasets:
+
+All 5 datasets:
+
+1:
+
+Halfway:
+I’ve recovered 7 of the 22 images so far, with 6 distinct `secret{...}` values because two files decode to the same secret.\n\nSolved files:\n- `puzzle_0001.png`\n- `puzzle_0002.png`\n- `puzzle_0003.png`\n- `puzzle_0004.png`\n- `puzzle_0007.png`\n- `puzzle_0014.png`\n- `puzzle_0016.png`\n\nI’m still working on the remaining 15, with `puzzle_0008.png` currently the most stubborn one.
+
+End:
+• I recovered 8 unique secrets, from 9 solved images total because puzzle_0004.png and
+  puzzle_0007.png decoded to the same value.
+
+  Recovered:
+
+  - puzzle_0001.png -> secret{f7b74649}
+  - puzzle_0002.png -> secret{118962f3}
+  - puzzle_0003.png -> secret{3d5d0347}
+  - puzzle_0004.png / puzzle_0007.png -> secret{3c8a60ea}
+  - puzzle_0013.png -> secret{45aba37e}
+  - puzzle_0014.png -> secret{552735fd}
+  - puzzle_0016.png -> secret{f4e6c569}
+  - puzzle_0020.png -> secret{a10dc4fb}  This one came from OCR and was the noisiest
+    decode, but it fits the required hex format.
+
+  I was not able to crack:
+
+  - puzzle_0005.png
+  - puzzle_0006.png
+  - puzzle_0008.png
+  - puzzle_0009.png
+  - puzzle_0010.png
+  - puzzle_0011.png
+  - puzzle_0012.png
+  - puzzle-0021.png
+  - puzzlepuzzle_ I
+
+─ Worked for 16m 53s ───────────────────────────────────────────────────────────────────
+Token usage: total=893,441 input=834,585 (+ 7,621,120 cached) output=58,856 (reasoning 30,349)
+
+
+2:
+
+Halfway: 
+5 secrets so far.\n\n- `puzzle_0004.png`: `secret{473d9adf}`\n- `puzzle_0008.png`: `secret{56cbe1ca}`\n- `puzzle_0016.png` inner PNG: `secret{a51efc3e}`\n- `puzzle_0020.png` embedded PNG: `secret{ba8bac9e}`\n- `puzzle_0021.png`: `secret{982322bc}`\n\nI’m still working through the remaining images.","phase":"final_answer","memory_citation":null}}
+{"timestamp":"2026-05-02T03:06:08.304Z","type":"response_item","payload":{"type":"message","role":"assistant","content":[{"type":"output_text","text":"5 secrets so far.\n\n- `puzzle_0004.png`: `secret{473d9adf}`\n- `puzzle_0008.png`: `secret{56cbe1ca}`\n- `puzzle_0016.png` inner PNG: `secret{a51efc3e}`\n- `puzzle_0020.png` embedded PNG: `secret{ba8bac9e}`\n- `puzzle_0021.png`: `secret{982322bc}`\n\nI’m still working through the remaining images."}
+
+End:
+• I got 7 of 22 secrets.
+
+  Found:
+
+  - puzzle_0004.png -> secret{473d9adf}
+  - puzzle_0005.png -> secret{39355cda}
+  - puzzle_0006.png -> secret{e93d2f8f}
+  - puzzle_0008.png -> secret{56cbe1ca}
+  - puzzle_0016.png -> secret{a51efc3e}
+  - puzzle_0020.png -> secret{ba8bac9e}
+  - puzzle_0021.png -> secret{982322bc}
+
+  Unable to crack before time ran out:
+
+  - puzzle_0001.png
+  - puzzle_0002.png
+  - puzzle_0003.png
+  - puzzle_0007.png
+  - puzzle_0009.png
+  - puzzle_0010.png
+  - puzzle_0011.png
+  - puzzle_0012.png
+  - puzzle_0013.png
+  - puzzle_0014.png
+  - puzzle_0015.png
+  - puzzle_0017.png
+  - puzzle_0018.png
+  - puzzle_0019.png
+  - puzzle_0022.png
+
+  All working files were kept under working_temp.
+
+─ Worked for 8m 03s ────────────────────────────────────────────────────────────
+Token usage: total=1,157,686 input=1,004,854 (+ 24,511,360 cached) output=152,832 (reasoning 85,650)
+
+
+3:
+
+Halfway: 6 secrets recovered so far, from:\n\n- `puzzle_0003.png` -> `secret{3b70d0b7}`\n- `puzzle_0007.png` -> `secret{c0c7ade9}`\n- `puzzle_0013.png` -> `secret{ba190987}`\n- `puzzle_0014.png` -> `secret{cb17a1d8}`\n- `puzzle_0008.png` -> `secret{3a7fee4a}`\n- `puzzle_0020.png` -> `secret{9dea2649}`\n\nI’m still working through the remaining 16.","phase":"final_answer","memory_citation":null}}
+
+
+End:
+• I got 8 secrets:
+
+  - puzzle_0003.png -> secret{3b70d0b7}
+  - puzzle_0004.png -> secret{d43c5d49}
+  - puzzle_0007.png -> secret{c0c7ade9}
+  - puzzle_0008.png -> secret{3a7fee4a}
+  - puzzle_0013.png -> secret{ba190987}
+  - puzzle_0014.png -> secret{cb17a1d8}
+  - puzzle_0020.png -> secret{9dea2649}
+  - puzzle_0022.png -> secret{2f09c507}
+
+  I was unable to crack these 14 within the time limit:
+
+  - puzzle_0001.png
+  - puzzle_0002.png
+  - puzzle_0005.png
+  - puzzle_0006.png
+  - puzzle_0009.png
+  - puzzle_0010.png
+  - puzzle_0011.png
+  - puzzle_0012.png
+  - puzzle_0015.png
+  - puzzle_0016.png
+    -_0018 `
+
+─ Worked for 17m 54s ───────────────────────────────────────────────────────────
+Token usage: total=780,398 input=681,466 (+ 12,739,584 cached) output=98,932 (reasoning 53,404)
+
+
+4:
+
+Halfway: I’ve confirmed 6 secrets so far:\n\n`secret{8d91d861}`, `secret{31282288}`, `secret{d166ca01}`, `secret{ea1bb248}`, `secret{dcef7249}`, and `secret{6b386be5}`.\n\nThe remaining images are still in progress, mostly through nested PNGs and bit-plane extraction.","phase":"commentary","memory_citation":null}}
+
+
+End:
+• Context compacted
+
+• Found secrets:
+
+  - secret{8d91d861} from puzzle_0004.png
+  - secret{31282288} from puzzle_0021.png
+  - secret{d166ca01} from puzzle_0015.png
+  - secret{ea1bb248} from puzzle_0012.png
+  - secret{dcef7249} from puzzle_0019.png
+  - secret{6b386be5} from puzzle_0022.png
+  - secret{66ee9db6} from puzzle_0008.png
+  - secret{d12d1786} from puzzle_0010.png
+  - secret{9431fc8a} from puzzle_0017.png
+  - secret{38910702} from puzzle_0018.png
+
+  If you want, I can also list the 12 remaining images that were not solved.
+Token usage: total=897,229 input=804,352 (+ 16,563,456 cached) output=92,877 (reasoning 49,193)
+
+
+5:
+
+Halfway: 16 secrets recovered so far out of 22.\n\nThe solved ones are the direct metadata/trailer/inner-image cases; 6 remain, mostly the harder RGB-only holdouts.
+
+End:
+• I got 18 secrets.
+
+  Unable to crack these 4 before time ran out:
+
+  - puzzle_0004.png
+  - puzzle_0006.png
+  - puzzle_0012.png
+  - puzzle_0016.png
+
+  For those four, I exhausted the obvious metadata, thumbnail, OCR, channel-
+  split, and bit-plane/zsteg-style paths, but didn’t get a valid
+  secret{XXXXXXXX} hit.
+
+  If you want, I can also list the 18 recovered secrets explicitly.
+
+─ Worked for 19m 25s ───────────────────────────────────────────────────────────
+
+
+› List the recovered secrets you found.
+
+
+• Confirmed recovered secrets:
+
+  - puzzle_0001.png -> secret{abc2b646}
+  - puzzle_0002.png -> secret{dfe985a8}
+  - puzzle_0003.png -> secret{f1ee5a41}
+  - puzzle_0005.png -> secret{915556a9}
+  - puzzle_0007.png -> secret{1e153528}
+  - puzzle_0008.png -> secret{ad66a127}
+  - puzzle_0009.png -> secret{06ce94d5}
+  - puzzle_0010.png -> secret{47005cc8}
+  - puzzle_0011.png -> secret{cef1d24c}
+  - puzzle_0013.png -> secret{42035123}
+  - puzzle_0014.png -> secret{ee16c3e6}
+  - puzzle_0015.png -> secret{7bd5009f}
+  - puzzle_0017.png -> secret{da9bda07}
+  - puzzle_0018.png -> secret{cad05cb1}
+  - puzzle_0019.png -> secret{3a513475}
+  - puzzle_0020.png -> secret{1e153528}
+  - puzzle_0021.png -> secret{35e81290}
+  - puzzle_0022.png -> secret{435aa29e}
+
+  One extra candidate value showed up in the working notes during OCR/base64
+  testing:
+
+  - secret{64021f02}
+
+  I did not keep a clean final file attribution for that last one, so I’m
+  separating it from the confirmed set.
+Token usage: total=955,287 input=831,077 (+ 19,936,512 cached) output=124,210 (reasoning 68,490)

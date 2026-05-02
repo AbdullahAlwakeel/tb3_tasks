@@ -1,0 +1,1781 @@
+### puzzle_0001.png
+2:ExifToolVersion                 : 13.55
+3:Warning                         : [minor] Trailer data after PNG IEND chunk
+5:FileName                        : puzzle_0001.png
+6:Directory                       : .
+7:FileSize                        : 14 MB
+8:FileModifyDate                  : 2026:05:01 01:46:31-05:00
+9:FileAccessDate                  : 2026:05:01 21:51:10-05:00
+10:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+11:FilePermissions                 : -rw-r--r--
+13:FileType                        : PNG
+14:FileTypeExtension               : png
+15:MIMEType                        : image/png
+16:ExifByteOrder                   : Big-endian (Motorola, MM)
+18:ImageWidth                      : 4032
+19:ImageHeight                     : 3024
+20:BitDepth                        : 8
+21:ColorType                       : RGB
+22:Compression                     : Deflate/Inflate
+23:Filter                          : Adaptive
+24:Interlace                       : Noninterlaced
+25:ProfileName                     : ICC Profile
+27:ProfileCMMType                  : Apple Computer Inc.
+28:ProfileVersion                  : 4.0.0
+29:ProfileClass                    : Display Device Profile
+30:ColorSpaceData                  : RGB
+31:ProfileConnectionSpace          : XYZ
+32:ProfileDateTime                 : 2022:01:01 00:00:00
+33:ProfileFileSignature            : acsp
+34:PrimaryPlatform                 : Apple Computer Inc.
+35:CMMFlags                        : Not Embedded, Independent
+36:DeviceManufacturer              : Apple Computer Inc.
+37:DeviceModel                     : 
+38:DeviceAttributes                : Reflective, Glossy, Positive, Color
+39:RenderingIntent                 : Perceptual
+40:ConnectionSpaceIlluminant       : 0.9642 1 0.82491
+41:ProfileCreator                  : Apple Computer Inc.
+42:ProfileID                       : ecfda38e388547c36db4bd4f7ada182f
+44:ProfileDescription              : Display P3
+45:ProfileCopyright                : Copyright Apple Inc., 2022
+46:MediaWhitePoint                 : 0.96419 1 0.82489
+47:RedMatrixColumn                 : 0.51512 0.2412 -0.00105
+48:GreenMatrixColumn               : 0.29198 0.69225 0.04189
+49:BlueMatrixColumn                : 0.1571 0.06657 0.78407
+50:RedTRC                          : (Binary data 32 bytes, use -b option to extract)
+51:ChromaticAdaptation             : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+52:BlueTRC                         : (Binary data 32 bytes, use -b option to extract)
+53:GreenTRC                        : (Binary data 32 bytes, use -b option to extract)
+55:Make                            : Apple
+56:Model                           : iPhone 12
+57:Orientation                     : Horizontal (normal)
+58:XResolution                     : 72
+59:YResolution                     : 72
+60:ResolutionUnit                  : inches
+61:Software                        : 14.4
+62:ModifyDate                      : 2021:03:17 15:23:19
+63:HostComputer                    : iPhone 12
+64:YCbCrPositioning                : Centered
+66:ExposureTime                    : 1/349
+67:FNumber                         : 1.6
+68:ExposureProgram                 : Program AE
+69:ISO                             : 32
+70:ExifVersion                     : 0232
+71:DateTimeOriginal                : 2021:03:17 15:23:19
+72:CreateDate                      : 2021:03:17 15:23:19
+73:OffsetTime                      : +03:00
+74:OffsetTimeOriginal              : +03:00
+75:OffsetTimeDigitized             : +03:00
+76:ComponentsConfiguration         : Y, Cb, Cr, -
+77:ShutterSpeedValue               : 1/349
+78:ApertureValue                   : 1.6
+79:BrightnessValue                 : 6.759746404
+80:ExposureCompensation            : 0
+81:MeteringMode                    : Multi-segment
+82:Flash                           : Off, Did not fire
+83:FocalLength                     : 4.2 mm
+84:SubjectArea                     : 2009 1503 2208 1327
+85:SubSecTimeOriginal              : 589
+86:SubSecTimeDigitized             : 589
+87:FlashpixVersion                 : 0100
+88:ColorSpace                      : Uncalibrated
+89:ExifImageWidth                  : 4032
+90:ExifImageHeight                 : 3024
+91:SensingMethod                   : One-chip color area
+92:SceneType                       : Directly photographed
+93:ExposureMode                    : Auto
+94:WhiteBalance                    : Auto
+95:FocalLengthIn35mmFormat         : 26 mm
+96:SceneCaptureType                : Standard
+97:LensInfo                        : 1.549999952-4.2mm f/1.6-2.4
+98:LensMake                        : Apple
+99:LensModel                       : iPhone 12 back dual wide camera 4.2mm f/1.6
+100:CompositeImage                  : General Composite Image
+102:MakerNoteVersion                : 12
+103:RunTimeFlags                    : Valid
+104:RunTimeValue                    : 164450315045416
+105:RunTimeScale                    : 1000000000
+106:RunTimeEpoch                    : 0
+107:AEStable                        : Yes
+108:AETarget                        : 205
+109:AEAverage                       : 200
+110:AFStable                        : Yes
+111:AccelerationVector              : -0.835323572 -0.04037597777 -0.5279271604
+112:FocusDistanceRange              : 0.70 - 0.71 m
+113:Apple_0x000d                    : 0
+114:Apple_0x000e                    : 4
+115:Apple_0x0010                    : 1
+116:ImageCaptureType                : Photo
+117:Apple_0x0016                    : bplist00_..ARw7+ZYPkoQ9PvlTnRbHwDIXxb2m...[...]
+118:LivePhotoVideoIndex             : 1112547328
+119:ImageProcessingFlags            : [1]
+120:QualityHint                     : q900n
+121:PhotosAppFeatureFlags           : 0
+122:ImageCaptureRequestID           : 2E554144-911A-40A7-95C9-F1B2A568F972
+123:HDRHeadroom                     : 1.401323675
+124:AFPerformance                   : 90 1 22
+125:SceneFlags                      : [1], [2], [7]
+126:SignalToNoiseRatioType          : 3
+127:SignalToNoiseRatio              : 50.79243086
+128:Apple_0x0028                    : 1
+129:PhotoIdentifier                 : CEF0149F-E02F-47E3-8089-BA5309C5A9DD
+130:ColorTemperature                : 4659
+131:CameraType                      : Back Normal
+132:FocusPosition                   : 56
+133:HDRGain                         : 7.873520192e-06
+134:Apple_0x0033                    : 4096
+135:Apple_0x0034                    : 4
+136:Apple_0x0035                    : 3
+137:Apple_0x0036                    : 10737
+138:Apple_0x0037                    : 4
+139:Apple_0x003a                    : 4
+140:Apple_0x003b                    : 0
+141:Apple_0x003c                    : 4
+143:Compression                     : JPEG (old-style)
+144:XResolution                     : 72
+145:YResolution                     : 72
+146:ResolutionUnit                  : inches
+147:ThumbnailOffset                 : 2288
+148:ThumbnailLength                 : 9120
+149:ThumbnailImage                  : (Binary data 9120 bytes, use -b option to extract)
+151:RunTimeSincePowerUp             : 1 days 21:40:50
+152:Aperture                        : 1.6
+153:ImageSize                       : 4032x3024
+154:Megapixels                      : 12.2
+155:ScaleFactor35efl                : 6.2
+156:ShutterSpeed                    : 1/349
+157:SubSecCreateDate                : 2021:03:17 15:23:19.589+03:00
+158:SubSecDateTimeOriginal          : 2021:03:17 15:23:19.589+03:00
+159:SubSecModifyDate                : 2021:03:17 15:23:19+03:00
+160:CircleOfConfusion               : 0.005 mm
+161:FOV                             : 69.4 deg
+162:FocalLength35efl                : 4.2 mm (35 mm equivalent: 26.0 mm)
+163:HyperfocalDistance              : 2.27 m
+164:LightValue                      : 11.4
+165:LensID                          : iPhone 12 back dual wide camera 4.2mm f/1.6
+
+### puzzle_0002.png
+2:ExifToolVersion                 : 13.55
+3:Warning                         : [minor] Trailer data after PNG IEND chunk
+5:FileName                        : puzzle_0002.png
+6:Directory                       : .
+7:FileSize                        : 393 kB
+8:FileModifyDate                  : 2026:05:01 01:46:31-05:00
+9:FileAccessDate                  : 2026:05:01 21:51:10-05:00
+10:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+11:FilePermissions                 : -rw-r--r--
+13:FileType                        : PNG
+14:FileTypeExtension               : png
+15:MIMEType                        : image/png
+16:ExifByteOrder                   : Big-endian (Motorola, MM)
+18:ImageWidth                      : 2089
+19:ImageHeight                     : 1179
+20:BitDepth                        : 8
+21:ColorType                       : RGB
+22:Compression                     : Deflate/Inflate
+23:Filter                          : Adaptive
+24:Interlace                       : Noninterlaced
+25:ProfileName                     : ICC Profile
+27:ProfileCMMType                  : Apple Computer Inc.
+28:ProfileVersion                  : 4.0.0
+29:ProfileClass                    : Display Device Profile
+30:ColorSpaceData                  : RGB
+31:ProfileConnectionSpace          : XYZ
+32:ProfileDateTime                 : 2022:01:01 00:00:00
+33:ProfileFileSignature            : acsp
+34:PrimaryPlatform                 : Apple Computer Inc.
+35:CMMFlags                        : Not Embedded, Independent
+36:DeviceManufacturer              : Apple Computer Inc.
+37:DeviceModel                     : 
+38:DeviceAttributes                : Reflective, Glossy, Positive, Color
+39:RenderingIntent                 : Perceptual
+40:ConnectionSpaceIlluminant       : 0.9642 1 0.82491
+41:ProfileCreator                  : Apple Computer Inc.
+42:ProfileID                       : ecfda38e388547c36db4bd4f7ada182f
+44:ProfileDescription              : Display P3
+45:ProfileCopyright                : Copyright Apple Inc., 2022
+46:MediaWhitePoint                 : 0.96419 1 0.82489
+47:RedMatrixColumn                 : 0.51512 0.2412 -0.00105
+48:GreenMatrixColumn               : 0.29198 0.69225 0.04189
+49:BlueMatrixColumn                : 0.1571 0.06657 0.78407
+50:RedTRC                          : (Binary data 32 bytes, use -b option to extract)
+51:ChromaticAdaptation             : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+52:BlueTRC                         : (Binary data 32 bytes, use -b option to extract)
+53:GreenTRC                        : (Binary data 32 bytes, use -b option to extract)
+55:Orientation                     : Horizontal (normal)
+56:XResolution                     : 72
+57:YResolution                     : 72
+58:ResolutionUnit                  : inches
+59:YCbCrPositioning                : Centered
+61:ExifVersion                     : 0221
+62:DateTimeOriginal                : 2025:06:27 02:32:31
+63:ComponentsConfiguration         : Y, Cb, Cr, -
+64:UserComment                     : Screenshot
+65:FlashpixVersion                 : 0100
+66:ColorSpace                      : sRGB
+67:ExifImageWidth                  : 2556
+68:ExifImageHeight                 : 1179
+69:SceneCaptureType                : Standard
+71:ImageSize                       : 2089x1179
+72:Megapixels                      : 2.5
+
+### puzzle_0003.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0003.png
+5:Directory                       : .
+6:FileSize                        : 2.1 MB
+7:FileModifyDate                  : 2026:05:01 01:46:32-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:10-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+15:ExifByteOrder                   : Big-endian (Motorola, MM)
+17:ImageWidth                      : 1242
+18:ImageHeight                     : 2208
+19:BitDepth                        : 8
+20:ColorType                       : RGB
+21:Compression                     : Deflate/Inflate
+22:Filter                          : Adaptive
+23:Interlace                       : Noninterlaced
+25:ImageDescription                : AAAK6olQTkcNChoKAAAADUlIRFIAAAIIAAAAoAgCAAAA5k4DngAACrFJREFUeJzt3HtYVGUewPF3uMwMg3fzrpW6GKGYecE0l7V1fcpLoeYlM00tba3Vdgtdq9U2sE1bTTJdW7XEMvFKiqlYmmaQYRe7meYNFTUEFXS4yAw4+wxnPM4PAQcUeli+n7/eObznzOv4POc7nDODITXzsiqBQSmHUgaDweFwjrVHDudWh8H52Lm9cJpru8GhHMphMBRuUM59ru7nHDr31Pa/8rjwAIXzXXOdR3Ad2/X8DucIAFBpfArPv8XTzsja2d+VANfIlYQr01zbtTlXfqTlQac91M7yrmd0y4YrDVef19mPqzMBAJXGq/KeCgBQFRAGAIBAGAAAAmEAAAiEAQAgEAYAgEAYAAACYQAACIQBACAQBgCAQBgAAAJhAAAIhAEAIBAGAIBAGAAAAmEAAAiEAQAgEAYAgEAYAAACYQAACIQBACD4qPLanfTNs5Nfdo13bPD29lbVmNWatXDJ+4PC+vyu1e3XfX02x3+6KnbjsWMpBZcv16tbe8jA/iMffbgSlgQAFRsGaBwOx6b47W8tXJqReWFA//uv+7LEbfpkxqw39YepZ9L9/My/7ZIAwB1huFGpZ9IiXovyfP7mrdu1QUjnDq/PeCknN9disfy2SwKAmxOGbl077dn1Ubl3/79X0uuTln5OG9zbrYvF4mex+FX60gCgEu8xJHyx57mpEUqpu4KDFkS9umpNXPy2nSdSThl9fdsHB40dNSy4baC2i+czdUeSjy9bvubrb3/IvHCxVs0a7YLuGDyw3z0hHfUJq2M/mh31tlLqgd49e4Z2m/92dFra2RbNm04YPyr03q4l/UM+3r5r/cathw4ftWZl+/r6NGxwS6e7g58cPbxhg1uue+TatWt++91P+rTHnpiklPrbxHHDh4SVdI8hz2bTBiajsRwrUUpduGhdsXr95wlJp06nenl7NWnUMKRLh0eHDtCmTY+cHf/JzmKX5Nl/LIDqrqIuJVmzssY9M2X/gUPaw7w8W+Lur5K+2jv/jRkdO7Qrx8yt23a+8q+o/Px87eH5jMxdiUm7EpOGDX7o+Unjizz7keTj23YkaJOPJB+32+wlrXPuW4tj1mzQH+bl2VJOnk45eXr7zsToRXNbNGtS+pE7tG/r+WsyKXz6l3u+1R/OnLNg5pwFzZs1iY1Z7PlKfjl05K+T/3nufIY+8/DRY4ePHlsfFx/171fKtB4AqNSPqx5NPqGf63X5+fmLl64ox8yDh45GvHa1Cu5WrY2L2/RxkY2HDifrky1+5h7dQ4pd5Hc/7NPOxY0bNXhvyZsJ22KjF81t1ND5vttqzfpgZey1uxQ5csMG9dXN4OFKsrKzn58a6V4FXU7upRdfnnXpUt5NWQ+A6qwCbz7XqlXzH1MmdQ25OyXl9OSXXv019YxSav+Bg+WYuWRZjN3uPB23aN70pSmTggID0s+dX/B29KefJSqlopevebBvb4PB4H7MOwMDZkZMNZvNP+8/aDIVvWijid2wRRuMHzsisE1rpVRQYMCDfXsviY4pLNbxYvdyP/K93bo889TjYUOf0H60/J15bQJalfSCzJvtvHTW7+HH0wtvM0x9/plBYX3KtJIPN8SnpZ/VxmNGDh08sL/ZbFoes27p+6uVUmfPnd/y8Y6IaeETxo30cEkAUKlhCH/2qZ6h3ZRSbQJajRw+6PW5C7U3tnZ7vq+vj+cz7fb83UnfaDMnPT1Wu77UolmTiOnhCX2+stlsJ0/9eiLl1G23Nnc/5sQ/j27SuJF2j7ekFUZMC4+YFl5kox6Y7JzcYvfy5Mhl5eFKdiUmaYMe3UMmjBuljSeMG7X3+32NGzX4Q497unXtdLOWBKDaqsAwdO7YXh83beI8k2ryC4qGofSZp07/mpfnumE7+cUZxT7XseMn3cNgMBjaBwd5uE6b3f7Tvl9+3Ld//4HD3//4s36hxnHZce3kMh25rK67kuTjKdqg093B7jsumj+rgpYEoBqqwDDUqV1LH7tfzHE4yjYzKzvnus+VLef4WyxGX9/r7lVQULAkOmb1uo3WrOxrf2rwEtemynTksvJwJfo/0+LHh1wBVMEw+Pi4H9xQ7plms0kfv7Nw9rUfY72Wn9/VXUox7z/v6h8Eql+vbueO7e8KDkpNS3/vg7XO+/IGr3Ifuaw8XInF4me1ZimlMi9crIhlAEDV+OZzi2ZNvb29CwoKlFKJu7/2JAye/OEmm822bv1mbTxi2MCJE8Z4eTnPvyvXxpXyG0PpR3aoYq4+3cSVtLytxQ8/7VdK7fl675iRQ/UjTI+cnZt7KbTHPT26d6lbp/aNLwlAdVYF/rqqyWTUb0Isj1kXu2GL1ZqVeiZ9/n+jQ0L7h4T279XvkZzcS+67FPmEUrEyMi/a7K7vN/S6r4d2LlZKHTh4WBtoKSri2iP7eF+N68FDyVZrlvahI895vhL9a3rf7P3xjXmLzqSdzcnJXfvhpq3bPvss4cvImVErC3/tuPElAajOqkAYlFJPjh6unZFtdvvMOQt69XvkoSFjtMsshe+yB1jK/nfo6terU7OGvzZ+971V585nZGRkLl66YsvWHdrGnBI+lVREzZo1vK68o4+cGdWr3yMfboyvoJUMGtBH/xb0yrVxDw4e3fOBIa/PXegovBtjNBoHhfW9KUsCUJ1VjTDcFRz09+ee1t9Ku/vTfb8f/diwchzTx8dn/NgR2jjhiz19Boy8P+yxxUtX1K9XV9t4Ju2s/mmoUpjNpvbt7nTfkn72fAWtpIa//+zXptWrW6fYg8yKfEH7TtyNLwlAdVY1wuB8sxzWZ9niuX0f+GPjRg2Mvr4WP3O7toEvhP9lxstT9HfHZTVs8EOR0ycHBQYYjUaTyXhHQOuJE8asi1mknV7z8/M//8L1vYHSRUybfF9od39/i9lsatXy1nZBbSpuJYFtWscsWzBqxOCWt99qMhn9/S2tW942ZGD/Ve8vdP9exY0vCUC1ZUjN5OYkAKAK/sYAAKgchAEAIBAGAIBAGAAAAmEAAAiEAQAgEAYAgEAYAAACYQAACIQBACAQBgCAQBgAAAJhAAAIhAEAIBAGAIBAGAAAAmEAAAiEAQAgEAYAgEAYAAACYQAACIQBACAQBgCAQBgAAAJhAAAIhAEAIBAGAIBAGAAAAmEAAAiEAQAgEAYAgEAYAAACYQAACIQBACAQBgCAQBgAAAJhAAAIhAEAIBAGAIBAGAAAAmEAAAiEAQAgEAYAgEAYAAACYQAACIQBACAQBgCAQBgAAAJhAAAIhAEAIBAGAIBAGAAAAmEAAAiEAQAgEAYAgEAYAAACYQAACIQBACAQBgCAQBgAAAJhAAAIhAEAIBAGAIBAGAAAAmEAAAiEAQAgEAYAgEAYAAACYQAACIQBACAQBgCAQBgAAAJhAAAIhAEAIBAGAIBAGAAAAmEAAAiEAQAgEAYAgEAYAAACYQAACIQBACAQBgCAQBgAAAJhAAAIhAEAIBAGAIBAGAAAAmEAAAiEAQAgEAYAgEAYAAACYQAACIQBACAQBgCAQBgAAAJhAAAIhAEAIBAGAIBAGAAAAmEAAAiEAQAgEAYAgEAYAAACYQAACIQBACAQBgCAQBgAAAJhAAAIhAEAIBAGAIBAGAAAAmEAAAiEAQAgEAYAgEAYAAACYQAACIQBACAQBgCAcvc/ikwiSFkYioEAAAAASUVORK5CYII=
+26:Orientation                     : Horizontal (normal)
+27:XResolution                     : 72
+28:YResolution                     : 72
+29:ResolutionUnit                  : inches
+30:YCbCrPositioning                : Centered
+32:ExifVersion                     : 0221
+33:ComponentsConfiguration         : Y, Cb, Cr, -
+34:FlashpixVersion                 : 0100
+35:ColorSpace                      : sRGB
+36:ExifImageWidth                  : 1242
+37:ExifImageHeight                 : 2208
+38:SceneCaptureType                : Standard
+40:Compression                     : JPEG (old-style)
+41:XResolution                     : 72
+42:YResolution                     : 72
+43:ResolutionUnit                  : inches
+44:ThumbnailOffset                 : 4027
+45:ThumbnailLength                 : 16463
+46:ThumbnailImage                  : (Binary data 16463 bytes, use -b option to extract)
+48:ImageSize                       : 1242x2208
+49:Megapixels                      : 2.7
+
+### puzzle_0004.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0004.png
+5:Directory                       : .
+6:FileSize                        : 1299 kB
+7:FileModifyDate                  : 2026:05:01 01:46:32-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:10-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+15:ExifByteOrder                   : Big-endian (Motorola, MM)
+17:ImageWidth                      : 1179
+18:ImageHeight                     : 1709
+19:BitDepth                        : 8
+20:ColorType                       : RGB
+21:Compression                     : Deflate/Inflate
+22:Filter                          : Adaptive
+23:Interlace                       : Noninterlaced
+24:ProfileName                     : ICC Profile
+26:ProfileCMMType                  : Apple Computer Inc.
+27:ProfileVersion                  : 4.0.0
+28:ProfileClass                    : Display Device Profile
+29:ColorSpaceData                  : RGB
+30:ProfileConnectionSpace          : XYZ
+31:ProfileDateTime                 : 2022:01:01 00:00:00
+32:ProfileFileSignature            : acsp
+33:PrimaryPlatform                 : Apple Computer Inc.
+34:CMMFlags                        : Not Embedded, Independent
+35:DeviceManufacturer              : Apple Computer Inc.
+36:DeviceModel                     : 
+37:DeviceAttributes                : Reflective, Glossy, Positive, Color
+38:RenderingIntent                 : Perceptual
+39:ConnectionSpaceIlluminant       : 0.9642 1 0.82491
+40:ProfileCreator                  : Apple Computer Inc.
+41:ProfileID                       : ecfda38e388547c36db4bd4f7ada182f
+43:ProfileDescription              : Display P3
+44:ProfileCopyright                : Copyright Apple Inc., 2022
+45:MediaWhitePoint                 : 0.96419 1 0.82489
+46:RedMatrixColumn                 : 0.51512 0.2412 -0.00105
+47:GreenMatrixColumn               : 0.29198 0.69225 0.04189
+48:BlueMatrixColumn                : 0.1571 0.06657 0.78407
+49:RedTRC                          : (Binary data 32 bytes, use -b option to extract)
+50:ChromaticAdaptation             : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+51:BlueTRC                         : (Binary data 32 bytes, use -b option to extract)
+52:GreenTRC                        : (Binary data 32 bytes, use -b option to extract)
+54:ImageDescription                : AAAOcGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFnZ0FBQUNnQ0FJQUFBRG1UZ09lQUFBS21rbEVRVlI0bk8zY0MxVFVWUjdBOFRzOFpvYkJ0L25XVEYyTVNOUTBNYzFsYmQxTytValVmR1NtcWFXdHRkcHVvV3UxMmdhMmFXdEpwbXVybHZoSWZLSmlKcGFtR1dqWXcwcE44NFdHR29JS09qeGtCcHc5TTMvNk96OEVIRkRzc0h3L25UeDNadTcvem5VOFo3N0QvR2N3cEdaZVVTVXdHSlREb2YzcC9FTTUvM2RkN3pBbzEwWGxNRGlVS3J5OWtNUGcvRThWSHVPODJYV1k4enJud0xtQ2M2N3JPT1g0ZGVpNnlYbWswdTdLZVpQclR2UjdjeDNsdnI3cmVHMjF3cTI1amk3Y3Q3NnFOZ2tBNENsRGFpWlBuQUNBcTd6Y3hnQUFFQVlBZ01SUERBQUFnVEFBQUFUQ0FBQVFDQU1BUUNBTUFBQ0JNQUFBQk1JQUFCQUlBd0JBSUF3QUFJRXdBQUFFd2dBQUVBZ0RBRUFnREFBQWdUQUFBQVRDQUFBUUNBTUFRQ0FNQUFDQk1BQUFCTUlBQUJCOFZIbnRUdnJtK1ltdkZvNjNiL0QyOWxaVm1OV2FOVy9oMGdGaFBYL1g4bzdyUGo0ZngzKzJNbmJqaVJNcEJWZXUxS2xkYzFEL1BzTWZmL1FXYkFrQUtqWU0wRGdjamszeDI5NmR0eWdqODJLL1BnOWQ5MkdKMi9UcHRCbnY2QmRUejZiNytabC8yeTBCZ0R2Q2NLTlN6NlpGdkJIbCtmeVB0MnpUQmlIM3RuOXoyaXM1dWJrV2krVzMzUklBM0p3d2RPbmNjYy9PajhwOStQKzlraDZmdFBUejJ1RCtMcDBzRmorTHhlK1didzBBYnVFNWhvUmRlMTZZSEtHVWFoY2NORGZxOVpXcjQrSzM3dmc1NWJUUjE3ZHRjTkRvRVVPQzd3N1VEdkY4cHU1WThzbkZ5MVovL2UwUG1SY3YxYWhlclUzUW5RUDc5NzR2cElNK1lWWHNSek9qM2xOS1BmeGc5KzZoWGVhOEY1MldkcTVaMDhianhvNEl2Yjl6U1grUlQ3YnRYTDl4eTVHang2MVoyYjYrUHZYcjNkYnhudUNuUnc2dFgrKzI2NjVjczJiMWI3L2JyMDk3NHFrSlNxbS9qUjh6ZEZCWVNlY1k4bXcyYldBeUdzdXhFNlhVeFV2VzVhdldmNUdRZFBwTXFwZTNWNk1HOVVNNnRYOThjRDl0MnRUSW1mR2Y3aWgyUzU3OXd3S282aXJxclNSclZ0YVk1eVlkUEhSRXU1aVhaMHZjL1ZYU1Yzdm52RDJ0US9zMjVaaTVaZXVPMS80VmxaK2ZyMTI4a0pHNU16RnBaMkxTa0lGOVg1d3d0c2k5SDBzK3VYVjdnamI1V1BKSnU4MWUwajVudmJzZ1p2VUcvV0plbmkzbDFKbVVVMmUyN1VpTW5qK3JXWk5HcGEvY3Z1M2RuajhtRThLbmZybm5XLzNpOUxmbVRuOXJidE1taldKakZuaStrNStPSFB2cnhIK2V2NUNoenp4Ni9NVFI0eWZXeDhWSC9mdTFNdTBIQUc3cHgxV1BKLytzUDlmcjh2UHpGeXhhWG82Wmg0OGNqM2pqYWhYY3JWd1RGN2Zwa3lKWEhqbWFyRSsyK0ptN2RRMHBkcFBmL1hCQWV5NXUyS0Rla29YdkpHeU5qWjQvcTBGOTUrdHVxelhyd3hXeDF4NVNaT1g2OWVxcW04SERuV1JsWjc4NE9kSzlDcnFjM01zdnZ6cmo4dVc4bTdJZkFGVlpCWjU4cmxHaitqOG1UZWdjY2s5S3lwbUpyN3orUytwWnBkVEJRNGZMTVhQaDRoaTczZmwwM0t4cDQxY21UUWdLREVnL2YySHVlOUdmZlo2b2xJcGV0dnFSWGc4YURBYjNOZThLREpnZU1kbHNOdjk0OExESlZQUk5HMDNzaHMzYVlPem9ZWUd0V3ltbGdnSURIdW4xNE1Mb0dGZXhUaFo3bFB2SzkzZnA5Tnd6VDRZTmZrcTdhZG43czFzSHRDenBBWms5MC9uV1dlOUhuMHgzbldhWS9PSnpBOEo2bG1rbjZ6YkVwNldmMDhhamhnOGUyTCtQMld4YUZyTjIwZEpWU3FsejV5OXMvbVI3eEpUd2NXT0dlN2dsQUxpbFlRaC8vcG51b1YyVVVxMERXZzRmT3VETldmTzBGN1oyZTc2dnI0L25NKzMyL04xSjMyZ3pKenc3V250L3FWbVRSaEZUd3hONmZtV3oyVTZkL3VYbmxOUE5iMi9xdnViNFA0OXMxTENCZG82M3BCMUdUQW1QbUJKZTVFbzlNTms1dWNVZTVjbktaZVhoVG5ZbUptbURibDFEeG8wWm9ZM0hqUm14OS9zRERSdlUrME8zKzdwMDduaXp0Z1NneXFyQU1OemJvYTArYnR6SStVeXF5UzhvR29iU1o1NCs4MHRlWHVFSjI0a3ZUeXYydms2Y1BPVWVCb1BCMERZNHlNTjkydXoyL1FkKzJuZmc0TUZEUjcvZjk2UCtSbzNqaXVQYXlXVmF1YXl1dTVQa2t5bmFvT005d2U0SHpwOHpvNEsyQktBS3FzQXcxS3BaUXgrN3Y1bmpjSlJ0WmxaMnpuWHZLMXZPOGJkWWpMNisxejJxb0tCZ1lYVE1xclViclZuWjE5NXE4Qkx2VFpWcDViTHljQ2Y2WDlQaXg0ZGNBVlRDTVBqNHVDOXVLUGRNczlta2o5K2ZOL1BhajdGZXk4L3Y2aUdsbVAyZkQvUVBBdFd0VS92ZURtM2JCUWVscHFVditYQ044N3k4d2F2Y0s1ZVZoenV4V1B5czFpeWxWT2JGU3hXeERRQ29ITjk4YnRha3NiZTNkMEZCZ1ZJcWNmZlhub1RCazEvY1pMUFoxcTcvV0JzUEc5Si8vTGhSWGw3TzU5OFZhK0pLK1ltaDlKVWRxcGgzbjI3aVRsbzBiL2JEL29OS3FUMWY3eDAxZkxDK3d0VEltYm01bDBPNzNkZXRhNmZhdFdyZStKWUFWR1dWNExlcm1reEcvU1RFc3BpMXNSczJXNjFacVdmVDUvdzNPaVMwVDBob254NjlIOHZKdmV4K1NKRlBLQlVySS9PU3pWNzQvWVllRDNUVG5vdVZVb2NPSDlVR1dvcUt1SFpsSCsrcmNUMThKTmxxemRJK2RPUTV6M2VpZjAzdm03MzczcDQ5LzJ6YXVaeWMzRFhyTm0zWit2bm5DVjlHVG85YTRmcXg0OGEzQktBcXF3UmhVRW85UFhLbzlveHNzOXVudnpXM1IrL0grZzRhcGIzTjRucVYzYzlTOXQ5RFY3ZE9yZXJWL0xYeEIwdFducitRa1pHUnVXRFI4czFidG10WDVwVHdxYVFpcWxldjV2WHJLL3JJNlZFOWVqKzJibU44QmUxa1FMK2UrcmVnVjZ5SmUyVGd5TzRQRDNwejFqeUg2MnlNMFdnY0VOYnJwbXdKUUZWV09jTFFMampvN3k4OHE3K1VkdmVuQjM0Lzhva2g1VmpUeDhkbjdPaGgyamhoMTU2ZS9ZWS9GUGJFZ2tYTDY5YXByVjE1TnUyYy9tbW9VcGpOcHJadDduSy9KdjNjaFFyYVNUVi8vNWx2VEtsVHUxYXhpOHlJZkVuN1R0eU5id2xBVlZZNXd1QjhzUnpXYy9HQ1diMGUvbVBEQnZXTXZyNFdQM09idXdOZkN2L0x0RmNuNmErT3kyckl3TDZSVXljR0JRWVlqVWFUeVhoblFLdng0MGF0alptdlBiM201K2Qvc2F2d2V3T2xpNWd5OFlIUXJ2NytGclBaMUxMRjdXMkNXbGZjVGdKYnQ0cFpQSGZFc0lFdDdyamRaREw2KzF0YXRXZytxSCtmbFV2bnVYK3Y0c2EzQktES01xUm1jbklTQUZBSmYySUFBTndhaEFFQUlCQUdBSUJBR0FBQUFtRUFBQWlFQVFBZ0VBWUFnRUFZQUFBQ1lRQUFDSVFCQUNBUUJnQ0FRQmdBQUFKaEFBQUloQUVBSUJBR0FJQkFHQUFBQW1FQUFBaUVBUUFnRUFZQWdFQVlBQUFDWVFBQUNJUUJBQ0FRQmdDQVFCZ0FBQUpoQUFBSWhBRUFJQkFHQUlCQUdBQUFBbUVBQUFpRUFRQWdFQVlBZ0VBWUFBQUNZUUFBQ0lRQkFDQVFCZ0NBUUJnQUFBSmhBQUFJaEFFQUlCQUdBSUJBR0FBQUFtRUFBQWlFQVFBZ0VBWUFnRUFZQUFBQ1lRQUFDSVFCQUNBUUJnQ0FRQmdBQUFKaEFBQUloQUVBSUJBR0FJQkFHQUFBQW1FQUFBaUVBUUFnRUFZQWdFQVlBQUFDWVFBQUNJUUJBQ0FRQmdDQVFCZ0FBQUpoQUFBSWhBRUFJQkFHQUlCQUdBQUFBbUVBQUFpRUFRQWdFQVlBZ0VBWUFBQUNZUUFBQ0lRQkFDQVFCZ0NBUUJnQUFBSmhBQUFJaEFFQUlCQUdBSUJBR0FBQUFtRUFBQWlFQVFBZ0VBWUFnRUFZQUFBQ1lRQUFDSVFCQUNBUUJnQ0FRQmdBQUFKaEFBQUloQUVBSUJBR0FJQkFHQUFBQW1FQUFBaUVBUUFnRUFZQWdFQVlBQUFDWVFBQUNJUUJBQ0FRQmdDQVFCZ0FBQUpoQUFBSWhBRUFJQkFHQUlCQUdBQUFBbUVBQUFpRUFRQWdFQVlBZ0VBWUFBQUNZUUFBQ0lRQkFDQVFCZ0NBUUJnQUFBSmhBQUFJaEFFQUlCQUdBSUJBR0FBQUFtRUFBQWlFQVFBZ0VBWUFnRUFZQUFBQ1lRQUFDSVFCQUNBUUJnQ0FjdmMvNlVNZ0pPV1IrelFBQUFBQVNVVk9SSzVDWUlJPQ==
+55:Orientation                     : Horizontal (normal)
+56:XResolution                     : 72
+57:YResolution                     : 72
+58:ResolutionUnit                  : inches
+59:YCbCrPositioning                : Centered
+61:ExifVersion                     : 0221
+62:DateTimeOriginal                : 2025:10:14 14:07:53
+63:ComponentsConfiguration         : Y, Cb, Cr, -
+64:UserComment                     : Screenshot
+65:FlashpixVersion                 : 0100
+66:ColorSpace                      : sRGB
+67:ExifImageWidth                  : 1179
+68:ExifImageHeight                 : 2556
+69:SceneCaptureType                : Standard
+71:ImageSize                       : 1179x1709
+72:Megapixels                      : 2.0
+
+### puzzle_0005.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0005.png
+5:Directory                       : .
+6:FileSize                        : 1092 kB
+7:FileModifyDate                  : 2026:05:01 01:46:32-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:10-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+15:ExifByteOrder                   : Big-endian (Motorola, MM)
+17:ImageWidth                      : 1170
+18:ImageHeight                     : 1560
+19:BitDepth                        : 8
+20:ColorType                       : RGB
+21:Compression                     : Deflate/Inflate
+22:Filter                          : Adaptive
+23:Interlace                       : Noninterlaced
+24:ProfileName                     : ICC Profile
+26:ProfileCMMType                  : Apple Computer Inc.
+27:ProfileVersion                  : 4.0.0
+28:ProfileClass                    : Display Device Profile
+29:ColorSpaceData                  : RGB
+30:ProfileConnectionSpace          : XYZ
+31:ProfileDateTime                 : 2017:07:07 13:22:32
+32:ProfileFileSignature            : acsp
+33:PrimaryPlatform                 : Apple Computer Inc.
+34:CMMFlags                        : Not Embedded, Independent
+35:DeviceManufacturer              : Apple Computer Inc.
+36:DeviceModel                     : 
+37:DeviceAttributes                : Reflective, Glossy, Positive, Color
+38:RenderingIntent                 : Perceptual
+39:ConnectionSpaceIlluminant       : 0.9642 1 0.82491
+40:ProfileCreator                  : Apple Computer Inc.
+41:ProfileID                       : ca1a9582257f104d389913d5d1ea1582
+43:ProfileDescription              : Display P3
+44:ProfileCopyright                : Copyright Apple Inc., 2017
+45:MediaWhitePoint                 : 0.95045 1 1.08905
+46:RedMatrixColumn                 : 0.51512 0.2412 -0.00105
+47:GreenMatrixColumn               : 0.29198 0.69225 0.04189
+48:BlueMatrixColumn                : 0.1571 0.06657 0.78407
+49:RedTRC                          : (Binary data 32 bytes, use -b option to extract)
+50:ChromaticAdaptation             : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+51:BlueTRC                         : (Binary data 32 bytes, use -b option to extract)
+52:GreenTRC                        : (Binary data 32 bytes, use -b option to extract)
+54:Orientation                     : Horizontal (normal)
+55:XResolution                     : 72
+56:YResolution                     : 72
+57:ResolutionUnit                  : inches
+58:YCbCrPositioning                : Centered
+60:ExifVersion                     : 0221
+61:ComponentsConfiguration         : Y, Cb, Cr, -
+62:FlashpixVersion                 : 0100
+63:ColorSpace                      : Uncalibrated
+64:ExifImageWidth                  : 1170
+65:ExifImageHeight                 : 1560
+66:SceneCaptureType                : Standard
+68:Compression                     : JPEG (old-style)
+69:XResolution                     : 72
+70:YResolution                     : 72
+71:ResolutionUnit                  : inches
+72:ThumbnailOffset                 : 286
+73:ThumbnailLength                 : 7790
+74:ThumbnailImage                  : (Binary data 7790 bytes, use -b option to extract)
+76:ImageSize                       : 1170x1560
+77:Megapixels                      : 1.8
+
+### puzzle_0006.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0006.png
+5:Directory                       : .
+6:FileSize                        : 20 MB
+7:FileModifyDate                  : 2026:05:01 01:46:36-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:10-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+15:ExifByteOrder                   : Big-endian (Motorola, MM)
+17:ImageWidth                      : 5712
+18:ImageHeight                     : 4284
+19:BitDepth                        : 8
+20:ColorType                       : RGB with Alpha
+21:Compression                     : Deflate/Inflate
+22:Filter                          : Adaptive
+23:Interlace                       : Noninterlaced
+24:ProfileName                     : ICC Profile
+26:ProfileCMMType                  : Apple Computer Inc.
+27:ProfileVersion                  : 4.0.0
+28:ProfileClass                    : Display Device Profile
+29:ColorSpaceData                  : RGB
+30:ProfileConnectionSpace          : XYZ
+31:ProfileDateTime                 : 2022:01:01 00:00:00
+32:ProfileFileSignature            : acsp
+33:PrimaryPlatform                 : Apple Computer Inc.
+34:CMMFlags                        : Not Embedded, Independent
+35:DeviceManufacturer              : Apple Computer Inc.
+36:DeviceModel                     : 
+37:DeviceAttributes                : Reflective, Glossy, Positive, Color
+38:RenderingIntent                 : Perceptual
+39:ConnectionSpaceIlluminant       : 0.9642 1 0.82491
+40:ProfileCreator                  : Apple Computer Inc.
+41:ProfileID                       : ecfda38e388547c36db4bd4f7ada182f
+43:ProfileDescription              : Display P3
+44:ProfileCopyright                : Copyright Apple Inc., 2022
+45:MediaWhitePoint                 : 0.96419 1 0.82489
+46:RedMatrixColumn                 : 0.51512 0.2412 -0.00105
+47:GreenMatrixColumn               : 0.29198 0.69225 0.04189
+48:BlueMatrixColumn                : 0.1571 0.06657 0.78407
+49:RedTRC                          : (Binary data 32 bytes, use -b option to extract)
+50:ChromaticAdaptation             : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+51:BlueTRC                         : (Binary data 32 bytes, use -b option to extract)
+52:GreenTRC                        : (Binary data 32 bytes, use -b option to extract)
+54:Make                            : Apple
+55:Model                           : iPhone 15
+56:Orientation                     : Rotate 90 CW
+57:XResolution                     : 72
+58:YResolution                     : 72
+59:ResolutionUnit                  : inches
+60:Software                        : 17.6.1
+61:ModifyDate                      : 2026:04:12 20:14:25
+62:HostComputer                    : iPhone 15
+63:YCbCrPositioning                : Centered
+65:ExposureTime                    : 1/30
+66:FNumber                         : 1.6
+67:ExposureProgram                 : Program AE
+68:ISO                             : 800
+69:ExifVersion                     : 0232
+70:DateTimeOriginal                : 2026:04:12 20:14:25
+71:CreateDate                      : 2026:04:12 20:14:25
+72:OffsetTime                      : -05:00
+73:OffsetTimeOriginal              : -05:00
+74:OffsetTimeDigitized             : -05:00
+75:ComponentsConfiguration         : Y, Cb, Cr, -
+76:ShutterSpeedValue               : 1/30
+77:ApertureValue                   : 1.6
+78:BrightnessValue                 : -1.811876679
+79:ExposureCompensation            : 0
+80:MeteringMode                    : Multi-segment
+81:Flash                           : Off, Did not fire
+82:FocalLength                     : 6.0 mm
+83:SubjectArea                     : 2846 2130 3129 1880
+84:SubSecTimeOriginal              : 317
+85:SubSecTimeDigitized             : 317
+86:FlashpixVersion                 : 0100
+87:ColorSpace                      : Uncalibrated
+88:ExifImageWidth                  : 5712
+89:ExifImageHeight                 : 4284
+90:SensingMethod                   : One-chip color area
+91:SceneType                       : Directly photographed
+92:ExposureMode                    : Auto
+93:WhiteBalance                    : Auto
+94:FocalLengthIn35mmFormat         : 26 mm
+95:SceneCaptureType                : Standard
+96:LensInfo                        : 1.539999962-5.960000038mm f/1.6-2.4
+97:LensMake                        : Apple
+98:LensModel                       : iPhone 15 back dual wide camera 5.96mm f/1.6
+99:CompositeImage                  : General Composite Image
+101:MakerNoteVersion                : 14
+102:RunTimeFlags                    : Valid
+103:RunTimeValue                    : 90529780331833
+104:RunTimeScale                    : 1000000000
+105:RunTimeEpoch                    : 0
+106:AEStable                        : Yes
+107:AETarget                        : 104
+108:AEAverage                       : 105
+109:AFStable                        : Yes
+110:AccelerationVector              : -0.5163406135 0.03555301204 -0.9205166099
+111:FocusDistanceRange              : 0.84 - 1.33 m
+112:Apple_0x000d                    : -30
+113:Apple_0x000e                    : 0
+114:Apple_0x0010                    : 1
+115:ContentIdentifier               : 56F78CAD-E5FB-450B-AC54-536693F7CE1B
+116:ImageCaptureType                : Scene
+117:Apple_0x0016                    : bplist00_..ASW/ZrXyZjBFiEaHQZi8Aihtmod2...[...]
+118:LivePhotoVideoIndex             : 8595185700
+119:ImageProcessingFlags            : [1], [13], [17]
+120:QualityHint                     : q750n
+121:PhotosAppFeatureFlags           : 0
+122:ImageCaptureRequestID           : F660767D-F5DB-427E-A060-DC05057F42BA
+123:HDRHeadroom                     : 1.00999999
+124:AFPerformance                   : 40 1 81
+125:SceneFlags                      : [1], [2], [3], [7], [10], [12], [20], [21], [23]
+126:SignalToNoiseRatioType          : 3
+127:SignalToNoiseRatio              : 26.99994278
+128:PhotoIdentifier                 : 1930A718-84F6-4642-A626-A1D971A09ECB
+129:ColorTemperature                : 3127
+130:CameraType                      : Back Normal
+131:FocusPosition                   : 86
+132:HDRGain                         : 1.803306816
+133:Apple_0x0036                    : 20
+134:Apple_0x0037                    : 4
+135:Apple_0x003a                    : 0
+136:Apple_0x003b                    : 0
+137:Apple_0x003c                    : 4
+138:GreenGhostMitigationStatus      : 0
+139:SemanticStyle                   : {_0=1,_1=0,_2=0,_3=0}
+140:Apple_0x0043                    : 0
+141:Apple_0x0044                    : 0
+142:Apple_0x0045                    : 0
+143:Apple_0x0046                    : 0
+144:Apple_0x004a                    : 2
+145:Apple_0x004d                    : 26.71087645
+146:Apple_0x004e                    : {_1=1,_2=[]}
+147:Apple_0x004f                    : 0
+148:Apple_0x0052                    : 0
+149:Apple_0x0053                    : 1
+151:Compression                     : JPEG (old-style)
+152:XResolution                     : 72
+153:YResolution                     : 72
+154:ResolutionUnit                  : inches
+155:ThumbnailOffset                 : 2696
+156:ThumbnailLength                 : 10647
+157:ThumbnailImage                  : (Binary data 10647 bytes, use -b option to extract)
+159:RunTimeSincePowerUp             : 1 days 1:08:50
+160:Aperture                        : 1.6
+161:ImageSize                       : 5712x4284
+162:Megapixels                      : 24.5
+163:ScaleFactor35efl                : 4.4
+164:ShutterSpeed                    : 1/30
+165:SubSecCreateDate                : 2026:04:12 20:14:25.317-05:00
+166:SubSecDateTimeOriginal          : 2026:04:12 20:14:25.317-05:00
+167:SubSecModifyDate                : 2026:04:12 20:14:25-05:00
+168:CircleOfConfusion               : 0.007 mm
+169:FOV                             : 69.4 deg
+170:FocalLength35efl                : 6.0 mm (35 mm equivalent: 26.0 mm)
+171:HyperfocalDistance              : 3.22 m
+172:LightValue                      : 3.3
+173:LensID                          : iPhone 15 back dual wide camera 5.96mm f/1.6
+
+### puzzle_0007.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0007.png
+5:Directory                       : .
+6:FileSize                        : 1487 kB
+7:FileModifyDate                  : 2026:05:01 01:46:36-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:11-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+15:ExifByteOrder                   : Big-endian (Motorola, MM)
+17:ImageWidth                      : 2420
+18:ImageHeight                     : 1845
+19:BitDepth                        : 8
+20:ColorType                       : RGB
+21:Compression                     : Deflate/Inflate
+22:Filter                          : Adaptive
+23:Interlace                       : Noninterlaced
+25:ImageDescription                : AAAAGGMyVmpjbVYwZXpOak9HRTJNR1ZoZlE9PQ==
+26:Orientation                     : Horizontal (normal)
+27:XResolution                     : 72
+28:YResolution                     : 72
+29:ResolutionUnit                  : inches
+30:YCbCrPositioning                : Centered
+32:ExifVersion                     : 0221
+33:ComponentsConfiguration         : Y, Cb, Cr, -
+34:FlashpixVersion                 : 0100
+35:ColorSpace                      : sRGB
+36:ExifImageWidth                  : 2420
+37:ExifImageHeight                 : 1845
+38:SceneCaptureType                : Standard
+40:Compression                     : JPEG (old-style)
+41:XResolution                     : 72
+42:YResolution                     : 72
+43:ResolutionUnit                  : inches
+44:ThumbnailOffset                 : 335
+45:ThumbnailLength                 : 15995
+46:ThumbnailImage                  : (Binary data 15995 bytes, use -b option to extract)
+48:ImageSize                       : 2420x1845
+49:Megapixels                      : 4.5
+
+### puzzle_0008.png
+2:ExifToolVersion                 : 13.55
+3:Warning                         : [minor] Trailer data after PNG IEND chunk
+5:FileName                        : puzzle_0008.png
+6:Directory                       : .
+7:FileSize                        : 6.9 MB
+8:FileModifyDate                  : 2026:05:01 01:46:38-05:00
+9:FileAccessDate                  : 2026:05:01 21:51:11-05:00
+10:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+11:FilePermissions                 : -rw-r--r--
+13:FileType                        : PNG
+14:FileTypeExtension               : png
+15:MIMEType                        : image/png
+16:ExifByteOrder                   : Big-endian (Motorola, MM)
+18:ImageWidth                      : 4032
+19:ImageHeight                     : 3024
+20:BitDepth                        : 8
+21:ColorType                       : RGB
+22:Compression                     : Deflate/Inflate
+23:Filter                          : Adaptive
+24:Interlace                       : Noninterlaced
+25:ProfileName                     : ICC Profile
+27:ProfileCMMType                  : Apple Computer Inc.
+28:ProfileVersion                  : 4.0.0
+29:ProfileClass                    : Display Device Profile
+30:ColorSpaceData                  : RGB
+31:ProfileConnectionSpace          : XYZ
+32:ProfileDateTime                 : 2022:01:01 00:00:00
+33:ProfileFileSignature            : acsp
+34:PrimaryPlatform                 : Apple Computer Inc.
+35:CMMFlags                        : Not Embedded, Independent
+36:DeviceManufacturer              : Apple Computer Inc.
+37:DeviceModel                     : 
+38:DeviceAttributes                : Reflective, Glossy, Positive, Color
+39:RenderingIntent                 : Perceptual
+40:ConnectionSpaceIlluminant       : 0.9642 1 0.82491
+41:ProfileCreator                  : Apple Computer Inc.
+42:ProfileID                       : ecfda38e388547c36db4bd4f7ada182f
+44:ProfileDescription              : Display P3
+45:ProfileCopyright                : Copyright Apple Inc., 2022
+46:MediaWhitePoint                 : 0.96419 1 0.82489
+47:RedMatrixColumn                 : 0.51512 0.2412 -0.00105
+48:GreenMatrixColumn               : 0.29198 0.69225 0.04189
+49:BlueMatrixColumn                : 0.1571 0.06657 0.78407
+50:RedTRC                          : (Binary data 32 bytes, use -b option to extract)
+51:ChromaticAdaptation             : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+52:BlueTRC                         : (Binary data 32 bytes, use -b option to extract)
+53:GreenTRC                        : (Binary data 32 bytes, use -b option to extract)
+55:Make                            : Apple
+56:Model                           : iPhone 15
+57:Orientation                     : Horizontal (normal)
+58:XResolution                     : 72
+59:YResolution                     : 72
+60:ResolutionUnit                  : inches
+61:Software                        : 17.6.1
+62:ModifyDate                      : 2026:04:17 18:56:46
+63:HostComputer                    : iPhone 15
+64:YCbCrPositioning                : Centered
+66:ExposureTime                    : 1/1695
+67:FNumber                         : 1.6
+68:ExposureProgram                 : Program AE
+69:ISO                             : 32
+70:ExifVersion                     : 0232
+71:DateTimeOriginal                : 2026:04:17 18:56:46
+72:CreateDate                      : 2026:04:17 18:56:46
+73:OffsetTime                      : -05:00
+74:OffsetTimeOriginal              : -05:00
+75:OffsetTimeDigitized             : -05:00
+76:ComponentsConfiguration         : Y, Cb, Cr, -
+77:ShutterSpeedValue               : 1/1695
+78:ApertureValue                   : 1.6
+79:BrightnessValue                 : 9.313834888
+80:ExposureCompensation            : 0
+81:MeteringMode                    : Multi-segment
+82:Flash                           : Off, Did not fire
+83:FocalLength                     : 6.0 mm
+84:SubjectArea                     : 2011 1508 1154 659
+85:SubSecTimeOriginal              : 045
+86:SubSecTimeDigitized             : 045
+87:FlashpixVersion                 : 0100
+88:ColorSpace                      : Uncalibrated
+89:ExifImageWidth                  : 4032
+90:ExifImageHeight                 : 3024
+91:SensingMethod                   : One-chip color area
+92:SceneType                       : Directly photographed
+93:ExposureMode                    : Auto
+94:WhiteBalance                    : Auto
+95:DigitalZoomRatio                : 1.173002327
+96:FocalLengthIn35mmFormat         : 61 mm
+97:SceneCaptureType                : Standard
+98:LensInfo                        : 1.539999962-5.960000038mm f/1.6-2.4
+99:LensMake                        : Apple
+100:LensModel                       : iPhone 15 back dual wide camera 5.96mm f/1.6
+101:CompositeImage                  : General Composite Image
+103:MakerNoteVersion                : 14
+104:RunTimeFlags                    : Valid
+105:RunTimeValue                    : 6300635436458
+106:RunTimeScale                    : 1000000000
+107:RunTimeEpoch                    : 0
+108:AEStable                        : No
+109:AETarget                        : 197
+110:AEAverage                       : 204
+111:AFStable                        : Yes
+112:AccelerationVector              : -0.9985339046 0.01206590421 0.03933466598
+113:FocusDistanceRange              : 1.13 - 1.64 m
+114:Apple_0x000d                    : 20
+115:Apple_0x000e                    : 4
+116:Apple_0x0010                    : 1
+117:ContentIdentifier               : A3B7A3A8-BE50-4C98-A966-491DF86E58E5
+118:ImageCaptureType                : Scene
+119:Apple_0x0016                    : bplist00_..AdqElSgyO3CYq0aaGXwy3q8xs3GX...[...]
+120:LivePhotoVideoIndex             : 5251124
+121:ImageProcessingFlags            : [1], [13]
+122:QualityHint                     : q825s
+123:PhotosAppFeatureFlags           : 0
+124:ImageCaptureRequestID           : BE75CCE4-08AE-4671-B7C1-56526820417B
+125:HDRHeadroom                     : 1.00999999
+126:AFPerformance                   : 370 1 45
+127:SceneFlags                      : [1], [2], [7], [12], [23]
+128:SignalToNoiseRatioType          : 3
+129:SignalToNoiseRatio              : 54.73606109
+130:PhotoIdentifier                 : 62496D61-5D7B-489F-A2D2-F41C787E8240
+131:ColorTemperature                : 7201
+132:CameraType                      : Back Normal
+133:FocusPosition                   : 49
+134:HDRGain                         : 0.003030984897
+135:Apple_0x0036                    : 41365
+136:Apple_0x0037                    : 4
+137:Apple_0x003a                    : 0
+138:Apple_0x003b                    : 0
+139:Apple_0x003c                    : 4
+140:GreenGhostMitigationStatus      : 0
+141:SemanticStyle                   : {_0=1,_1=0,_2=0,_3=0}
+142:Apple_0x0043                    : 0
+143:Apple_0x0044                    : 0
+144:Apple_0x0045                    : 0
+145:Apple_0x0046                    : 0
+146:Apple_0x004a                    : 2
+147:Apple_0x004d                    : 39.58718872
+148:Apple_0x004e                    : {_1=3,_2=[]}
+149:Apple_0x004f                    : 0
+150:Apple_0x0052                    : -1
+151:Apple_0x0053                    : 1
+153:Compression                     : JPEG (old-style)
+154:XResolution                     : 72
+155:YResolution                     : 72
+156:ResolutionUnit                  : inches
+157:ThumbnailOffset                 : 2716
+158:ThumbnailLength                 : 6860
+159:ThumbnailImage                  : (Binary data 6860 bytes, use -b option to extract)
+161:RunTimeSincePowerUp             : 1:45:01
+162:Aperture                        : 1.6
+163:ImageSize                       : 4032x3024
+164:Megapixels                      : 12.2
+165:ScaleFactor35efl                : 10.2
+166:ShutterSpeed                    : 1/1695
+167:SubSecCreateDate                : 2026:04:17 18:56:46.045-05:00
+168:SubSecDateTimeOriginal          : 2026:04:17 18:56:46.045-05:00
+169:SubSecModifyDate                : 2026:04:17 18:56:46-05:00
+170:CircleOfConfusion               : 0.003 mm
+171:FOV                             : 32.9 deg
+172:FocalLength35efl                : 6.0 mm (35 mm equivalent: 61.0 mm)
+173:HyperfocalDistance              : 7.56 m
+174:LightValue                      : 13.7
+175:LensID                          : iPhone 15 back dual wide camera 5.96mm f/1.6
+
+### puzzle_0009.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0009.png
+5:Directory                       : .
+6:FileSize                        : 50 kB
+7:FileModifyDate                  : 2026:05:01 01:46:38-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:11-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+16:ImageWidth                      : 300
+17:ImageHeight                     : 300
+18:BitDepth                        : 8
+19:ColorType                       : RGB with Alpha
+20:Compression                     : Deflate/Inflate
+21:Filter                          : Adaptive
+22:Interlace                       : Noninterlaced
+24:ImageSize                       : 300x300
+25:Megapixels                      : 0.090
+
+### puzzle_0010.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0010.png
+5:Directory                       : .
+6:FileSize                        : 87 kB
+7:FileModifyDate                  : 2026:05:01 01:46:38-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:11-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+15:ExifByteOrder                   : Big-endian (Motorola, MM)
+17:ImageWidth                      : 275
+18:ImageHeight                     : 183
+19:BitDepth                        : 8
+20:ColorType                       : RGB
+21:Compression                     : Deflate/Inflate
+22:Filter                          : Adaptive
+23:Interlace                       : Noninterlaced
+25:XResolution                     : 72
+26:YResolution                     : 72
+27:ResolutionUnit                  : inches
+28:YCbCrPositioning                : Centered
+30:ExifVersion                     : 0221
+31:ComponentsConfiguration         : Y, Cb, Cr, -
+32:FlashpixVersion                 : 0100
+33:ColorSpace                      : sRGB
+34:ExifImageWidth                  : 275
+35:ExifImageHeight                 : 183
+36:SceneCaptureType                : Standard
+38:Compression                     : JPEG (old-style)
+39:XResolution                     : 72
+40:YResolution                     : 72
+41:ResolutionUnit                  : inches
+42:ThumbnailOffset                 : 274
+43:ThumbnailLength                 : 16673
+44:ThumbnailImage                  : (Binary data 16673 bytes, use -b option to extract)
+46:ImageSize                       : 275x183
+47:Megapixels                      : 0.050
+
+### puzzle_0011.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0011.png
+5:Directory                       : .
+6:FileSize                        : 1786 kB
+7:FileModifyDate                  : 2026:05:01 01:46:38-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:11-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+16:ImageWidth                      : 1754
+17:ImageHeight                     : 915
+18:BitDepth                        : 8
+19:ColorType                       : RGB
+20:Compression                     : Deflate/Inflate
+21:Filter                          : Adaptive
+22:Interlace                       : Noninterlaced
+24:ImageSize                       : 1754x915
+25:Megapixels                      : 1.6
+
+### puzzle_0012.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0012.png
+5:Directory                       : .
+6:FileSize                        : 32 MB
+7:FileModifyDate                  : 2026:05:01 01:46:45-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:11-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+15:ExifByteOrder                   : Big-endian (Motorola, MM)
+17:ImageWidth                      : 4154
+18:ImageHeight                     : 5540
+19:BitDepth                        : 8
+20:ColorType                       : RGB
+21:Compression                     : Deflate/Inflate
+22:Filter                          : Adaptive
+23:Interlace                       : Noninterlaced
+24:ProfileName                     : ICC Profile
+26:ProfileCMMType                  : Apple Computer Inc.
+27:ProfileVersion                  : 4.0.0
+28:ProfileClass                    : Display Device Profile
+29:ColorSpaceData                  : RGB
+30:ProfileConnectionSpace          : XYZ
+31:ProfileDateTime                 : 2022:01:01 00:00:00
+32:ProfileFileSignature            : acsp
+33:PrimaryPlatform                 : Apple Computer Inc.
+34:CMMFlags                        : Not Embedded, Independent
+35:DeviceManufacturer              : Apple Computer Inc.
+36:DeviceModel                     : 
+37:DeviceAttributes                : Reflective, Glossy, Positive, Color
+38:RenderingIntent                 : Perceptual
+39:ConnectionSpaceIlluminant       : 0.9642 1 0.82491
+40:ProfileCreator                  : Apple Computer Inc.
+41:ProfileID                       : ecfda38e388547c36db4bd4f7ada182f
+43:ProfileDescription              : Display P3
+44:ProfileCopyright                : Copyright Apple Inc., 2022
+45:MediaWhitePoint                 : 0.96419 1 0.82489
+46:RedMatrixColumn                 : 0.51512 0.2412 -0.00105
+47:GreenMatrixColumn               : 0.29198 0.69225 0.04189
+48:BlueMatrixColumn                : 0.1571 0.06657 0.78407
+49:RedTRC                          : (Binary data 32 bytes, use -b option to extract)
+50:ChromaticAdaptation             : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+51:BlueTRC                         : (Binary data 32 bytes, use -b option to extract)
+52:GreenTRC                        : (Binary data 32 bytes, use -b option to extract)
+54:Make                            : Apple
+55:Model                           : iPhone 15
+56:Orientation                     : Horizontal (normal)
+57:XResolution                     : 72
+58:YResolution                     : 72
+59:ResolutionUnit                  : inches
+60:Software                        : 17.6.1
+61:ModifyDate                      : 2024:09:20 15:13:24
+62:HostComputer                    : iPhone 15
+63:YCbCrPositioning                : Centered
+65:ExposureTime                    : 1/2933
+66:FNumber                         : 1.6
+67:ExposureProgram                 : Program AE
+68:ISO                             : 50
+69:ExifVersion                     : 0232
+70:DateTimeOriginal                : 2024:09:20 15:13:24
+71:CreateDate                      : 2024:09:20 15:13:24
+72:OffsetTime                      : -05:00
+73:OffsetTimeOriginal              : -05:00
+74:OffsetTimeDigitized             : -05:00
+75:ComponentsConfiguration         : Y, Cb, Cr, -
+76:ShutterSpeedValue               : 1/2933
+77:ApertureValue                   : 1.6
+78:BrightnessValue                 : 9.410105695
+79:ExposureCompensation            : 0
+80:MeteringMode                    : Multi-segment
+81:Flash                           : Off, Did not fire
+82:FocalLength                     : 6.0 mm
+83:SubjectArea                     : 2846 2130 3129 1880
+84:SubSecTimeOriginal              : 480
+85:SubSecTimeDigitized             : 480
+86:FlashpixVersion                 : 0100
+87:ColorSpace                      : Uncalibrated
+88:ExifImageWidth                  : 4154
+89:ExifImageHeight                 : 5540
+90:SensingMethod                   : One-chip color area
+91:SceneType                       : Directly photographed
+92:ExposureMode                    : Auto
+93:WhiteBalance                    : Auto
+94:FocalLengthIn35mmFormat         : 26 mm
+95:SceneCaptureType                : Standard
+96:LensInfo                        : 1.539999962-5.960000038mm f/1.6-2.4
+97:LensMake                        : Apple
+98:LensModel                       : iPhone 15 back dual wide camera 5.96mm f/1.6
+99:CompositeImage                  : General Composite Image
+101:MakerNoteVersion                : 14
+102:RunTimeFlags                    : Valid
+103:RunTimeValue                    : 485990123837666
+104:RunTimeScale                    : 1000000000
+105:RunTimeEpoch                    : 0
+106:AEStable                        : Yes
+107:AETarget                        : 169
+108:AEAverage                       : 174
+109:AFStable                        : Yes
+110:AccelerationVector              : 0.009797109287 -0.9693543918 0.1861731409
+111:FocusDistanceRange              : 0.18 - 1.77 m
+112:Apple_0x000d                    : 0
+113:Apple_0x000e                    : 4
+114:Apple_0x0010                    : 1
+115:ContentIdentifier               : C83799B8-785F-430A-A95D-DCC8FCC55E92
+116:ImageCaptureType                : Scene
+117:Apple_0x0016                    : bplist00_..AVnZS9382ukl9OEk8g7Dm9MjSSzW...[...]
+118:LivePhotoVideoIndex             : 8595185700
+119:ImageProcessingFlags            : [1], [13], [17]
+120:QualityHint                     : q750n
+121:PhotosAppFeatureFlags           : 0
+122:ImageCaptureRequestID           : 882912BC-3C64-4559-8903-BCECDEA1A3A4
+123:HDRHeadroom                     : 1.00999999
+124:AFPerformance                   : 510 1 47
+125:SceneFlags                      : [1], [2], [7], [12], [20], [21], [23]
+126:SignalToNoiseRatioType          : 3
+127:SignalToNoiseRatio              : 61.04526902
+128:PhotoIdentifier                 : B7FF696D-550B-4F68-ABDC-099F58D18D33
+129:ColorTemperature                : 5291
+130:CameraType                      : Back Normal
+131:FocusPosition                   : 44
+132:HDRGain                         : 0.003030984897
+133:Apple_0x0036                    : 43976
+134:Apple_0x0037                    : 4
+135:Apple_0x003a                    : 0
+136:Apple_0x003b                    : 0
+137:Apple_0x003c                    : 4
+138:GreenGhostMitigationStatus      : 0
+139:SemanticStyle                   : {_0=1,_1=0,_2=0,_3=0}
+140:Apple_0x0043                    : 0
+141:Apple_0x0044                    : 0
+142:Apple_0x0045                    : 0
+143:Apple_0x0046                    : 0
+144:Apple_0x004a                    : 2
+145:Apple_0x004d                    : 37.17608641
+146:Apple_0x004e                    : {_1=3,_2=[]}
+147:Apple_0x004f                    : 0
+148:Apple_0x0052                    : 0
+149:Apple_0x0053                    : 1
+151:Compression                     : JPEG (old-style)
+152:XResolution                     : 72
+153:YResolution                     : 72
+154:ResolutionUnit                  : inches
+155:ThumbnailOffset                 : 2696
+156:ThumbnailLength                 : 10904
+157:ThumbnailImage                  : (Binary data 10904 bytes, use -b option to extract)
+159:RunTimeSincePowerUp             : 5 days 14:59:50
+160:Aperture                        : 1.6
+161:ImageSize                       : 4154x5540
+162:Megapixels                      : 23.0
+163:ScaleFactor35efl                : 4.4
+164:ShutterSpeed                    : 1/2933
+165:SubSecCreateDate                : 2024:09:20 15:13:24.480-05:00
+166:SubSecDateTimeOriginal          : 2024:09:20 15:13:24.480-05:00
+167:SubSecModifyDate                : 2024:09:20 15:13:24-05:00
+168:CircleOfConfusion               : 0.007 mm
+169:FOV                             : 69.4 deg
+170:FocalLength35efl                : 6.0 mm (35 mm equivalent: 26.0 mm)
+171:HyperfocalDistance              : 3.22 m
+172:LightValue                      : 13.9
+173:LensID                          : iPhone 15 back dual wide camera 5.96mm f/1.6
+
+### puzzle_0013.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0013.png
+5:Directory                       : .
+6:FileSize                        : 1646 kB
+7:FileModifyDate                  : 2026:05:01 01:46:45-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:11-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+16:ImageWidth                      : 1400
+17:ImageHeight                     : 1434
+18:BitDepth                        : 8
+19:ColorType                       : RGB with Alpha
+20:Compression                     : Deflate/Inflate
+21:Filter                          : Adaptive
+22:Interlace                       : Noninterlaced
+24:ImageSize                       : 1400x1434
+25:Megapixels                      : 2.0
+
+### puzzle_0014.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0014.png
+5:Directory                       : .
+6:FileSize                        : 323 kB
+7:FileModifyDate                  : 2026:05:01 01:46:45-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:11-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+15:ExifByteOrder                   : Big-endian (Motorola, MM)
+17:ImageWidth                      : 640
+18:ImageHeight                     : 480
+19:BitDepth                        : 8
+20:ColorType                       : RGB
+21:Compression                     : Deflate/Inflate
+22:Filter                          : Adaptive
+23:Interlace                       : Noninterlaced
+25:ImageDescription                : AAAAEHNlY3JldHs1NTI3MzVmZH0=
+27:ImageSize                       : 640x480
+28:Megapixels                      : 0.307
+
+### puzzle_0015.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0015.png
+5:Directory                       : .
+6:FileSize                        : 120 kB
+7:FileModifyDate                  : 2026:05:01 01:46:45-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:11-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+16:ImageWidth                      : 300
+17:ImageHeight                     : 241
+18:BitDepth                        : 8
+19:ColorType                       : RGB
+20:Compression                     : Deflate/Inflate
+21:Filter                          : Adaptive
+22:Interlace                       : Noninterlaced
+23:ProfileName                     : ICC Profile
+25:ProfileCMMType                  : Adobe Systems Inc.
+26:ProfileVersion                  : 2.1.0
+27:ProfileClass                    : Display Device Profile
+28:ColorSpaceData                  : RGB
+29:ProfileConnectionSpace          : XYZ
+30:ProfileDateTime                 : 2001:08:08 08:29:52
+31:ProfileFileSignature            : acsp
+32:PrimaryPlatform                 : Apple Computer Inc.
+33:CMMFlags                        : Not Embedded, Independent
+34:DeviceManufacturer              : none
+35:DeviceModel                     : 
+36:DeviceAttributes                : Reflective, Glossy, Positive, Color
+37:RenderingIntent                 : Perceptual
+38:ConnectionSpaceIlluminant       : 0.9642 1 0.82491
+39:ProfileCreator                  : Adobe Systems Inc.
+40:ProfileID                       : 0
+42:ProfileCopyright                : (c) 2001 Adobe Systems Inc.
+43:ProfileDescription              : Corbis RGB
+44:MediaWhitePoint                 : 0.95045 1 1.08905
+45:MediaBlackPoint                 : 0 0 0
+46:RedTRC                          : (Binary data 14 bytes, use -b option to extract)
+47:GreenTRC                        : (Binary data 14 bytes, use -b option to extract)
+48:BlueTRC                         : (Binary data 14 bytes, use -b option to extract)
+49:RedMatrixColumn                 : 0.44553 0.2081 0.02887
+50:GreenMatrixColumn               : 0.38095 0.73355 0.10869
+51:BlueMatrixColumn                : 0.13773 0.05835 0.68735
+53:ImageSize                       : 300x241
+54:Megapixels                      : 0.072
+
+### puzzle_0016.png
+2:ExifToolVersion                 : 13.55
+3:Warning                         : [minor] Trailer data after PNG IEND chunk
+5:FileName                        : puzzle_0016.png
+6:Directory                       : .
+7:FileSize                        : 1642 kB
+8:FileModifyDate                  : 2026:05:01 01:46:45-05:00
+9:FileAccessDate                  : 2026:05:01 21:51:11-05:00
+10:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+11:FilePermissions                 : -rw-r--r--
+13:FileType                        : PNG
+14:FileTypeExtension               : png
+15:MIMEType                        : image/png
+16:ExifByteOrder                   : Big-endian (Motorola, MM)
+18:ImageWidth                      : 1080
+19:ImageHeight                     : 813
+20:BitDepth                        : 8
+21:ColorType                       : RGB
+22:Compression                     : Deflate/Inflate
+23:Filter                          : Adaptive
+24:Interlace                       : Noninterlaced
+26:XResolution                     : 72
+27:YResolution                     : 72
+28:ResolutionUnit                  : inches
+29:YCbCrPositioning                : Centered
+31:ExifVersion                     : 0221
+32:ComponentsConfiguration         : Y, Cb, Cr, -
+33:FlashpixVersion                 : 0100
+34:ColorSpace                      : sRGB
+35:ExifImageWidth                  : 1080
+36:ExifImageHeight                 : 813
+37:SceneCaptureType                : Standard
+39:Compression                     : JPEG (old-style)
+40:XResolution                     : 72
+41:YResolution                     : 72
+42:ResolutionUnit                  : inches
+43:ThumbnailOffset                 : 274
+44:ThumbnailLength                 : 15441
+45:ThumbnailImage                  : (Binary data 15441 bytes, use -b option to extract)
+47:ImageSize                       : 1080x813
+48:Megapixels                      : 0.878
+
+### puzzle_0017.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0017.png
+5:Directory                       : .
+6:FileSize                        : 12 MB
+7:FileModifyDate                  : 2026:05:01 01:46:46-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:11-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+15:ExifByteOrder                   : Big-endian (Motorola, MM)
+17:ImageWidth                      : 3000
+18:ImageHeight                     : 2256
+19:BitDepth                        : 8
+20:ColorType                       : RGB with Alpha
+21:Compression                     : Deflate/Inflate
+22:Filter                          : Adaptive
+23:Interlace                       : Noninterlaced
+24:ProfileName                     : ICC Profile
+26:ProfileCMMType                  : Linotronic
+27:ProfileVersion                  : 2.1.0
+28:ProfileClass                    : Display Device Profile
+29:ColorSpaceData                  : RGB
+30:ProfileConnectionSpace          : XYZ
+31:ProfileDateTime                 : 1998:02:09 06:49:00
+32:ProfileFileSignature            : acsp
+33:PrimaryPlatform                 : Microsoft Corporation
+34:CMMFlags                        : Not Embedded, Independent
+35:DeviceManufacturer              : Hewlett-Packard
+36:DeviceModel                     : sRGB
+37:DeviceAttributes                : Reflective, Glossy, Positive, Color
+38:RenderingIntent                 : Perceptual
+39:ConnectionSpaceIlluminant       : 0.9642 1 0.82491
+40:ProfileCreator                  : Hewlett-Packard
+41:ProfileID                       : 0
+43:ProfileCopyright                : Copyright (c) 1998 Hewlett-Packard Company
+44:ProfileDescription              : sRGB IEC61966-2.1
+45:MediaWhitePoint                 : 0.95045 1 1.08905
+46:MediaBlackPoint                 : 0 0 0
+47:RedMatrixColumn                 : 0.43607 0.22249 0.01392
+48:GreenMatrixColumn               : 0.38515 0.71687 0.09708
+49:BlueMatrixColumn                : 0.14307 0.06061 0.7141
+50:DeviceMfgDesc                   : IEC http://www.iec.ch
+51:DeviceModelDesc                 : IEC 61966-2.1 Default RGB colour space - sRGB
+52:ViewingCondDesc                 : Reference Viewing Condition in IEC61966-2.1
+53:Luminance                       : 76.03647 80 87.12462
+54:Technology                      : Cathode Ray Tube Display
+55:RedTRC                          : (Binary data 2060 bytes, use -b option to extract)
+56:GreenTRC                        : (Binary data 2060 bytes, use -b option to extract)
+57:BlueTRC                         : (Binary data 2060 bytes, use -b option to extract)
+59:ViewingCondIlluminant           : 19.6445 20.3718 16.8089
+60:ViewingCondSurround             : 3.92889 4.07439 3.36179
+61:ViewingCondIlluminantType       : D50
+63:MeasurementObserver             : CIE 1931
+64:MeasurementBacking              : 0 0 0
+65:MeasurementGeometry             : Unknown
+66:MeasurementFlare                : 0.999%
+67:MeasurementIlluminant           : D65
+69:XResolution                     : 300
+70:YResolution                     : 300
+71:ResolutionUnit                  : inches
+72:Software                        : LiquidPixels LiquiFire 2.17.2
+73:YCbCrPositioning                : Centered
+75:ExifVersion                     : 0220
+76:ComponentsConfiguration         : Y, Cb, Cr, -
+77:FlashpixVersion                 : 0100
+78:ColorSpace                      : sRGB
+79:ExifImageWidth                  : 3000
+80:ExifImageHeight                 : 2256
+81:SceneCaptureType                : Standard
+83:Compression                     : JPEG (old-style)
+84:XResolution                     : 72
+85:YResolution                     : 72
+86:ResolutionUnit                  : inches
+87:ThumbnailOffset                 : 316
+88:ThumbnailLength                 : 31739
+89:ThumbnailImage                  : (Binary data 31739 bytes, use -b option to extract)
+91:ImageSize                       : 3000x2256
+92:Megapixels                      : 6.8
+
+### puzzle_0018.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0018.png
+5:Directory                       : .
+6:FileSize                        : 928 kB
+7:FileModifyDate                  : 2026:05:01 01:46:47-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:12-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+15:ExifByteOrder                   : Big-endian (Motorola, MM)
+17:ImageWidth                      : 1739
+18:ImageHeight                     : 2573
+19:BitDepth                        : 8
+20:ColorType                       : RGB
+21:Compression                     : Deflate/Inflate
+22:Filter                          : Adaptive
+23:Interlace                       : Noninterlaced
+25:Orientation                     : Horizontal (normal)
+26:XResolution                     : 72
+27:YResolution                     : 72
+28:ResolutionUnit                  : inches
+29:YCbCrPositioning                : Centered
+31:ExifVersion                     : 0221
+32:ComponentsConfiguration         : Y, Cb, Cr, -
+33:FlashpixVersion                 : 0100
+34:ColorSpace                      : sRGB
+35:ExifImageWidth                  : 1739
+36:ExifImageHeight                 : 2573
+37:SceneCaptureType                : Standard
+39:Compression                     : JPEG (old-style)
+40:XResolution                     : 72
+41:YResolution                     : 72
+42:ResolutionUnit                  : inches
+43:ThumbnailOffset                 : 286
+44:ThumbnailLength                 : 10670
+45:ThumbnailImage                  : (Binary data 10670 bytes, use -b option to extract)
+47:ImageSize                       : 1739x2573
+48:Megapixels                      : 4.5
+
+### puzzle_0019.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0019.png
+5:Directory                       : .
+6:FileSize                        : 776 kB
+7:FileModifyDate                  : 2026:05:01 01:46:47-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:12-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+16:ImageWidth                      : 1088
+17:ImageHeight                     : 628
+18:BitDepth                        : 8
+19:ColorType                       : RGB with Alpha
+20:Compression                     : Deflate/Inflate
+21:Filter                          : Adaptive
+22:Interlace                       : Noninterlaced
+24:ImageSize                       : 1088x628
+25:Megapixels                      : 0.683
+
+### puzzle_0020.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0020.png
+5:Directory                       : .
+6:FileSize                        : 1980 kB
+7:FileModifyDate                  : 2026:05:01 01:46:52-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:12-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+15:ExifByteOrder                   : Big-endian (Motorola, MM)
+17:ImageWidth                      : 5712
+18:ImageHeight                     : 4284
+19:BitDepth                        : 8
+20:ColorType                       : RGB
+21:Compression                     : Deflate/Inflate
+22:Filter                          : Adaptive
+23:Interlace                       : Noninterlaced
+24:ProfileName                     : ICC Profile
+26:ProfileCMMType                  : Apple Computer Inc.
+27:ProfileVersion                  : 4.0.0
+28:ProfileClass                    : Display Device Profile
+29:ColorSpaceData                  : RGB
+30:ProfileConnectionSpace          : XYZ
+31:ProfileDateTime                 : 2022:01:01 00:00:00
+32:ProfileFileSignature            : acsp
+33:PrimaryPlatform                 : Apple Computer Inc.
+34:CMMFlags                        : Not Embedded, Independent
+35:DeviceManufacturer              : Apple Computer Inc.
+36:DeviceModel                     : 
+37:DeviceAttributes                : Reflective, Glossy, Positive, Color
+38:RenderingIntent                 : Perceptual
+39:ConnectionSpaceIlluminant       : 0.9642 1 0.82491
+40:ProfileCreator                  : Apple Computer Inc.
+41:ProfileID                       : ecfda38e388547c36db4bd4f7ada182f
+43:ProfileDescription              : Display P3
+44:ProfileCopyright                : Copyright Apple Inc., 2022
+45:MediaWhitePoint                 : 0.96419 1 0.82489
+46:RedMatrixColumn                 : 0.51512 0.2412 -0.00105
+47:GreenMatrixColumn               : 0.29198 0.69225 0.04189
+48:BlueMatrixColumn                : 0.1571 0.06657 0.78407
+49:RedTRC                          : (Binary data 32 bytes, use -b option to extract)
+50:ChromaticAdaptation             : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+51:BlueTRC                         : (Binary data 32 bytes, use -b option to extract)
+52:GreenTRC                        : (Binary data 32 bytes, use -b option to extract)
+54:Make                            : Apple
+55:Model                           : iPhone 15
+56:Orientation                     : Horizontal (normal)
+57:XResolution                     : 72
+58:YResolution                     : 72
+59:ResolutionUnit                  : inches
+60:Software                        : 17.6.1
+61:ModifyDate                      : 2025:03:16 20:32:59
+62:HostComputer                    : iPhone 15
+63:YCbCrPositioning                : Centered
+65:ExposureTime                    : 1/15
+66:FNumber                         : 1.6
+67:ExposureProgram                 : Program AE
+68:ISO                             : 8000
+69:ExifVersion                     : 0232
+70:DateTimeOriginal                : 2025:03:16 20:32:59
+71:CreateDate                      : 2025:03:16 20:32:59
+72:OffsetTime                      : -04:00
+73:OffsetTimeOriginal              : -04:00
+74:OffsetTimeDigitized             : -04:00
+75:ComponentsConfiguration         : Y, Cb, Cr, -
+76:ShutterSpeedValue               : 1/15
+77:ApertureValue                   : 1.6
+78:BrightnessValue                 : -10.93184026
+79:ExposureCompensation            : +0.335
+80:MeteringMode                    : Multi-segment
+81:Flash                           : Off, Did not fire
+82:FocalLength                     : 6.0 mm
+83:SubjectArea                     : 2846 2130 3129 1880
+84:SubSecTimeOriginal              : 878
+85:SubSecTimeDigitized             : 878
+86:FlashpixVersion                 : 0100
+87:ColorSpace                      : Uncalibrated
+88:ExifImageWidth                  : 5712
+89:ExifImageHeight                 : 4284
+90:SensingMethod                   : One-chip color area
+91:SceneType                       : Directly photographed
+92:ExposureMode                    : Auto
+93:WhiteBalance                    : Auto
+94:FocalLengthIn35mmFormat         : 26 mm
+95:SceneCaptureType                : Standard
+96:LensInfo                        : 1.539999962-5.960000038mm f/1.6-2.4
+97:LensMake                        : Apple
+98:LensModel                       : iPhone 15 back dual wide camera 5.96mm f/1.6
+99:CompositeImage                  : General Composite Image
+101:MakerNoteVersion                : 14
+102:RunTimeFlags                    : Valid
+103:RunTimeValue                    : 22871862979541
+104:RunTimeScale                    : 1000000000
+105:RunTimeEpoch                    : 0
+106:AEStable                        : No
+107:AETarget                        : 116
+108:AEAverage                       : 4
+109:AFStable                        : Yes
+110:AccelerationVector              : -0.9956076145 -0.007893700146 0.01207156107
+111:FocusDistanceRange              : 0.41 - 0.91 m
+112:Apple_0x000d                    : -37
+113:Apple_0x000e                    : 4
+114:Apple_0x0010                    : 1
+115:ContentIdentifier               : 060F3655-69A2-402A-A275-48A38A31DDDD
+116:ImageCaptureType                : Scene
+117:Apple_0x0016                    : bplist00_..Aamne6YIgWA3KV5foStmOwl/ooDW...[...]
+118:LivePhotoVideoIndex             : 8594137092
+119:ImageProcessingFlags            : [13], [17]
+120:QualityHint                     : q750n
+121:PhotosAppFeatureFlags           : 0
+122:ImageCaptureRequestID           : EF28E8F8-DD90-4B2D-ADDE-D9C756A4B83E
+123:HDRHeadroom                     : 1.00999999
+124:AFPerformance                   : 227 1 208
+125:SceneFlags                      : [2], [3], [5], [6], [10], [11], [12], [15], [20], [21], [23]
+126:SignalToNoiseRatioType          : 3
+127:SignalToNoiseRatio              : -12.60775948
+128:PhotoIdentifier                 : D46512EC-2617-4C0C-B286-CC274A114A0A
+129:ColorTemperature                : 3403
+130:CameraType                      : Back Normal
+131:FocusPosition                   : 50
+132:HDRGain                         : 2.331822396
+133:Apple_0x0036                    : 0
+134:Apple_0x0037                    : 8
+135:Apple_0x003a                    : 0
+136:Apple_0x003b                    : 0
+137:Apple_0x003c                    : 4
+138:GreenGhostMitigationStatus      : 0
+139:SemanticStyle                   : {_0=1,_1=0,_2=0,_3=0}
+140:Apple_0x0043                    : 0
+141:Apple_0x0044                    : 0
+142:Apple_0x0045                    : 0
+143:Apple_0x0046                    : 0
+144:Apple_0x004a                    : 2
+145:Apple_0x004d                    : 35.48318482
+146:Apple_0x004e                    : {_1=3,_2=[]}
+147:Apple_0x004f                    : 0
+148:Apple_0x0052                    : 0
+149:Apple_0x0053                    : 1
+151:Compression                     : JPEG (old-style)
+152:XResolution                     : 72
+153:YResolution                     : 72
+154:ResolutionUnit                  : inches
+155:ThumbnailOffset                 : 2696
+156:ThumbnailLength                 : 1362
+157:ThumbnailImage                  : (Binary data 1362 bytes, use -b option to extract)
+159:RunTimeSincePowerUp             : 6:21:12
+160:Aperture                        : 1.6
+161:ImageSize                       : 5712x4284
+162:Megapixels                      : 24.5
+163:ScaleFactor35efl                : 4.4
+164:ShutterSpeed                    : 1/15
+165:SubSecCreateDate                : 2025:03:16 20:32:59.878-04:00
+166:SubSecDateTimeOriginal          : 2025:03:16 20:32:59.878-04:00
+167:SubSecModifyDate                : 2025:03:16 20:32:59-04:00
+168:CircleOfConfusion               : 0.007 mm
+169:FOV                             : 69.4 deg
+170:FocalLength35efl                : 6.0 mm (35 mm equivalent: 26.0 mm)
+171:HyperfocalDistance              : 3.22 m
+172:LightValue                      : -1.1
+173:LensID                          : iPhone 15 back dual wide camera 5.96mm f/1.6
+
+### puzzle_0021.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0021.png
+5:Directory                       : .
+6:FileSize                        : 5.5 MB
+7:FileModifyDate                  : 2026:05:01 01:46:53-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:12-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+15:ExifByteOrder                   : Big-endian (Motorola, MM)
+17:ImageWidth                      : 4032
+18:ImageHeight                     : 3024
+19:BitDepth                        : 8
+20:ColorType                       : RGB
+21:Compression                     : Deflate/Inflate
+22:Filter                          : Adaptive
+23:Interlace                       : Noninterlaced
+24:ProfileName                     : ICC Profile
+26:ProfileCMMType                  : Apple Computer Inc.
+27:ProfileVersion                  : 4.0.0
+28:ProfileClass                    : Display Device Profile
+29:ColorSpaceData                  : RGB
+30:ProfileConnectionSpace          : XYZ
+31:ProfileDateTime                 : 2022:01:01 00:00:00
+32:ProfileFileSignature            : acsp
+33:PrimaryPlatform                 : Apple Computer Inc.
+34:CMMFlags                        : Not Embedded, Independent
+35:DeviceManufacturer              : Apple Computer Inc.
+36:DeviceModel                     : 
+37:DeviceAttributes                : Reflective, Glossy, Positive, Color
+38:RenderingIntent                 : Perceptual
+39:ConnectionSpaceIlluminant       : 0.9642 1 0.82491
+40:ProfileCreator                  : Apple Computer Inc.
+41:ProfileID                       : ecfda38e388547c36db4bd4f7ada182f
+43:ProfileDescription              : Display P3
+44:ProfileCopyright                : Copyright Apple Inc., 2022
+45:MediaWhitePoint                 : 0.96419 1 0.82489
+46:RedMatrixColumn                 : 0.51512 0.2412 -0.00105
+47:GreenMatrixColumn               : 0.29198 0.69225 0.04189
+48:BlueMatrixColumn                : 0.1571 0.06657 0.78407
+49:RedTRC                          : (Binary data 32 bytes, use -b option to extract)
+50:ChromaticAdaptation             : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+51:BlueTRC                         : (Binary data 32 bytes, use -b option to extract)
+52:GreenTRC                        : (Binary data 32 bytes, use -b option to extract)
+54:Make                            : Apple
+55:Model                           : iPhone 15
+56:Orientation                     : Horizontal (normal)
+57:XResolution                     : 72
+58:YResolution                     : 72
+59:ResolutionUnit                  : inches
+60:Software                        : 17.5.1
+61:ModifyDate                      : 2024:06:11 19:51:17
+62:HostComputer                    : iPhone 15
+63:YCbCrPositioning                : Centered
+65:ExposureTime                    : 1/50
+66:FNumber                         : 1.6
+67:ExposureProgram                 : Program AE
+68:ISO                             : 80
+69:ExifVersion                     : 0232
+70:DateTimeOriginal                : 2024:06:11 19:51:17
+71:CreateDate                      : 2024:06:11 19:51:17
+72:OffsetTime                      : +09:00
+73:OffsetTimeOriginal              : +09:00
+74:OffsetTimeDigitized             : +09:00
+75:ComponentsConfiguration         : Y, Cb, Cr, -
+76:ShutterSpeedValue               : 1/50
+77:ApertureValue                   : 1.6
+78:BrightnessValue                 : 2.800770416
+79:ExposureCompensation            : 0
+80:MeteringMode                    : Multi-segment
+81:Flash                           : Off, Did not fire
+82:FocalLength                     : 6.0 mm
+83:SubjectArea                     : 2002 1507 1098 662
+84:SubSecTimeOriginal              : 669
+85:SubSecTimeDigitized             : 669
+86:FlashpixVersion                 : 0100
+87:ColorSpace                      : Uncalibrated
+88:ExifImageWidth                  : 4032
+89:ExifImageHeight                 : 3024
+90:SensingMethod                   : One-chip color area
+91:SceneType                       : Directly photographed
+92:CustomRendered                  : Portrait
+93:ExposureMode                    : Auto
+94:WhiteBalance                    : Auto
+95:FocalLengthIn35mmFormat         : 52 mm
+96:SceneCaptureType                : Standard
+97:LensInfo                        : 1.539999962-5.960000038mm f/1.6-2.4
+98:LensMake                        : Apple
+99:LensModel                       : iPhone 15 back dual wide camera 5.96mm f/1.6
+100:CompositeImage                  : General Composite Image
+102:MakerNoteVersion                : 14
+103:RunTimeFlags                    : Valid
+104:RunTimeValue                    : 185266897291166
+105:RunTimeScale                    : 1000000000
+106:RunTimeEpoch                    : 0
+107:AEStable                        : Yes
+108:AETarget                        : 170
+109:AEAverage                       : 172
+110:AFStable                        : Yes
+111:AccelerationVector              : -0.9995822907 -0.08639877282 -0.1601507515
+112:FocusDistanceRange              : 0.58 - 0.93 m
+113:Apple_0x000d                    : -36
+114:Apple_0x000e                    : 4
+115:Apple_0x0010                    : 1
+116:ImageCaptureType                : Scene
+117:Apple_0x0016                    : bplist00_..AaWwOxYPdm/iYEgTvPp//djepLkK...[...]
+118:LivePhotoVideoIndex             : 5290036
+119:ImageProcessingFlags            : [1], [3], [5], [6], [13]
+120:QualityHint                     : q825s
+121:LuminanceNoiseAmplitude         : 0.007848076522
+122:PhotosAppFeatureFlags           : 1
+123:ImageCaptureRequestID           : E7DE099E-8BA9-4746-A4C2-8DA9C3B9530C
+124:HDRHeadroom                     : 1.00999999
+125:AFPerformance                   : 38 1 76
+126:SceneFlags                      : [1], [2], [3], [7], [12], [23]
+127:SignalToNoiseRatioType          : 3
+128:SignalToNoiseRatio              : 35.11533737
+129:PhotoIdentifier                 : 40980FC5-02A9-4416-9CA4-D76AB951CC33
+130:ColorTemperature                : 3282
+131:CameraType                      : Back Normal
+132:FocusPosition                   : 100
+133:HDRGain                         : 0.00989481714
+134:Apple_0x0036                    : 438
+135:Apple_0x0037                    : 4
+136:Apple_0x003a                    : 0
+137:Apple_0x003b                    : 0
+138:Apple_0x003c                    : 4
+139:GreenGhostMitigationStatus      : 0
+140:SemanticStyle                   : {_0=1,_1=0,_2=0,_3=0}
+141:Apple_0x0043                    : 0
+142:Apple_0x0044                    : 0
+143:Apple_0x0045                    : 0
+144:Apple_0x0046                    : 0
+145:Apple_0x004a                    : 2
+146:Apple_0x004d                    : 41.43399044
+147:Apple_0x004e                    : {_1=1,_2=[]}
+148:Apple_0x004f                    : 0
+149:Apple_0x0052                    : 1
+150:Apple_0x0053                    : 1
+152:Compression                     : JPEG (old-style)
+153:XResolution                     : 72
+154:YResolution                     : 72
+155:ResolutionUnit                  : inches
+156:ThumbnailOffset                 : 2678
+157:ThumbnailLength                 : 7671
+158:ThumbnailImage                  : (Binary data 7671 bytes, use -b option to extract)
+160:RunTimeSincePowerUp             : 2 days 3:27:47
+161:Aperture                        : 1.6
+162:ImageSize                       : 4032x3024
+163:Megapixels                      : 12.2
+164:ScaleFactor35efl                : 8.7
+165:ShutterSpeed                    : 1/50
+166:SubSecCreateDate                : 2024:06:11 19:51:17.669+09:00
+167:SubSecDateTimeOriginal          : 2024:06:11 19:51:17.669+09:00
+168:SubSecModifyDate                : 2024:06:11 19:51:17+09:00
+169:CircleOfConfusion               : 0.003 mm
+170:FOV                             : 38.2 deg
+171:FocalLength35efl                : 6.0 mm (35 mm equivalent: 52.0 mm)
+172:HyperfocalDistance              : 6.45 m
+173:LightValue                      : 7.3
+174:LensID                          : iPhone 15 back dual wide camera 5.96mm f/1.6
+
+### puzzle_0022.png
+2:ExifToolVersion                 : 13.55
+4:FileName                        : puzzle_0022.png
+5:Directory                       : .
+6:FileSize                        : 10 MB
+7:FileModifyDate                  : 2026:05:01 01:46:56-05:00
+8:FileAccessDate                  : 2026:05:01 21:51:12-05:00
+9:FileInodeChangeDate             : 2026:05:01 01:53:40-05:00
+10:FilePermissions                 : -rw-r--r--
+12:FileType                        : PNG
+13:FileTypeExtension               : png
+14:MIMEType                        : image/png
+15:ExifByteOrder                   : Big-endian (Motorola, MM)
+17:ImageWidth                      : 4032
+18:ImageHeight                     : 3024
+19:BitDepth                        : 8
+20:ColorType                       : RGB with Alpha
+21:Compression                     : Deflate/Inflate
+22:Filter                          : Adaptive
+23:Interlace                       : Noninterlaced
+24:ProfileName                     : ICC Profile
+26:ProfileCMMType                  : Apple Computer Inc.
+27:ProfileVersion                  : 4.0.0
+28:ProfileClass                    : Display Device Profile
+29:ColorSpaceData                  : RGB
+30:ProfileConnectionSpace          : XYZ
+31:ProfileDateTime                 : 2022:01:01 00:00:00
+32:ProfileFileSignature            : acsp
+33:PrimaryPlatform                 : Apple Computer Inc.
+34:CMMFlags                        : Not Embedded, Independent
+35:DeviceManufacturer              : Apple Computer Inc.
+36:DeviceModel                     : 
+37:DeviceAttributes                : Reflective, Glossy, Positive, Color
+38:RenderingIntent                 : Perceptual
+39:ConnectionSpaceIlluminant       : 0.9642 1 0.82491
+40:ProfileCreator                  : Apple Computer Inc.
+41:ProfileID                       : ecfda38e388547c36db4bd4f7ada182f
+43:ProfileDescription              : Display P3
+44:ProfileCopyright                : Copyright Apple Inc., 2022
+45:MediaWhitePoint                 : 0.96419 1 0.82489
+46:RedMatrixColumn                 : 0.51512 0.2412 -0.00105
+47:GreenMatrixColumn               : 0.29198 0.69225 0.04189
+48:BlueMatrixColumn                : 0.1571 0.06657 0.78407
+49:RedTRC                          : (Binary data 32 bytes, use -b option to extract)
+50:ChromaticAdaptation             : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+51:BlueTRC                         : (Binary data 32 bytes, use -b option to extract)
+52:GreenTRC                        : (Binary data 32 bytes, use -b option to extract)
+54:Make                            : Apple
+55:Model                           : iPhone 12 Pro Max
+56:Orientation                     : Rotate 90 CW
+57:XResolution                     : 72
+58:YResolution                     : 72
+59:ResolutionUnit                  : inches
+60:Software                        : 14.4
+61:ModifyDate                      : 2021:03:15 12:49:00
+62:HostComputer                    : iPhone 12 Pro Max
+63:YCbCrPositioning                : Centered
+65:ExposureTime                    : 1/59
+66:FNumber                         : 1.6
+67:ExposureProgram                 : Program AE
+68:ISO                             : 500
+69:ExifVersion                     : 0232
+70:DateTimeOriginal                : 2021:03:15 12:49:00
+71:CreateDate                      : 2021:03:15 12:49:00
+72:OffsetTime                      : +03:00
+73:OffsetTimeOriginal              : +03:00
+74:OffsetTimeDigitized             : +03:00
+75:ComponentsConfiguration         : Y, Cb, Cr, -
+76:ShutterSpeedValue               : 1/59
+77:ApertureValue                   : 1.6
+78:BrightnessValue                 : 0.4546095653
+79:ExposureCompensation            : 0
+80:MeteringMode                    : Multi-segment
+81:Flash                           : Off, Did not fire
+82:FocalLength                     : 5.1 mm
+83:SubjectArea                     : 2002 1503 2213 1327
+84:SubSecTimeOriginal              : 752
+85:SubSecTimeDigitized             : 752
+86:FlashpixVersion                 : 0100
+87:ColorSpace                      : Uncalibrated
+88:ExifImageWidth                  : 4032
+89:ExifImageHeight                 : 3024
+90:SensingMethod                   : One-chip color area
+91:SceneType                       : Directly photographed
+92:ExposureMode                    : Auto
+93:WhiteBalance                    : Auto
+94:FocalLengthIn35mmFormat         : 26 mm
+95:SceneCaptureType                : Standard
+96:LensInfo                        : 1.539999962-7.5mm f/1.6-2.4
+97:LensMake                        : Apple
+98:LensModel                       : iPhone 12 Pro Max back triple camera 5.1mm f/1.6
+99:CompositeImage                  : General Composite Image
+101:MakerNoteVersion                : 12
+102:RunTimeFlags                    : Valid
+103:RunTimeValue                    : 62090446551750
+104:RunTimeScale                    : 1000000000
+105:RunTimeEpoch                    : 0
+106:AEStable                        : Yes
+107:AETarget                        : 177
+108:AEAverage                       : 179
+109:AFStable                        : Yes
+110:AccelerationVector              : 0.2576858699 -0.969061732 0.0924943164
+111:FocusDistanceRange              : 0.99 - 1.39 m
+112:Apple_0x000d                    : 0
+113:Apple_0x000e                    : 4
+114:Apple_0x0010                    : 1
+115:ContentIdentifier               : 749EBA35-7472-4668-AE65-129A035970B7
+116:ImageCaptureType                : Scene
+117:LivePhotoVideoIndex             : 1112547328
+118:ImageProcessingFlags            : [13]
+119:PhotosAppFeatureFlags           : 0
+120:ImageCaptureRequestID           : 520E3096-D679-4E4A-8527-52024713604C
+121:HDRHeadroom                     : 0.8432090282
+122:AFPerformance                   : 14 1 42
+123:SceneFlags                      : [1], [2], [3], [7], [10], [12]
+124:SignalToNoiseRatioType          : 3
+125:SignalToNoiseRatio              : 32.99298861
+126:PhotoIdentifier                 : E5320935-F905-4D72-9D18-6E361975BA9B
+127:ColorTemperature                : 3513
+128:CameraType                      : Back Normal
+129:FocusPosition                   : 185
+130:HDRGain                         : 0.004360617602
+131:Apple_0x0033                    : 12288
+132:Apple_0x0034                    : 5
+133:Apple_0x0035                    : 4
+134:Apple_0x0036                    : 112
+135:Apple_0x0037                    : 4
+136:AFMeasuredDepth                 : 15
+137:Apple_0x0039                    : 0
+138:Apple_0x003a                    : 4
+139:Apple_0x003b                    : 0
+140:Apple_0x003c                    : 4
+141:AFConfidence                    : 23
+143:RunTimeSincePowerUp             : 17:14:50
+144:Aperture                        : 1.6
+145:ImageSize                       : 4032x3024
+146:Megapixels                      : 12.2
+147:ScaleFactor35efl                : 5.1
+148:ShutterSpeed                    : 1/59
+149:SubSecCreateDate                : 2021:03:15 12:49:00.752+03:00
+150:SubSecDateTimeOriginal          : 2021:03:15 12:49:00.752+03:00
+151:SubSecModifyDate                : 2021:03:15 12:49:00+03:00
+152:CircleOfConfusion               : 0.006 mm
+153:FOV                             : 69.4 deg
+154:FocalLength35efl                : 5.1 mm (35 mm equivalent: 26.0 mm)
+155:HyperfocalDistance              : 2.76 m
+156:LightValue                      : 4.9
+157:LensID                          : iPhone 12 Pro Max back triple camera 5.1mm f/1.6
+

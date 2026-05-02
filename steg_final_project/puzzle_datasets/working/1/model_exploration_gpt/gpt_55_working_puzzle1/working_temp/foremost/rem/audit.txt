@@ -1,0 +1,103 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri May  1 02:30:03 2026
+Invocation: foremost -o working_temp/foremost/rem -i puzzle_0006.png puzzle_0009.png puzzle_0010.png puzzle_0011.png puzzle_0012.png puzzle_0015.png puzzle_0018.png puzzle_0019.png puzzle_0020.png puzzle_0022.png 
+Output directory: /Users/abdullahalwakeel/Documents/GitHub/tb3_tasks/steg_final_project/puzzle_datasets/1/working_temp/foremost/rem
+Configuration file: /usr/local/etc/foremost.conf
+------------------------------------------------------------------
+File: puzzle_0006.png
+Start: Fri May  1 02:30:03 2026
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Fri May  1 02:30:03 2026
+------------------------------------------------------------------
+File: puzzle_0009.png
+Start: Fri May  1 02:30:03 2026
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      48 KB 	          0 	  (300 x 300)
+Finish: Fri May  1 02:30:03 2026
+------------------------------------------------------------------
+File: puzzle_0010.png
+Start: Fri May  1 02:30:03 2026
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+1:	00000016.jpg 	       8 KB 	       8376 	 
+2:	00000000_1.png 	      85 KB 	          0 	  (275 x 183)
+Finish: Fri May  1 02:30:03 2026
+------------------------------------------------------------------
+File: puzzle_0011.png
+Start: Fri May  1 02:30:03 2026
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+3:	00000000_2.png 	       1 MB 	          0 	  (1754 x 915)
+Finish: Fri May  1 02:30:03 2026
+------------------------------------------------------------------
+File: puzzle_0012.png
+Start: Fri May  1 02:30:03 2026
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Fri May  1 02:30:04 2026
+------------------------------------------------------------------
+File: puzzle_0015.png
+Start: Fri May  1 02:30:04 2026
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+4:	00000000_3.png 	     117 KB 	          0 	  (300 x 241)
+Finish: Fri May  1 02:30:04 2026
+------------------------------------------------------------------
+File: puzzle_0018.png
+Start: Fri May  1 02:30:04 2026
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+5:	00000010.jpg 	       5 KB 	       5479 	 
+6:	00000000_4.png 	     906 KB 	          0 	  (1739 x 2573)
+Finish: Fri May  1 02:30:04 2026
+------------------------------------------------------------------
+File: puzzle_0019.png
+Start: Fri May  1 02:30:04 2026
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+7:	00000000_5.png 	     757 KB 	          0 	  (1088 x 628)
+Finish: Fri May  1 02:30:04 2026
+------------------------------------------------------------------
+File: puzzle_0020.png
+Start: Fri May  1 02:30:04 2026
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Fri May  1 02:30:04 2026
+------------------------------------------------------------------
+File: puzzle_0022.png
+Start: Fri May  1 02:30:04 2026
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Fri May  1 02:30:04 2026
+
+8 FILES EXTRACTED
+	
+jpg:= 2
+png:= 6
+------------------------------------------------------------------
+
+Foremost finished at Fri May  1 02:30:04 2026

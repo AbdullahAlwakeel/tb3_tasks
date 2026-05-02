@@ -1,0 +1,4 @@
+/Users/abdullahalwakeel/anaconda3/bin/binwalk
+/usr/local/bin/exiftool
+/usr/local/bin/foremost
+/Users/abdullahalwakeel/anaconda3/bin/ffmpeg

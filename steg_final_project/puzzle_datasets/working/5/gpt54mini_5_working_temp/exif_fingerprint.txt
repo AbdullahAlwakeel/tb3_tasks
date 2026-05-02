@@ -1,0 +1,233 @@
+======== puzzle_0001.png
+[System]        FileName                        : puzzle_0001.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 4032
+[PNG]           ImageHeight                     : 3024
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+[IFD0]          Software                        : 17.5.1
+======== puzzle_0002.png
+[System]        FileName                        : puzzle_0002.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 1080
+[PNG]           ImageHeight                     : 813
+[PNG]           ColorType                       : RGB with Alpha
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+======== puzzle_0003.png
+[System]        FileName                        : puzzle_0003.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 275
+[PNG]           ImageHeight                     : 183
+[PNG]           ColorType                       : RGB with Alpha
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+======== puzzle_0004.png
+[System]        FileName                        : puzzle_0004.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 1739
+[PNG]           ImageHeight                     : 2573
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+======== puzzle_0005.png
+[System]        FileName                        : puzzle_0005.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 2420
+[PNG]           ImageHeight                     : 1845
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+======== puzzle_0006.png
+[System]        FileName                        : puzzle_0006.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 1400
+[PNG]           ImageHeight                     : 1434
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+======== puzzle_0007.png
+[System]        FileName                        : puzzle_0007.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 300
+[PNG]           ImageHeight                     : 241
+[PNG]           ColorType                       : RGB with Alpha
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+======== puzzle_0008.png
+[System]        FileName                        : puzzle_0008.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 1170
+[PNG]           ImageHeight                     : 1560
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+======== puzzle_0009.png
+[System]        FileName                        : puzzle_0009.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 4154
+[PNG]           ImageHeight                     : 5540
+[PNG]           ColorType                       : RGB with Alpha
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+[IFD0]          Software                        : 17.6.1
+======== puzzle_0010.png
+[System]        FileName                        : puzzle_0010.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 1088
+[PNG]           ImageHeight                     : 628
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+======== puzzle_0011.png
+[System]        FileName                        : puzzle_0011.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 1179
+[PNG]           ImageHeight                     : 1709
+[PNG]           ColorType                       : RGB with Alpha
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+======== puzzle_0012.png
+[System]        FileName                        : puzzle_0012.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 640
+[PNG]           ImageHeight                     : 480
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+======== puzzle_0013.png
+[System]        FileName                        : puzzle_0013.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 5712
+[PNG]           ImageHeight                     : 4284
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+[IFD0]          Software                        : 17.6.1
+[ExifTool]      Warning                         : [minor] Trailer data after PNG IEND chunk
+======== puzzle_0014.png
+[System]        FileName                        : puzzle_0014.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 3000
+[PNG]           ImageHeight                     : 2256
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+[IFD0]          Software                        : LiquidPixels LiquiFire 2.17.2
+======== puzzle_0015.png
+[System]        FileName                        : puzzle_0015.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 300
+[PNG]           ImageHeight                     : 300
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+[ExifTool]      Warning                         : [minor] Trailer data after PNG IEND chunk
+======== puzzle_0016.png
+[System]        FileName                        : puzzle_0016.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 4032
+[PNG]           ImageHeight                     : 3024
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+[IFD0]          Software                        : 14.4
+======== puzzle_0017.png
+[System]        FileName                        : puzzle_0017.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 1242
+[PNG]           ImageHeight                     : 2208
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+[ExifTool]      Warning                         : [minor] Trailer data after PNG IEND chunk
+======== puzzle_0018.png
+[System]        FileName                        : puzzle_0018.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 5712
+[PNG]           ImageHeight                     : 4284
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+[IFD0]          Software                        : 17.6.1
+======== puzzle_0019.png
+[System]        FileName                        : puzzle_0019.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 4032
+[PNG]           ImageHeight                     : 3024
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+[IFD0]          Software                        : 14.4
+======== puzzle_0020.png
+[System]        FileName                        : puzzle_0020.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 4032
+[PNG]           ImageHeight                     : 3024
+[PNG]           ColorType                       : RGB with Alpha
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+[IFD0]          Software                        : 17.6.1
+======== puzzle_0021.png
+[System]        FileName                        : puzzle_0021.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 1754
+[PNG]           ImageHeight                     : 915
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+======== puzzle_0022.png
+[System]        FileName                        : puzzle_0022.png
+[File]          FileType                        : PNG
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 2089
+[PNG]           ImageHeight                     : 1179
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+[ExifTool]      Warning                         : [minor] Trailer data after PNG IEND chunk
+   22 image files read

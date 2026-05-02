@@ -1,0 +1,418 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+Warning                         : [minor] Trailer data after PNG IEND chunk
+---- System ----
+File Name                       : puzzle_0001.png
+Directory                       : .
+File Size                       : 14 MB
+File Modification Date/Time     : 2026:05:01 01:46:31-05:00
+File Access Date/Time           : 2026:05:01 21:50:47-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 4032
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+Warning                         : [minor] Trailer data after PNG IEND chunk
+---- System ----
+File Name                       : puzzle_0002.png
+Directory                       : .
+File Size                       : 393 kB
+File Modification Date/Time     : 2026:05:01 01:46:31-05:00
+File Access Date/Time           : 2026:05:01 21:50:48-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 2089
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0003.png
+Directory                       : .
+File Size                       : 2.1 MB
+File Modification Date/Time     : 2026:05:01 01:46:32-05:00
+File Access Date/Time           : 2026:05:01 21:50:48-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 1242
+Image Height                    : 2208
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0004.png
+Directory                       : .
+File Size                       : 1299 kB
+File Modification Date/Time     : 2026:05:01 01:46:32-05:00
+File Access Date/Time           : 2026:05:01 21:50:48-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 1179
+Image Height                    : 1709
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0005.png
+Directory                       : .
+File Size                       : 1092 kB
+File Modification Date/Time     : 2026:05:01 01:46:32-05:00
+File Access Date/Time           : 2026:05:01 21:50:48-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 1170
+Image Height                    : 1560
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0006.png
+Directory                       : .
+File Size                       : 20 MB
+File Modification Date/Time     : 2026:05:01 01:46:36-05:00
+File Access Date/Time           : 2026:05:01 21:50:48-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 5712
+Image Height                    : 4284
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0007.png
+Directory                       : .
+File Size                       : 1487 kB
+File Modification Date/Time     : 2026:05:01 01:46:36-05:00
+File Access Date/Time           : 2026:05:01 21:50:48-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 2420
+Image Height                    : 1845
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+Warning                         : [minor] Trailer data after PNG IEND chunk
+---- System ----
+File Name                       : puzzle_0008.png
+Directory                       : .
+File Size                       : 6.9 MB
+File Modification Date/Time     : 2026:05:01 01:46:38-05:00
+File Access Date/Time           : 2026:05:01 21:50:48-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 4032
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0009.png
+Directory                       : .
+File Size                       : 50 kB
+File Modification Date/Time     : 2026:05:01 01:46:38-05:00
+File Access Date/Time           : 2026:05:01 21:50:49-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 300
+Image Height                    : 300
+Bit Depth                       : 8
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0010.png
+Directory                       : .
+File Size                       : 87 kB
+File Modification Date/Time     : 2026:05:01 01:46:38-05:00
+File Access Date/Time           : 2026:05:01 21:50:49-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 275
+Image Height                    : 183
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0011.png
+Directory                       : .
+File Size                       : 1786 kB
+File Modification Date/Time     : 2026:05:01 01:46:38-05:00
+File Access Date/Time           : 2026:05:01 21:50:49-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 1754
+Image Height                    : 915
+Bit Depth                       : 8
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0012.png
+Directory                       : .
+File Size                       : 32 MB
+File Modification Date/Time     : 2026:05:01 01:46:45-05:00
+File Access Date/Time           : 2026:05:01 21:50:49-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 4154
+Image Height                    : 5540
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0013.png
+Directory                       : .
+File Size                       : 1646 kB
+File Modification Date/Time     : 2026:05:01 01:46:45-05:00
+File Access Date/Time           : 2026:05:01 21:50:49-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 1400
+Image Height                    : 1434
+Bit Depth                       : 8
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0014.png
+Directory                       : .
+File Size                       : 323 kB
+File Modification Date/Time     : 2026:05:01 01:46:45-05:00
+File Access Date/Time           : 2026:05:01 21:50:49-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 640
+Image Height                    : 480
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0015.png
+Directory                       : .
+File Size                       : 120 kB
+File Modification Date/Time     : 2026:05:01 01:46:45-05:00
+File Access Date/Time           : 2026:05:01 21:50:49-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 300
+Image Height                    : 241
+Bit Depth                       : 8
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+Warning                         : [minor] Trailer data after PNG IEND chunk
+---- System ----
+File Name                       : puzzle_0016.png
+Directory                       : .
+File Size                       : 1642 kB
+File Modification Date/Time     : 2026:05:01 01:46:45-05:00
+File Access Date/Time           : 2026:05:01 21:50:50-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 1080
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0017.png
+Directory                       : .
+File Size                       : 12 MB
+File Modification Date/Time     : 2026:05:01 01:46:46-05:00
+File Access Date/Time           : 2026:05:01 21:50:50-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 3000
+Image Height                    : 2256
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0018.png
+Directory                       : .
+File Size                       : 928 kB
+File Modification Date/Time     : 2026:05:01 01:46:47-05:00
+File Access Date/Time           : 2026:05:01 21:50:50-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 1739
+Image Height                    : 2573
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0019.png
+Directory                       : .
+File Size                       : 776 kB
+File Modification Date/Time     : 2026:05:01 01:46:47-05:00
+File Access Date/Time           : 2026:05:01 21:50:50-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 1088
+Image Height                    : 628
+Bit Depth                       : 8
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0020.png
+Directory                       : .
+File Size                       : 1980 kB
+File Modification Date/Time     : 2026:05:01 01:46:52-05:00
+File Access Date/Time           : 2026:05:01 21:50:50-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 5712
+Image Height                    : 4284
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0021.png
+Directory                       : .
+File Size                       : 5.5 MB
+File Modification Date/Time     : 2026:05:01 01:46:53-05:00
+File Access Date/Time           : 2026:05:01 21:50:50-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 4032
+Image Height                    : 3024
+---
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0022.png
+Directory                       : .
+File Size                       : 10 MB
+File Modification Date/Time     : 2026:05:01 01:46:56-05:00
+File Access Date/Time           : 2026:05:01 21:50:51-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:40-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 4032
+Image Height                    : 3024
+---

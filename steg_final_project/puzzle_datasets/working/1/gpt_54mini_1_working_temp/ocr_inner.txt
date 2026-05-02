@@ -1,0 +1,9 @@
+### puzzle_0003_inner.png
+inner artifact
+---
+### puzzle_0008_inner.png
+inner artifact
+---
+### puzzle_0016_inner.png
+inner artifact
+---
