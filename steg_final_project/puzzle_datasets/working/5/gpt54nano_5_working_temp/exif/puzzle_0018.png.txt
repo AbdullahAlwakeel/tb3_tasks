@@ -1,0 +1,173 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0018.png
+Directory                       : .
+File Size                       : 18 MB
+File Modification Date/Time     : 2026:05:01 01:48:04-05:00
+File Access Date/Time           : 2026:05:01 22:24:04-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:41-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 5712
+Image Height                    : 4284
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Profile Name                    : ICC Profile
+---- ICC-header ----
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:01:01 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ecfda38e388547c36db4bd4f7ada182f
+---- ICC_Profile ----
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2022
+Media White Point               : 0.96419 1 0.82489
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+---- IFD0 ----
+Image Description               : AAAOvGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFnZ0FBQUNnQ0FJQUFBRG1UZ09lQUFBSzBrbEVRVlI0bk8zY0MxUlVkUjdBOGYvSVkyRHdGV2NGVzZoMFQ3aW9ZR3FwaVk5TlQrdHF1aWdxbW11NW1hK3NrN1hyWTkxVWREVWZ1UkxtVnI1YThhMzV5UEN4cGFKV2k3aW91MlZsa1EvUTQyTUZGYkZCQ0diWTJUTno0VG8vR1BDQ1l1dnkvVlI0WitaLy8vTjNPdWQrNTNFSFUxN09HVlVCazBrNUhOcFA1dy9sL005MXZjT2tYQmVWdytSUXF1VDJFZzZUOHg5VnNvL3padGR1SlFQMW1aMFRPeWR4L3VIYzEzV0xhei9YMWE3clhCT1gzcHQyMlgxMXJ0dTE5V2szbVJ5dXZiVnJTdS9adFVRQWdHSGUraEhkQTlmQisyWVJ0SXZhVnNrUDE0SFllVWgyUC9xV0hvdExkcjg1V002c1gzUnU2TXZROXkwZFg5R1IzU0htMTBhVy9GazY0YzBGQXdDTXFtTjRKQUNnVmlBTUFBQ0JNQUFBQk1JQUFCQUlBd0JBSUF3QUFJRXdBQUFFd2dBQUVBZ0RBRUFnREFBQWdUQUFBQVRDQUFBUUNBTUFRQ0FNQUFDQk1BQUFCTUlBQUJBSUF3QkFJQXdBQUlFd0FBQUV3Z0FBRUFnREFPQU9oZUZ3V2xxM3psMjFmNHVMaTFYdFpyVmFGOFluWkp6T01QTDQ3UG40NHhkR2p1NzFaSTlmZFg5eThJRFlqZXZXMzUwbEFZQVIzb1pHb1dJT2gyUDNSeDh2ZlhkeGJtNXVuK2crdDN5b1B0cTFhLzdjTi9TTDJWbFovaGIvSDNkSkFPQ09NTnl1ckV0WmI4eVphM3o4N285MmF4dVBQdmJZekRtdkZ4UVVXQ3lXSDNkSkFIQm53dEMrUTRjREtaOVZlL2YvZXhVOVBwY3ZYOVkySG8vcWFIRzU2MHNEZ0pvSncrRzB0RCtNbjZodEozOTZ3TXZMU3lsMUtEWDF0VW1UbFZJUmtaRnZMbHE0ZGRQbTVMM0o1OCtkOC9IeGlXZ1YrY3l3WVMwaldtcTdHQitweTh6SVhMOTI3ZWYvL05mMTY5ZnIxYS9YdkVXTGZqRXg3VHEwMXdkczIvckJvb1NGU3FrbmUveXlTOWV1U3hjdnVaeWRIZnBBNk1qUm82TTZkNnJvTDdJL2VkL09IVHRPbnpxVlo4M3o4ZkZwMUtoUjY3WnRoajMzWEtPZ1JyZWN1WDc5QnNlKytFSWZObXI0Q0tYVVMrTmVIamdvMXVQam81UXFLaXJTTm54OWZhdXhFcVhVOTllLzM3eHBVMnBLeXNVTEYrdDRlVFZ1SFB4b3UzYXhnd1pwdzJiUG5KVzhaNi9ISlJuN0h3dWd0cXVwdDVMeTh2SmVIdnZTZCtucDJzWEN3c0ovcEI0NmV2aklnb1Z2UHRLNmRUVkc3dHViUEcvMkhMdmRybDI4bG5NdE5lVmdhc3JCL3JFRFgzNWxYSmw3ejh6SS9HVC9BVzF3WmtabWthM2tXRnplTzR2K3NtWFRadjFpWVdIaGVaZFBEM3l5ZVBteWtOQ1F5bWR1OVVncjQ0L0pwUEVUanFRZDFpOG1MSWhQV0JELzA1Q1FkZTl2TUw2U2t5ZE9UcDR3TVNjblJ4K1pjVG9qNDNUR3pxVHQ4eGI4dVVyckFZQzdlcnJxbWN4TS9WaXZzOXZ0cTFZa1ZtUGtxWk1uNTgyWnExZkIzUWVidC94dDU2NHlWNTQrZFVvZjdPL3YzekVxeXVNaXZ6ejJwWFlzRGdvT1hyYml2ZDM3a3hjdlh4WVVGS1NkMHJOcDQ4Ynl1NVNaK1NlTnhIUDVhak80a2h0NU42Wk1udXhlQlYxQlFjSE11T21GUC94d1I5WURvRGFyd1ErZjY5V3ZQM0h5cEhidDI1OC9kMjdhYTFNdS9mdVNVaXI5Mi9ScWpGeWR1TXB1c3ltbFFrTkRKMHllRkI0ZWZ1WEsxV1ZMbG56MnlhZEtxWFZyMXZicS9aVEpaSEtmOCtmaDRUTm16ZlR6OTB2LzVsdXoyZXh4aFR1U2tyU040U09lRDJ2V1RDa1Yzank4WisrblZpZXUxRjRRZU56TGZlYkhvenFPR2pObVNPd2c3YWJsaVg5OU9DeXNvZ2RrZnZ3Q3BWUnN6SUFycm84WmZqZGhmSFMvdmxWYXlZNmtwTXZaSlI5UkRCMzJiRXovR0xPZjM4YjFHOWF0WHFPVXVucjE2dDQ5ZTZiRVRSc3hhcFRCSlFIQVhRM0R1RmRmNmRLMXExTHE0YkN3cDM4elpHRjhndmJFMW02emVmdjRHQjlwdDlrT3A2VnBJMTk0NlVYdC9hV1EwSkNwMCtQNnBQWXFLaXE2ZU9IQytYUG5Ibmp3UWZjNXg0eDlvZkg5amJYUGVDdGE0WlM0YVZQaXBwVzVzazVwWVBMejh6M3VaV1RtcWpLNGtvTXBCN1dOamxGUkkwZVAwclpIamg3MTFiRmpRY0hCbmJwMGJ0K2h3NTFhRW9CYXF3YkQwT2JSdHZwMjQvdnYxN2Z0eGNWbHdsRDV5QXNYTGhZV0ZtclhUUDNqYXg3djYrelpzKzVoTUpsTUVhMGlEYTdUWnJOOWMvejQ4YStQZjVlZS92V1hYK2x2MURnYy95ay91RW96VjlVdFYzTDI3Rmx0bzNYYk51NDd2dlhPMnpXMEpBQzFVQTJHb1VHREJ2cTJyKy9OTjNNY0RrZVZSdWJuMzdqbGZlWGZFR01zQVJZZjJSNlBpb3VMVnlldS9HREwxcnk4dlBLM21rd2VQb0F4T0hOVkdWeUovdGUwM09udnhBSEEzUWlEdC9mTnllWDcvMVViYVRiNzZkdHZMMWxjL2pUVzh2ejhEQjAzbDd6enJuNGlVR0JnWUp1MmJTTWZpY3k2bEwxaDNUcm5PemwxVE5XZXVhb01yc1Jpc1ZpdFZxWFU5ZHpyTmJFTUFMZzN2dmtjRWhyaTVlV2wvYnFodEVPSGpJUkIvOUpBSllxS2lwSzJmYWh0RDNwNjhKZ1h4OWFwNDN4aXZuWHpsa3BlTVZRK2M3blhRb1lZWDhtRFRSNDYvdFhYU3FtalI0NE9IZmFzUHNQc21iTUtDZ282ZGU3Y3NWTlV3NFlOYjM5SkFHcXplK0MzcTVyTlp2MURpSTNyTjJ6L01NbHF0V1puWlMxYnZGVDdGWFhSdlhvWEZCUzQ3MUxtRENXUGNuTnpiYTR6blpSU1QzVHZwaDJMbFZJbnZqdWhiWGo4ellEbFovYjJ2cG1LVXlkUFdxMVc3YVFqNDR5dnBGUHAxL1MrK1B6enQ5OWFsSjJkblorZm43UnQyNzY5eVFmL25qSi83anp0WmNmdEx3bEFiWFlQaEVFcDlkdmh6MmxIWkp2TmxyQWdQcnBYNzhFRFlyVzNXWnduZ0Q0OTJOKy95dS93QkFZRzFxMWJWOXRlczNKMVRrNU83clZySzFjazd0Mjl1L0t6a3Nxb1Y2K2VxZlJRUG4vdXZPaGV2WGRzMzFGREs0bnUyMC8vRnZUV3pWc0c5eC9ZdTBmUGhmRUoyb2N4dnI2KzJ2bXZ0NzhrQUxYWnZSR0dpTWpJVjhmL1huOHE3ZTZKN3QyZWVmYVphc3pwN2UwOWZNVHoydmFoMU5RQjBmMWlmdDEzMVlyRXdNQkE3Y3JMMmRuNjJWQ1ZNUHY1UlVSRXVGOXo5Y3FWR2xwSlFOMkEyZlBtM2hkNG44ZEovdlQ2TE8wN2NiZS9KQUMxMmIwUkJ1ZVQ1WDU5bDd5M3ZFZlBua0hCd1Q0K1B2NysvaTFhdGh3L2FVTGNqT242cytPcTZoODdjT3FNdVBEbTRiNit2bWF6T2F4WjJKZ1h4NjU5ZjROMmVMWGI3WWNPcGhxWlorcjBhVjErMGRVU0VHRDI4MnZTdEduekZpMXFiaVZoelpxdFdMMXF5TkNoRHpWcFlqYWJMUUVCVFgvV3RGLy9tSlZyMTdoL3IrTDJsd1NnMWpMZHlEbnpZNjhCQVBBLzVKNTV4UUFBdURzSUF3QkFJQXdBQUlFd0FBQUV3Z0FBRUFnREFFQWdEQUFBZ1RBQUFBVENBQUFRQ0FNQVFDQU1BQUNCTUFBQUJNSUFBQkFJQXdCQUlBd0FBSUV3QUFBRXdnQUFFQWdEQUVBZ0RBQUFnVEFBQUFUQ0FBQVFDQU1BUUNBTUFBQ0JNQUFBQk1JQUFCQUlBd0JBSUF3QUFJRXdBQUFFd2dBQUVBZ0RBRUFnREFBQWdUQUFBQVRDQUFBUUNBTUFRQ0FNQUFDQk1BQUFCTUlBQUJBSUF3QkFJQXdBQUlFd0FBQUV3Z0FBRUFnREFFQWdEQUFBZ1RBQUFBVENBQUFRQ0FNQVFDQU1BQUNCTUFBQUJNSUFBQkFJQXdCQUlBd0FBSUV3QUFBRXdnQUFFQWdEQUVBZ0RBQUFnVEFBQUFUQ0FBQVFDQU1BUUNBTUFBQ0JNQUFBQk1JQUFCQUlBd0JBSUF3QUFJRXdBQUFFd2dBQUVBZ0RBRUFnREFBQWdUQUFBQVRDQUFBUUNBTUFRQ0FNQUFDQk1BQUFCTUlBQUJBSUF3QkFJQXdBQUlFd0FBQUV3Z0FBRUFnREFFQWdEQUFBZ1RBQUFBVENBQUFRQ0FNQVFDQU1BQUNCTUFBQUJNSUFBQkFJQXdCQUlBd0FBSUV3QUFBRXdnQUFFQWdEQUVBZ0RBQUFnVEFBQUFUQ0FBQVFDQU1BUUNBTUFBQ0JNQUFBQk1JQUFCQUlBd0JBSUF3QUFJRXdBQUFFd2dBQUVBZ0RBRUFnREFBQWdUQUFBQVRDQUFBUUNBTUFRQ0FNQUFDQk1BQUFCTUlBQUJBSUF3QkFJQXdBQUlFd0FBQUV3Z0FBRUFnREFFQWdEQUFBZ1RBQUFBVENBQUFRQ0FNQVFDQU1BQURsN3I5V2xEMjMyWUdGVlFBQUFBQkpSVTVFcmtKZ2dnPT0=
+Make                            : Apple
+Camera Model Name               : iPhone 15
+Orientation                     : Rotate 90 CW
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 17.6.1
+Modify Date                     : 2026:04:12 20:14:25
+Host Computer                   : iPhone 15
+Y Cb Cr Positioning             : Centered
+---- ExifIFD ----
+Exposure Time                   : 1/30
+F Number                        : 1.6
+Exposure Program                : Program AE
+ISO                             : 800
+Exif Version                    : 0232
+Date/Time Original              : 2026:04:12 20:14:25
+Create Date                     : 2026:04:12 20:14:25
+Offset Time                     : -05:00
+Offset Time Original            : -05:00
+Offset Time Digitized           : -05:00
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/30
+Aperture Value                  : 1.6
+Brightness Value                : -1.811876679
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 6.0 mm
+Subject Area                    : 2846 2130 3129 1880
+Sub Sec Time Original           : 317
+Sub Sec Time Digitized          : 317
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 5712
+Exif Image Height               : 4284
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 26 mm
+Scene Capture Type              : Standard
+Lens Info                       : 1.539999962-5.960000038mm f/1.6-2.4
+Lens Make                       : Apple
+Lens Model                      : iPhone 15 back dual wide camera 5.96mm f/1.6
+---- Apple ----
+Maker Note Version              : 14
+Run Time Flags                  : Valid
+Run Time Value                  : 90529780331833
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+AE Stable                       : Yes
+AE Target                       : 104
+AE Average                      : 105
+AF Stable                       : Yes
+Acceleration Vector             : -0.5163406135 0.03555301204 -0.9205166099
+Focus Distance Range            : 0.84 - 1.33 m
+Apple 0x000d                    : -30
+Apple 0x000e                    : 0
+Apple 0x0010                    : 1
+Content Identifier              : 56F78CAD-E5FB-450B-AC54-536693F7CE1B
+Image Capture Type              : Scene
+Apple 0x0016                    : bplist00_..ASW/ZrXyZjBFiEaHQZi8Aihtmod2...[...]
+Live Photo Video Index          : 8595185700
+Image Processing Flags          : [1], [13], [17]
+Quality Hint                    : q750n
+Photos App Feature Flags        : 0
+Image Capture Request ID        : F660767D-F5DB-427E-A060-DC05057F42BA
+HDR Headroom                    : 1.00999999
+AF Performance                  : 40 1 81
+Scene Flags                     : [1], [2], [3], [7], [10], [12], [20], [21], [23]
+Signal To Noise Ratio Type      : 3
+Signal To Noise Ratio           : 26.99994278
+Photo Identifier                : 1930A718-84F6-4642-A626-A1D971A09ECB
+Color Temperature               : 3127
+Camera Type                     : Back Normal
+Focus Position                  : 86
+HDR Gain                        : 1.803306816
+Apple 0x0036                    : 20
+Apple 0x0037                    : 4
+Apple 0x003a                    : 0
+Apple 0x003b                    : 0
+Apple 0x003c                    : 4
+Green Ghost Mitigation Status   : 0
+Semantic Style                  : {_0=1,_1=0,_2=0,_3=0}
+Apple 0x0043                    : 0
+Apple 0x0044                    : 0
+Apple 0x0045                    : 0
+Apple 0x0046                    : 0
+Apple 0x004a                    : 2
+Apple 0x004d                    : 26.71087645
+Apple 0x004e                    : {_1=1,_2=[]}
+Apple 0x004f                    : 0
+Apple 0x0052                    : 0
+Apple 0x0053                    : 1
+---- IFD1 ----
+Compression                     : JPEG (old-style)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Thumbnail Offset                : 7723
+Thumbnail Length                : 10647
+Thumbnail Image                 : (Binary data 10647 bytes, use -b option to extract)
+---- Composite ----
+Run Time Since Power Up         : 1 days 1:08:50
+Aperture                        : 1.6
+Image Size                      : 5712x4284
+Megapixels                      : 24.5
+Scale Factor To 35 mm Equivalent: 4.4
+Shutter Speed                   : 1/30
+Create Date                     : 2026:04:12 20:14:25.317-05:00
+Date/Time Original              : 2026:04:12 20:14:25.317-05:00
+Modify Date                     : 2026:04:12 20:14:25-05:00
+Circle Of Confusion             : 0.007 mm
+Field Of View                   : 69.4 deg
+Focal Length 35mm Equiv         : 6.0 mm (35 mm equivalent: 26.0 mm)
+Hyperfocal Distance             : 3.22 m
+Light Value                     : 3.3
+Lens ID                         : iPhone 15 back dual wide camera 5.96mm f/1.6

@@ -1,0 +1,78 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0008.png
+Directory                       : .
+File Size                       : 1096 kB
+File Modification Date/Time     : 2026:05:01 01:47:52-05:00
+File Access Date/Time           : 2026:05:01 22:24:04-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:41-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 1170
+Image Height                    : 1560
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Profile Name                    : ICC Profile
+---- ICC-header ----
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+---- ICC_Profile ----
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+---- IFD0 ----
+Image Description               : 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
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+---- ExifIFD ----
+Exif Version                    : 0221
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 1170
+Exif Image Height               : 1560
+Scene Capture Type              : Standard
+---- IFD1 ----
+Compression                     : JPEG (old-style)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Thumbnail Offset                : 4019
+Thumbnail Length                : 7790
+Thumbnail Image                 : (Binary data 7790 bytes, use -b option to extract)
+---- Composite ----
+Image Size                      : 1170x1560
+Megapixels                      : 1.8

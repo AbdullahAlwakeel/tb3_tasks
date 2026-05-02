@@ -1,0 +1,54 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0007.png
+Directory                       : .
+File Size                       : 143 kB
+File Modification Date/Time     : 2026:05:01 01:47:52-05:00
+File Access Date/Time           : 2026:05:01 22:23:55-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:41-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 300
+Image Height                    : 241
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Profile Name                    : ICC Profile
+---- ICC-header ----
+Profile CMM Type                : Adobe Systems Inc.
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2001:08:08 08:29:52
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : none
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Adobe Systems Inc.
+Profile ID                      : 0
+---- ICC_Profile ----
+Profile Copyright               : (c) 2001 Adobe Systems Inc.
+Profile Description             : Corbis RGB
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Tone Reproduction Curve     : (Binary data 14 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 14 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 14 bytes, use -b option to extract)
+Red Matrix Column               : 0.44553 0.2081 0.02887
+Green Matrix Column             : 0.38095 0.73355 0.10869
+Blue Matrix Column              : 0.13773 0.05835 0.68735
+---- Composite ----
+Image Size                      : 300x241
+Megapixels                      : 0.072

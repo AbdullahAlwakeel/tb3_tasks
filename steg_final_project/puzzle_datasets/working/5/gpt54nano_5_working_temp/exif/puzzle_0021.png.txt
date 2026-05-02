@@ -1,0 +1,25 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0021.png
+Directory                       : .
+File Size                       : 1791 kB
+File Modification Date/Time     : 2026:05:01 01:48:08-05:00
+File Access Date/Time           : 2026:05:01 22:23:58-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:41-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 1754
+Image Height                    : 915
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+---- Composite ----
+Image Size                      : 1754x915
+Megapixels                      : 1.6

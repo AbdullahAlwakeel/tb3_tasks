@@ -1,0 +1,49 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+Warning                         : [minor] Trailer data after PNG IEND chunk
+---- System ----
+File Name                       : puzzle_0017.png
+Directory                       : .
+File Size                       : 2.1 MB
+File Modification Date/Time     : 2026:05:01 01:48:01-05:00
+File Access Date/Time           : 2026:05:01 22:23:57-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:41-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 1242
+Image Height                    : 2208
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+---- IFD0 ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+---- ExifIFD ----
+Exif Version                    : 0221
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 1242
+Exif Image Height               : 2208
+Scene Capture Type              : Standard
+---- IFD1 ----
+Compression                     : JPEG (old-style)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Thumbnail Offset                : 286
+Thumbnail Length                : 16463
+Thumbnail Image                 : (Binary data 16463 bytes, use -b option to extract)
+---- Composite ----
+Image Size                      : 1242x2208
+Megapixels                      : 2.7

@@ -1,0 +1,157 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0019.png
+Directory                       : .
+File Size                       : 9.4 MB
+File Modification Date/Time     : 2026:05:01 01:48:06-05:00
+File Access Date/Time           : 2026:05:01 22:23:57-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:41-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 4032
+Image Height                    : 3024
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Profile Name                    : ICC Profile
+---- ICC-header ----
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:01:01 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ecfda38e388547c36db4bd4f7ada182f
+---- ICC_Profile ----
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2022
+Media White Point               : 0.96419 1 0.82489
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+---- IFD0 ----
+Make                            : Apple
+Camera Model Name               : iPhone 12 Pro Max
+Orientation                     : Rotate 90 CW
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 14.4
+Modify Date                     : 2021:03:15 12:49:00
+Host Computer                   : iPhone 12 Pro Max
+Y Cb Cr Positioning             : Centered
+---- ExifIFD ----
+Exposure Time                   : 1/59
+F Number                        : 1.6
+Exposure Program                : Program AE
+ISO                             : 500
+Exif Version                    : 0232
+Date/Time Original              : 2021:03:15 12:49:00
+Create Date                     : 2021:03:15 12:49:00
+Offset Time                     : +03:00
+Offset Time Original            : +03:00
+Offset Time Digitized           : +03:00
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/59
+Aperture Value                  : 1.6
+Brightness Value                : 0.4546095653
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 5.1 mm
+Subject Area                    : 2002 1503 2213 1327
+Sub Sec Time Original           : 752
+Sub Sec Time Digitized          : 752
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 4032
+Exif Image Height               : 3024
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 26 mm
+Scene Capture Type              : Standard
+Lens Info                       : 1.539999962-7.5mm f/1.6-2.4
+Lens Make                       : Apple
+Lens Model                      : iPhone 12 Pro Max back triple camera 5.1mm f/1.6
+Composite Image                 : General Composite Image
+---- Apple ----
+Maker Note Version              : 12
+Run Time Flags                  : Valid
+Run Time Value                  : 62090446551750
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+AE Stable                       : Yes
+AE Target                       : 177
+AE Average                      : 179
+AF Stable                       : Yes
+Acceleration Vector             : 0.2576858699 -0.969061732 0.0924943164
+Focus Distance Range            : 0.99 - 1.39 m
+Apple 0x000d                    : 0
+Apple 0x000e                    : 4
+Apple 0x0010                    : 1
+Content Identifier              : 749EBA35-7472-4668-AE65-129A035970B7
+Image Capture Type              : Scene
+Live Photo Video Index          : 1112547328
+Image Processing Flags          : [13]
+Photos App Feature Flags        : 0
+Image Capture Request ID        : 520E3096-D679-4E4A-8527-52024713604C
+HDR Headroom                    : 0.8432090282
+AF Performance                  : 14 1 42
+Scene Flags                     : [1], [2], [3], [7], [10], [12]
+Signal To Noise Ratio Type      : 3
+Signal To Noise Ratio           : 32.99298861
+Photo Identifier                : E5320935-F905-4D72-9D18-6E361975BA9B
+Color Temperature               : 3513
+Camera Type                     : Back Normal
+Focus Position                  : 185
+HDR Gain                        : 0.004360617602
+Apple 0x0033                    : 12288
+Apple 0x0034                    : 5
+Apple 0x0035                    : 4
+Apple 0x0036                    : 112
+Apple 0x0037                    : 4
+AF Measured Depth               : 15
+Apple 0x0039                    : 0
+Apple 0x003a                    : 4
+Apple 0x003b                    : 0
+Apple 0x003c                    : 4
+AF Confidence                   : 23
+---- Composite ----
+Run Time Since Power Up         : 17:14:50
+Aperture                        : 1.6
+Image Size                      : 4032x3024
+Megapixels                      : 12.2
+Scale Factor To 35 mm Equivalent: 5.1
+Shutter Speed                   : 1/59
+Create Date                     : 2021:03:15 12:49:00.752+03:00
+Date/Time Original              : 2021:03:15 12:49:00.752+03:00
+Modify Date                     : 2021:03:15 12:49:00+03:00
+Circle Of Confusion             : 0.006 mm
+Field Of View                   : 69.4 deg
+Focal Length 35mm Equiv         : 5.1 mm (35 mm equivalent: 26.0 mm)
+Hyperfocal Distance             : 2.76 m
+Light Value                     : 4.9
+Lens ID                         : iPhone 12 Pro Max back triple camera 5.1mm f/1.6

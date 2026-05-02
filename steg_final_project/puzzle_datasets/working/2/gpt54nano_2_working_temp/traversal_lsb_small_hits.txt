@@ -1,0 +1,5 @@
+puzzle_0015.png	NO
+puzzle_0020.png	NO
+puzzle_0021.png	NO
+puzzle_0022.png	NO
+puzzle_0016.png	NO

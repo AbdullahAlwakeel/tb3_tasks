@@ -1,0 +1,26 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+Warning                         : [minor] Trailer data after PNG IEND chunk
+---- System ----
+File Name                       : puzzle_0015.png
+Directory                       : .
+File Size                       : 48 kB
+File Modification Date/Time     : 2026:05:01 01:47:59-05:00
+File Access Date/Time           : 2026:05:01 22:23:56-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:41-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 300
+Image Height                    : 300
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+---- Composite ----
+Image Size                      : 300x300
+Megapixels                      : 0.090

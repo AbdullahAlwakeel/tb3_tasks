@@ -1,0 +1,2 @@
+puzzle_0003.png	secret{30919bac}	{'channels': 4, 'mask': (3,), 'bit_plane': 0, 'byte_order': 'msb', 'method': 'lsb'}
+puzzle_0013.png	secret{ba4ea0aa}	{'channels': 3, 'mask': (0, 1, 2), 'bit_plane': 0, 'byte_order': 'msb', 'method': 'lsb'}

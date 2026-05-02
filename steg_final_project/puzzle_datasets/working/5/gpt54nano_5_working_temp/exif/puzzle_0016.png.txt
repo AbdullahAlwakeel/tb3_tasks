@@ -1,0 +1,164 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0016.png
+Directory                       : .
+File Size                       : 14 MB
+File Modification Date/Time     : 2026:05:01 01:48:01-05:00
+File Access Date/Time           : 2026:05:01 22:24:04-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:41-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 4032
+Image Height                    : 3024
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Profile Name                    : ICC Profile
+---- ICC-header ----
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:01:01 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ecfda38e388547c36db4bd4f7ada182f
+---- ICC_Profile ----
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2022
+Media White Point               : 0.96419 1 0.82489
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+---- IFD0 ----
+Make                            : Apple
+Camera Model Name               : iPhone 12
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 14.4
+Modify Date                     : 2021:03:17 15:23:19
+Host Computer                   : iPhone 12
+Y Cb Cr Positioning             : Centered
+---- ExifIFD ----
+Exposure Time                   : 1/349
+F Number                        : 1.6
+Exposure Program                : Program AE
+ISO                             : 32
+Exif Version                    : 0232
+Date/Time Original              : 2021:03:17 15:23:19
+Create Date                     : 2021:03:17 15:23:19
+Offset Time                     : +03:00
+Offset Time Original            : +03:00
+Offset Time Digitized           : +03:00
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/349
+Aperture Value                  : 1.6
+Brightness Value                : 6.759746404
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 4.2 mm
+Subject Area                    : 2009 1503 2208 1327
+Sub Sec Time Original           : 589
+Sub Sec Time Digitized          : 589
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 4032
+Exif Image Height               : 3024
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 26 mm
+Scene Capture Type              : Standard
+Lens Info                       : 1.549999952-4.2mm f/1.6-2.4
+Lens Make                       : Apple
+Lens Model                      : iPhone 12 back dual wide camera 4.2mm f/1.6
+Composite Image                 : General Composite Image
+---- Apple ----
+Maker Note Version              : 12
+Run Time Flags                  : Valid
+Run Time Value                  : 164450315045416
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+AE Stable                       : Yes
+AE Target                       : 205
+AE Average                      : 200
+AF Stable                       : Yes
+Acceleration Vector             : -0.835323572 -0.04037597777 -0.5279271604
+Focus Distance Range            : 0.70 - 0.71 m
+Apple 0x000d                    : 0
+Apple 0x000e                    : 4
+Apple 0x0010                    : 1
+Image Capture Type              : Photo
+Apple 0x0016                    : bplist00_..ARw7+ZYPkoQ9PvlTnRbHwDIXxb2m...[...]
+Live Photo Video Index          : 1112547328
+Image Processing Flags          : [1]
+Quality Hint                    : q900n
+Photos App Feature Flags        : 0
+Image Capture Request ID        : 2E554144-911A-40A7-95C9-F1B2A568F972
+HDR Headroom                    : 1.401323675
+AF Performance                  : 90 1 22
+Scene Flags                     : [1], [2], [7]
+Signal To Noise Ratio Type      : 3
+Signal To Noise Ratio           : 50.79243086
+Apple 0x0028                    : 1
+Photo Identifier                : CEF0149F-E02F-47E3-8089-BA5309C5A9DD
+Color Temperature               : 4659
+Camera Type                     : Back Normal
+Focus Position                  : 56
+HDR Gain                        : 7.873520192e-06
+Apple 0x0033                    : 4096
+Apple 0x0034                    : 4
+Apple 0x0035                    : 3
+Apple 0x0036                    : 10737
+Apple 0x0037                    : 4
+Apple 0x003a                    : 4
+Apple 0x003b                    : 0
+Apple 0x003c                    : 4
+---- IFD1 ----
+Compression                     : JPEG (old-style)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Thumbnail Offset                : 2288
+Thumbnail Length                : 9120
+Thumbnail Image                 : (Binary data 9120 bytes, use -b option to extract)
+---- Composite ----
+Run Time Since Power Up         : 1 days 21:40:50
+Aperture                        : 1.6
+Image Size                      : 4032x3024
+Megapixels                      : 12.2
+Scale Factor To 35 mm Equivalent: 6.2
+Shutter Speed                   : 1/349
+Create Date                     : 2021:03:17 15:23:19.589+03:00
+Date/Time Original              : 2021:03:17 15:23:19.589+03:00
+Modify Date                     : 2021:03:17 15:23:19+03:00
+Circle Of Confusion             : 0.005 mm
+Field Of View                   : 69.4 deg
+Focal Length 35mm Equiv         : 4.2 mm (35 mm equivalent: 26.0 mm)
+Hyperfocal Distance             : 2.27 m
+Light Value                     : 11.4
+Lens ID                         : iPhone 12 back dual wide camera 4.2mm f/1.6

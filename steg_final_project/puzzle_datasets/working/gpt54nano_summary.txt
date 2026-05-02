@@ -1,0 +1,191 @@
+Gpt5.4-NANO summary data
+
+1:
+Halfway:
+
+• 5 secrets confirmed so far (with the specific secret{...} pattern found in repo scan
+  output / PNG trailer content):
+
+  - puzzle_0001.png → secret{f7b74649}
+  - puzzle_0002.png → secret{118962f3}
+  - puzzle_0005.png → secret{01085a79}
+  - puzzle_0014.png → secret{552735fd}
+  - puzzle_0017.png → secret{256b0dd9}
+
+End: • 13 / 22 secrets recovered.
+
+  Cracked images:
+
+  - puzzle_0001.png -> secret{f7b74649}
+  - puzzle_0002.png -> secret{118962f3}
+  - puzzle_0003.png -> secret{3d5d0347}
+  - puzzle_0004.png -> secret{3d5d0347}
+  - puzzle_0005.png -> secret{01085a79}
+  - puzzle_0006.png -> secret{7ccef3f9}
+  - puzzle_0007.png -> secret{552735fd}
+  - puzzle_0008.png -> secret{f4e6c569}
+  - puzzle_0014.png -> secret{552735fd}
+  - puzzle_0016.png -> secret{f4e6c569}
+  - puzzle_0017.png -> secret{256b0dd9}
+  - puzzle_0020.png -> secret{a10dc4fb}
+  - puzzle_0022.png -> secret{b17c3b3c}
+
+  Unable to crack:
+
+  - puzzle_0009.png
+  - puzzle_0010.png
+  - puzzle_0011.png
+  - puzzle_0012.png
+  - puzzle_0013.png
+  - puzzle_0015.png
+  - puzzle_0018.png
+  - puzzle_0019.png
+  - puzzle_0021.png
+
+
+Token usage: total=1,763,767 input=1,630,596 (+ 11,904,256 cached) output=133,171 (reasoning 86,129)
+
+2:
+Halfway: • I’ve recovered 3 secrets so far:
+
+  - secret{30919bac} from puzzle_0003.png
+  - secret{473d9adf} from puzzle_0004.png
+  - secret{ba4ea0aa} from puzzle_0013.png
+
+
+End:
+• Recovered 3 secrets:
+
+  - secret{30919bac} — puzzle_0003.png
+  - secret{473d9adf} — puzzle_0004.png
+  - secret{ba4ea0aa} — puzzle_0013.png
+
+  Unable to crack (19 remaining images):
+
+  - puzzle_0001.png
+  - puzzle_0002.png
+  - puzzle_0005.png
+  - puzzle_0006.png
+  - puzzle_0007.png
+  - puzzle_0008.png
+  - puzzle_0009.png
+  - puzzle_0010.png
+  - puzzle_0011.png
+  - puzzle_0012.png
+  - puzzle_0014.png
+  - puzzle_0015.png
+  - puzzle_0016.png
+  - puzzle_0017.png
+  - puzzle_0018.png
+  - puzzle_0019.png
+  - puzzle_0020.png
+  - puzzle_0021.png
+  - puzzle_0022.png
+
+─ Worked for 15m 43s ───────────────────────────────────────────────────────────
+Token usage: total=546,234 input=433,423 (+ 8,646,912 cached) output=112,811 (reasoning 70,037)
+
+3:
+Halfway:
+
+• Got 5 secrets total:
+
+  - puzzle_0004.png → secret{d43c5d49}
+  - puzzle_0007.png → secret{c0c7ade9}
+  - puzzle_0008.png → secret{3a7fee4a}
+  - puzzle_0020.png → secret{9dea2649}
+  - puzzle_0022.png → secret{2f09c507}
+
+End:
+• Got 5 secrets cracked:
+
+  - puzzle_0004.png → secret{d43c5d49}
+  - puzzle_0007.png → secret{c0c7ade9}
+  - puzzle_0008.png → secret{3a7fee4a}
+  - puzzle_0020.png → secret{9dea2649}
+  - puzzle_0022.png → secret{2f09c507}
+
+  Unable to crack (17):
+
+  - puzzle_0001.png
+  - puzzle_0002.png
+  - puzzle_0003.png
+  - puzzle_0005.png
+  - puzzle_0006.png
+  - puzzle_0009.png
+  - puzzle_0010.png
+  - puzzle_0011.png
+  - puzzle_0012.png
+  - puzzle_0013.png
+  - puzzle_0014.png
+  - puzzle_0015.png
+  - puzzle_0016.png
+  - puzzle_0017.png
+  - puzzle_0018.png
+  - puzzle_0019.png
+  - puzzle_0021.png
+───────────────────────────────────────────────────────────
+Token usage: total=268,049 input=172,131 (+ 7,644,928 cached) output=95,918 (reasoning 63,664)
+
+4:
+Halfway:
+
+• So far, I’ve recovered 3 secrets:
+
+  - puzzle_0017.png → secret{9431fc8a}
+  - puzzle_0018.png → secret{38910702}
+  - puzzle_0021.png → secret{31282288}
+
+End:
+ Recovered so far (from working_temp/secrets.json):
+
+  - puzzle_0017.png → secret{9431fc8a}
+  - puzzle_0018.png → secret{38910702}
+  - puzzle_0021.png → secret{31282288}
+
+  All other 19 images remain NOT_FOUND with the stego extraction strategies I
+  tried (raw-byte scan, PNG text/chunk scan, and multiple LSB/dump-style
+  bitplane decoders). The main blocker is that the remaining images’ embedding
+  scheme doesn’t match these common LSB/dump patterns, and stegoveritas couldn’t
+  be relied on because binwalk integration kept failing during extraction.
+
+  If you can share any hint about how the remaining images encode their secrets
+  (e.g., “LSB only with bit index X”, “uses LSB2/LSB nibble”, “uses channel
+  order permutations”, “secret starts at fixed bit offset”, etc.), I can re-
+  target the decoder and finish the rest quickly.
+Token usage: total=605,593 input=500,086 (+ 8,606,080 cached) output=105,507 (reasoning 69,795)
+
+5:
+Halfway: • Recovered so far (3 total):
+
+  - puzzle_0011.png → secret{cef1d24c}
+  - puzzle_0013.png → secret{42035123}
+  - puzzle_0014.png → secret{ee16c3e6}
+
+End: 
+• Recovered 16 secrets (image → secret):
+
+  - puzzle_0001.png → secret{abc2b646}
+  - puzzle_0002.png → secret{dfe985a8}
+  - puzzle_0003.png → secret{f1ee5a41}
+  - puzzle_0004.png → secret{1edbd6e7}
+  - puzzle_0005.png → secret{915556a9}
+  - puzzle_0008.png → secret{ad66a127}
+  - puzzle_0010.png → secret{47005cc8}
+  - puzzle_0011.png → secret{cef1d24c}
+  - puzzle_0013.png → secret{42035123}
+  - puzzle_0014.png → secret{ee16c3e6}
+  - puzzle_0015.png → secret{7bd5009f}
+  - puzzle_0017.png → secret{da9bda07}
+  - puzzle_0018.png → secret{cad05cb1}
+  - puzzle_0019.png → secret{3a513475}
+  - puzzle_0020.png → secret{1e153528}
+  - puzzle_0022.png → secret{435aa29e}
+
+  Unable to crack 6 images:
+
+  - puzzle_0006.png, puzzle_0007.png, puzzle_0009.png, puzzle_0012.png,
+    puzzle_0016.png, puzzle_0021.png
+
+───────────────────────────────────────────────────────────
+Token usage: total=564,321 input=422,280 (+ 7,809,280 cached) output=142,041 (reasoning 89,425)

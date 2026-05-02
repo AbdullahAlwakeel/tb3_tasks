@@ -1,0 +1,25 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0006.png
+Directory                       : .
+File Size                       : 1487 kB
+File Modification Date/Time     : 2026:05:01 01:47:52-05:00
+File Access Date/Time           : 2026:05:01 22:24:03-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:41-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 1400
+Image Height                    : 1434
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+---- Composite ----
+Image Size                      : 1400x1434
+Megapixels                      : 2.0

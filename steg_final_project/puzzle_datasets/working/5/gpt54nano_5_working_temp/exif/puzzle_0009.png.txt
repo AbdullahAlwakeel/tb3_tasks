@@ -1,0 +1,173 @@
+---- ExifTool ----
+ExifTool Version Number         : 13.55
+---- System ----
+File Name                       : puzzle_0009.png
+Directory                       : .
+File Size                       : 33 MB
+File Modification Date/Time     : 2026:05:01 01:47:56-05:00
+File Access Date/Time           : 2026:05:01 22:23:55-05:00
+File Inode Change Date/Time     : 2026:05:01 01:53:41-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Exif Byte Order                 : Big-endian (Motorola, MM)
+---- PNG ----
+Image Width                     : 4154
+Image Height                    : 5540
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Profile Name                    : ICC Profile
+---- ICC-header ----
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:01:01 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ecfda38e388547c36db4bd4f7ada182f
+---- ICC_Profile ----
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2022
+Media White Point               : 0.96419 1 0.82489
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+---- IFD0 ----
+Make                            : Apple
+Camera Model Name               : iPhone 15
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 17.6.1
+Modify Date                     : 2024:09:20 15:13:24
+Host Computer                   : iPhone 15
+Y Cb Cr Positioning             : Centered
+---- ExifIFD ----
+Exposure Time                   : 1/2933
+F Number                        : 1.6
+Exposure Program                : Program AE
+ISO                             : 50
+Exif Version                    : 0232
+Date/Time Original              : 2024:09:20 15:13:24
+Create Date                     : 2024:09:20 15:13:24
+Offset Time                     : -05:00
+Offset Time Original            : -05:00
+Offset Time Digitized           : -05:00
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/2933
+Aperture Value                  : 1.6
+Brightness Value                : 9.410105695
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 6.0 mm
+Subject Area                    : 2846 2130 3129 1880
+Sub Sec Time Original           : 480
+Sub Sec Time Digitized          : 480
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 4154
+Exif Image Height               : 5540
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 26 mm
+Scene Capture Type              : Standard
+Lens Info                       : 1.539999962-5.960000038mm f/1.6-2.4
+Lens Make                       : Apple
+Lens Model                      : iPhone 15 back dual wide camera 5.96mm f/1.6
+Composite Image                 : General Composite Image
+---- Apple ----
+Maker Note Version              : 14
+Run Time Flags                  : Valid
+Run Time Value                  : 485990123837666
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+AE Stable                       : Yes
+AE Target                       : 169
+AE Average                      : 174
+AF Stable                       : Yes
+Acceleration Vector             : 0.009797109287 -0.9693543918 0.1861731409
+Focus Distance Range            : 0.18 - 1.77 m
+Apple 0x000d                    : 0
+Apple 0x000e                    : 4
+Apple 0x0010                    : 1
+Content Identifier              : C83799B8-785F-430A-A95D-DCC8FCC55E92
+Image Capture Type              : Scene
+Apple 0x0016                    : bplist00_..AVnZS9382ukl9OEk8g7Dm9MjSSzW...[...]
+Live Photo Video Index          : 8595185700
+Image Processing Flags          : [1], [13], [17]
+Quality Hint                    : q750n
+Photos App Feature Flags        : 0
+Image Capture Request ID        : 882912BC-3C64-4559-8903-BCECDEA1A3A4
+HDR Headroom                    : 1.00999999
+AF Performance                  : 510 1 47
+Scene Flags                     : [1], [2], [7], [12], [20], [21], [23]
+Signal To Noise Ratio Type      : 3
+Signal To Noise Ratio           : 61.04526902
+Photo Identifier                : B7FF696D-550B-4F68-ABDC-099F58D18D33
+Color Temperature               : 5291
+Camera Type                     : Back Normal
+Focus Position                  : 44
+HDR Gain                        : 0.003030984897
+Apple 0x0036                    : 43976
+Apple 0x0037                    : 4
+Apple 0x003a                    : 0
+Apple 0x003b                    : 0
+Apple 0x003c                    : 4
+Green Ghost Mitigation Status   : 0
+Semantic Style                  : {_0=1,_1=0,_2=0,_3=0}
+Apple 0x0043                    : 0
+Apple 0x0044                    : 0
+Apple 0x0045                    : 0
+Apple 0x0046                    : 0
+Apple 0x004a                    : 2
+Apple 0x004d                    : 37.17608641
+Apple 0x004e                    : {_1=3,_2=[]}
+Apple 0x004f                    : 0
+Apple 0x0052                    : 0
+Apple 0x0053                    : 1
+---- IFD1 ----
+Compression                     : JPEG (old-style)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Thumbnail Offset                : 2696
+Thumbnail Length                : 10904
+Thumbnail Image                 : (Binary data 10904 bytes, use -b option to extract)
+---- Composite ----
+Run Time Since Power Up         : 5 days 14:59:50
+Aperture                        : 1.6
+Image Size                      : 4154x5540
+Megapixels                      : 23.0
+Scale Factor To 35 mm Equivalent: 4.4
+Shutter Speed                   : 1/2933
+Create Date                     : 2024:09:20 15:13:24.480-05:00
+Date/Time Original              : 2024:09:20 15:13:24.480-05:00
+Modify Date                     : 2024:09:20 15:13:24-05:00
+Circle Of Confusion             : 0.007 mm
+Field Of View                   : 69.4 deg
+Focal Length 35mm Equiv         : 6.0 mm (35 mm equivalent: 26.0 mm)
+Hyperfocal Distance             : 3.22 m
+Light Value                     : 13.9
+Lens ID                         : iPhone 15 back dual wide camera 5.96mm f/1.6
